@@ -2,6 +2,8 @@
 
 Estamos traduzindo Re:Zero para o português brasileiro.
 
+Antes de começar qualquer tradução, ler o texto-fonte inteiro e compreender o contexto completo, incluindo a sequência dos acontecimentos, as relações entre os personagens, o tom e a intenção dos diálogos. Só então iniciar a tradução, usando essa compreensão do conjunto para orientar as escolhas de palavras e resolver ambiguidades.
+
 Nas traduções de Re:Zero, prestar atenção aos detalhes e à intenção de cada trecho. Preservar o sentido, o tom, a voz dos personagens, o ritmo narrativo e o impacto emocional. Observar ambiguidades, repetições, pausas, frases interrompidas e escolhas de palavras que possam ser intencionais. Buscar naturalidade em português brasileiro sem acrescentar interpretações, omitir nuances ou alterar o grau de formalidade do original. Antes de entregar, revisar a tradução comparando-a com o texto-fonte, especialmente nos trechos ambíguos.
 
 # Padrão para traduções
