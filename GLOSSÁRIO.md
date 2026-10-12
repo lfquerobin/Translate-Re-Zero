@@ -20,4 +20,13 @@ Referência inicial baseada no prólogo e nos capítulos 1 a 5 do Arco 1. Amplia
 | Yorishiro | Yorishiro | Manter a forma usada na fonte inglesa e sua nota explicativa. |
 | Zipangu | Zipangu | Referência cultural; manter a nota da fonte. |
 | Giant Rat | Rato Gigante | Denominação usada na fala do capítulo 2. |
+| Felt | Felt | Nome apresentado no capítulo 6. |
+| Bocco fruit | fruta Bocco | Fruta que estimula a mana e pode acelerar a cicatrização; capítulo 6. |
+| gate | portal | ゲート: passagem de mana no corpo; capítulo 6. |
+| Od | Od | オド: manter o termo sem antecipar explicações; capítulo 6. |
+| loot house | depósito de mercadorias roubadas | 盗品蔵: lugar onde os produtos roubados são guardados e reunidos para revenda; capítulo 6. |
+| lagmite | lagmita | ラグマイト: mineral que emite luz após uma batida; capítulo 6. |
+| slums | bairros pobres | Forma usada nos capítulos 5 e 6. |
+| appa | appa | Fruta semelhante à maçã; nome apresentado no capítulo 7 da fonte inglesa. O japonês usa リンガ (ringa); manter a nomenclatura da fonte inglesa, como adaptação de nome. |
+| nata | nata | Ferramenta de corte japonesa (鉈); mantida conforme o capítulo 3. |
 
