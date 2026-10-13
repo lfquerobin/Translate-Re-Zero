@@ -29,4 +29,8 @@ Referência inicial baseada no prólogo e nos capítulos 1 a 5 do Arco 1. Amplia
 | slums | bairros pobres | Forma usada nos capítulos 5 e 6. |
 | appa | appa | Fruta semelhante à maçã; nome apresentado no capítulo 7 da fonte inglesa. O japonês usa リンガ (ringa); manter a nomenclatura da fonte inglesa, como adaptação de nome. |
 | nata | nata | Ferramenta de corte japonesa (鉈); mantida conforme o capítulo 3. |
+| Rom / Old Man Rom | Rom / Velho Rom | Nome e forma de tratamento apresentados no capítulo 8; “velho” conforme o diálogo. |
+| corn potage flavor | sabor creme de milho | Salgadinho de Subaru; escolha já usada no capítulo 1. |
+| duplication magic | magia de duplicação | Magia descrita no capítulo 8. |
+| Meteor / meteor | Meteoro / meteoro | Adaptação deliberada de SNUserTL, mantida junto às notas da fonte no capítulo 8; o japonês deste capítulo usa 魔器. |
 
