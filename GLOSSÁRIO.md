@@ -33,4 +33,9 @@ Referência inicial baseada no prólogo e nos capítulos 1 a 5 do Arco 1. Amplia
 | corn potage flavor | sabor creme de milho | Salgadinho de Subaru; escolha já usada no capítulo 1. |
 | duplication magic | magia de duplicação | Magia descrita no capítulo 8. |
 | Meteor / meteor | Meteoro / meteoro | Adaptação deliberada de SNUserTL, mantida junto às notas da fonte no capítulo 8; o japonês deste capítulo usa 魔器. |
+| holy gold coin | moeda de ouro sagrado | 聖金貨: feita de ouro sagrado (聖金), material mais raro; capítulo 9. Dez equivalem a aproximadamente vinte moedas de ouro comuns. |
+| giant / giants | gigante / gigantes | No capítulo 9, 巨人族 designa o povo de Rom; “gigantes” nas falas. |
+| Elsa | Elsa | Nome apresentado no capítulo 10. |
+| kukri knife | faca kukri | ククリナイフ: arma de Elsa, com lâmina curvada para dentro; capítulo 10. |
+| Uchizori | Uchizori | 内反り: curvatura para dentro, na descrição da faca kukri; manter a forma da fonte inglesa no capítulo 10. |
 
