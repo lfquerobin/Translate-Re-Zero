@@ -45,6 +45,14 @@ Usar traduções anteriores como referência, sem reproduzir automaticamente pos
 
 Manter um glossário com o termo original, a tradução adotada e, quando necessário, uma breve nota de contexto. Não criar ou alterar termos recorrentes sem verificar o uso existente no projeto.
 
+Registrar também no glossário o termo japonês e a fonte da verificação conforme forem consultados durante a tradução dos capítulos. Identificar a versão da obra e o capítulo ou a seção consultada; incluir o link quando disponível. Não preencher dados por suposição.
+
+# Referências auxiliares de tradução
+
+Consultar o Manual de Estilo da WCT, disponível em `LINKS.md`, como referência auxiliar para terminologia japonesa, formas de tratamento e peculiaridades de fala. Distinguir observações sobre o original de convenções editoriais da tradução inglesa. Verificar a aplicação ao capítulo e à versão em trabalho, sem importar automaticamente formatação, regionalismos ou informações de arcos posteriores. As decisões devem respeitar o texto-fonte e as orientações deste projeto.
+
+Usar o índice de erros da light novel em inglês, também disponível em `LINKS.md`, para localizar possíveis problemas de tradução. Antes de aplicar uma correção, conferir o original japonês e a versão correspondente; um erro apontado na light novel não comprova um erro na web novel. Registrar decisões confirmadas conforme as orientações sobre ambiguidades e informações implícitas.
+
 # Voz dos personagens e relações
 
 Preservar o modo de falar de cada personagem e as mudanças de registro conforme o interlocutor e a situação. Considerar pronomes, formas de tratamento, vocabulário, sarcasmo, hesitações e grau de intimidade.
