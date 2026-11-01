@@ -4,13 +4,15 @@ Estamos traduzindo Re:Zero para o português brasileiro.
 
 Antes de começar qualquer tradução, ler o texto-fonte inteiro e compreender o contexto completo, incluindo a sequência dos acontecimentos, as relações entre os personagens, o tom e a intenção dos diálogos. Só então iniciar a tradução, usando essa compreensão do conjunto para orientar as escolhas de palavras e resolver ambiguidades.
 
+Sempre consultar e ler o original japonês do mesmo capítulo e da mesma versão da obra, mesmo quando a tradução partir do inglês e não houver dúvidas aparentes. Validar a tradução em português comparando o capítulo inteiro com o original japonês e, quando houver, com a fonte intermediária inglesa; não limitar o cotejo aos trechos suspeitos. Se o original não puder ser localizado ou acessado, informar essa limitação e quais partes não puderam ser validadas, sem apresentar a verificação como concluída.
+
 Nas traduções de Re:Zero, prestar atenção aos detalhes e à intenção de cada trecho. Preservar o sentido, o tom, a voz dos personagens, o ritmo narrativo e o impacto emocional. Observar ambiguidades, repetições, pausas, frases interrompidas e escolhas de palavras que possam ser intencionais. Buscar naturalidade em português brasileiro sem acrescentar interpretações, omitir nuances ou alterar o grau de formalidade do original. Antes de entregar, revisar a tradução comparando-a com o texto-fonte, especialmente nos trechos ambíguos.
 
 # Padrão para traduções
 
 Nas escolhas de tradução, priorizar a preservação do sentido, das ambiguidades intencionais e da voz do narrador e dos personagens; buscar naturalidade e ritmo dentro desses limites. Uma frase fluida não pode alterar a informação, mas fidelidade não exige copiar a sintaxe inglesa. Quando houver tensão entre esses objetivos, reformular e comparar novamente com a fonte, em vez de sacrificar automaticamente um deles.
 
-Quando houver dificuldade para traduzir um trecho com precisão ou quando o resultado soar estranho, pesquisar mais a fundo antes de finalizar. Consultar, quando necessário, o original japonês, o contexto da obra e fontes sobre expressões, referências culturais e trocadilhos, em vez de se contentar com uma tradução pouco natural ou de sentido incerto. Usar a pesquisa para preservar o sentido e a intenção do texto, sem inventar interpretações.
+Quando houver dificuldade para traduzir um trecho com precisão ou quando o resultado soar estranho, aprofundar a consulta obrigatória ao original japonês e pesquisar, conforme necessário, o contexto da obra e fontes sobre expressões, referências culturais e trocadilhos, em vez de se contentar com uma tradução pouco natural ou de sentido incerto. Usar a pesquisa para preservar o sentido e a intenção do texto, sem inventar interpretações.
 
 Sempre salvar o texto integral da tradução, incluindo o cabeçalho, em um arquivo no caminho correspondente dentro de `C:\Users\luizh\OneDrive\Documentos\Traduções\ReZero`, na pasta referente ao arco/fase do capítulo. Seguir a organização e o formato dos arquivos existentes nessa pasta; entregar a tradução no chat não substitui salvá-la no respectivo caminho.
 
@@ -47,6 +49,10 @@ Manter um glossário com o termo original, a tradução adotada e, quando necess
 
 Registrar também no glossário o termo japonês e a fonte da verificação conforme forem consultados durante a tradução dos capítulos. Identificar a versão da obra e o capítulo ou a seção consultada; incluir o link quando disponível. Não preencher dados por suposição.
 
+Em toda tradução ou revisão de capítulo, revisar e atualizar `GLOSSÁRIO.md` antes da entrega. Registrar o que for importante para os próximos capítulos: termos e traduções adotadas, formas de tratamento, particularidades de voz, ambiguidades relevantes e decisões confirmadas no cotejo com o original. Consultar as entradas existentes antes de acrescentar informações, evitando duplicações.
+
+Atualizar e corrigir as entradas existentes quando a verificação trouxer informações novas ou revelar erros, inconsistências ou lacunas. Completar os termos japoneses, o contexto e as fontes que tiverem sido efetivamente verificados. Ao alterar uma escolha anterior, registrar brevemente o motivo e a referência que fundamenta a mudança, identificando eventuais capítulos anteriores que precisem de revisão. Distinguir informações confirmadas de dúvidas pendentes e de referências auxiliares ainda não conferidas no capítulo; não transformar hipóteses em regras nem acrescentar dados por suposição.
+
 # Referências auxiliares de tradução
 
 Consultar o Manual de Estilo da WCT, disponível em `LINKS.md`, como referência auxiliar para terminologia japonesa, formas de tratamento e peculiaridades de fala. Distinguir observações sobre o original de convenções editoriais da tradução inglesa. Verificar a aplicação ao capítulo e à versão em trabalho, sem importar automaticamente formatação, regionalismos ou informações de arcos posteriores. As decisões devem respeitar o texto-fonte e as orientações deste projeto.
@@ -65,7 +71,7 @@ Distinguir dificuldades de compreensão de ambiguidades intencionais. Investigar
 
 Não explicitar sujeitos, relações, intenções ou informações que o original deixa indefinidos, especialmente quando isso puder antecipar uma revelação ou eliminar uma interpretação possível.
 
-Quando o texto-fonte estiver em inglês, consultar o japonês nos trechos em que houver sinais de ambiguidade, inconsistência ou perda de nuance, quando o original estiver disponível. Não presumir que toda escolha da tradução intermediária corresponde diretamente ao japonês.
+Quando o texto-fonte estiver em inglês, realizar o cotejo integral obrigatório com o japonês e aprofundar a investigação dos trechos em que houver sinais de ambiguidade, inconsistência ou perda de nuance. Não presumir que toda escolha da tradução intermediária corresponde diretamente ao japonês.
 
 Quando a comparação com o japonês confirmar um erro na tradução inglesa, corrigir o português de acordo com o original e registrar brevemente a decisão fora do capítulo, sem acrescentar explicações à narrativa. O registro pode ser feito na mensagem de entrega; não criar um relatório separado sem solicitação. Distinguir erros confirmados de adaptações deliberadas e de interpretações ainda incertas. Verificar se o texto japonês consultado corresponde ao mesmo capítulo e à mesma versão da obra.
 
@@ -73,7 +79,7 @@ Quando a comparação com o japonês confirmar um erro na tradução inglesa, co
 
 Revisar a tradução em duas etapas:
 
-1. Comparar com o texto-fonte, verificando omissões, acréscimos, negações, sujeitos, referentes dos pronomes, sequência das ações, intensidade das afirmações e marcações de diálogo.
+1. Comparar integralmente com o original japonês e com o texto-fonte intermediário, quando houver, verificando omissões, acréscimos, negações, sujeitos, referentes dos pronomes, sequência das ações, intensidade das afirmações e marcações de diálogo. Preservar o padrão de marcações da fonte enviada pelo usuário, conforme as regras do projeto.
 2. Ler o texto em português de forma contínua, verificando naturalidade, clareza, ritmo e coerência da voz dos personagens.
 
 Conferir relações lógicas e referentes. Verificar quem pratica cada ação, a quem cada pronome se refere e como as frases se relacionam: causa, consequência, contraste, condição ou sequência temporal. Não reproduzir conectivos da fonte mecanicamente quando a relação puder ser expressa de modo mais natural em português. Esclarecer referentes apenas quando a fonte permitir, preservando as informações que ela deixa indefinidas.
@@ -93,3 +99,5 @@ Não inserir explicações ou notas dentro do texto traduzido sem solicitação 
 Antes de entregar, conferir se todos os parágrafos e separadores do texto-fonte estão presentes e na ordem correta, sem trechos duplicados ou truncados.
 
 Verificar se o arquivo salvo contém a versão final revisada, com o cabeçalho completo, e se o título corresponde ao nome do arquivo, observada a exceção das aspas retas no Windows.
+
+Conferir também se `GLOSSÁRIO.md` contém as atualizações necessárias decorrentes da tradução e da validação do capítulo, com as fontes das verificações realizadas.
