@@ -1,103 +1,82 @@
-# Contexto do projeto
+# Contexto e prioridades
 
-Estamos traduzindo Re:Zero para o português brasileiro.
+Estamos traduzindo Re:Zero para o português brasileiro. Preservar sentido, ambiguidades intencionais, voz, ritmo e impacto emocional, buscando naturalidade sem acrescentar interpretações nem omitir nuances. Fidelidade não exige copiar a sintaxe inglesa: quando uma solução soar estranha, reformular e comparar de novo com a fonte.
 
-Antes de começar qualquer tradução, ler o texto-fonte inteiro e compreender o contexto completo, incluindo a sequência dos acontecimentos, as relações entre os personagens, o tom e a intenção dos diálogos. Só então iniciar a tradução, usando essa compreensão do conjunto para orientar as escolhas de palavras e resolver ambiguidades.
+## Sequência de trabalho
 
-Sempre consultar e ler o original japonês do mesmo capítulo e da mesma versão da obra, mesmo quando a tradução partir do inglês e não houver dúvidas aparentes. Validar a tradução em português comparando o capítulo inteiro com o original japonês e, quando houver, com a fonte intermediária inglesa; não limitar o cotejo aos trechos suspeitos. Se o original não puder ser localizado ou acessado, informar essa limitação e quais partes não puderam ser validadas, sem apresentar a verificação como concluída.
+1. Consultar os capítulos anteriores, `GLOSSÁRIO.md`, `VOZES.md`, `ACOMPANHAMENTO.md` e `PENDÊNCIAS.md`. As traduções anteriores são referências, não justificativas para repetir erros.
+2. Localizar o japonês do mesmo capítulo e da mesma versão da obra e a fonte intermediária, quando houver. Ler os textos-fonte inteiros antes de traduzir, compreendendo acontecimentos, relações, tom e intenção dos diálogos.
+3. Traduzir ou revisar seguindo as regras abaixo. Investigar dificuldades de compreensão; preservar indefinições intencionais.
+4. Fazer as duas etapas de revisão descritas adiante, atualizar o glossário, as referências de voz quando pertinente e o acompanhamento.
+5. Salvar a versão integral no caminho correto, executar `python tools/verificar_projeto.py --atualizar-indices` e conferir os arquivos gerados antes da entrega. O verificador não substitui a leitura nem autoriza marcar uma revisão como concluída.
 
-Nas traduções de Re:Zero, prestar atenção aos detalhes e à intenção de cada trecho. Preservar o sentido, o tom, a voz dos personagens, o ritmo narrativo e o impacto emocional. Observar ambiguidades, repetições, pausas, frases interrompidas e escolhas de palavras que possam ser intencionais. Buscar naturalidade em português brasileiro sem acrescentar interpretações, omitir nuances ou alterar o grau de formalidade do original. Antes de entregar, revisar a tradução comparando-a com o texto-fonte, especialmente nos trechos ambíguos.
+## Fontes e verificação
 
-# Padrão para traduções
+Sempre ler e consultar o original japonês e validar o capítulo inteiro contra ele, mesmo quando a tradução partir do inglês e não houver dúvidas aparentes. Comparar também com a fonte intermediária disponível. Se o japonês não puder ser localizado ou acessado, informar a limitação, as partes não validadas e manter a etapa pendente no acompanhamento; não declarar cotejo concluído.
 
-Nas escolhas de tradução, priorizar a preservação do sentido, das ambiguidades intencionais e da voz do narrador e dos personagens; buscar naturalidade e ritmo dentro desses limites. Uma frase fluida não pode alterar a informação, mas fidelidade não exige copiar a sintaxe inglesa. Quando houver tensão entre esses objetivos, reformular e comparar novamente com a fonte, em vez de sacrificar automaticamente um deles.
+Não presumir que escolhas da tradução intermediária reproduzem diretamente o japonês. Em caso de ambiguidade, inconsistência, perda de nuance ou resultado pouco natural, aprofundar a pesquisa no original, no contexto da obra e, conforme necessário, em fontes sobre expressões, referências culturais e trocadilhos. Não resolver incertezas inventando interpretações.
 
-Quando houver dificuldade para traduzir um trecho com precisão ou quando o resultado soar estranho, aprofundar a consulta obrigatória ao original japonês e pesquisar, conforme necessário, o contexto da obra e fontes sobre expressões, referências culturais e trocadilhos, em vez de se contentar com uma tradução pouco natural ou de sentido incerto. Usar a pesquisa para preservar o sentido e a intenção do texto, sem inventar interpretações.
+Consultar as referências de `LINKS.md` com os seguintes limites:
 
-Sempre salvar o texto integral da tradução, incluindo o cabeçalho, em um arquivo no caminho correspondente dentro de `C:\Users\luizh\OneDrive\Documentos\Traduções\ReZero`, na pasta referente ao arco/fase do capítulo. Seguir a organização e o formato dos arquivos existentes nessa pasta; entregar a tradução no chat não substitui salvá-la no respectivo caminho.
+- O Manual de Estilo da WCT auxilia na terminologia, nos tratamentos e nas particularidades de fala. Distinguir observações sobre o japonês de convenções editoriais inglesas; conferir a aplicação à versão e ao capítulo em trabalho, sem importar regionalismos, formatação ou revelações de arcos posteriores.
+- O índice de erros da light novel inglesa serve para localizar possíveis problemas. Um erro da light novel não comprova erro da web novel: conferir o japonês e a versão correspondente antes de aplicar uma correção.
 
-Seguir o padrão de marcações presente no texto enviado pelo usuário: preservar aspas, travessões, marcas de pensamento, pausas e interrupções conforme usados no texto-fonte, sem impor outro padrão editorial. Revisar cuidadosamente essas marcações antes de entregar e evitar acrescentar marcas, duplicações como “— ―” ou inconsistências que não existam no original.
+Quando o japonês confirmar um erro no inglês, corrigir o português e registrar brevemente a decisão fora do capítulo, no glossário ou na entrega. Distinguir erro confirmado, adaptação deliberada e interpretação incerta. Não criar relatórios avulsos sem solicitação; os registros permanentes definidos neste projeto fazem parte do acompanhamento autorizado.
 
-Distinguir marcações intencionais de erros tipográficos. É permitido corrigir aspas invertidas, caracteres soltos e duplicações comprovadamente acidentais na fonte, após conferir o contexto e, quando necessário, o original japonês. Não tratar uma marcação incomum como erro apenas por parecer estranha. Se houver dúvida, preservar a marcação e apresentar a questão separadamente, conforme a orientação sobre dúvidas de tradução.
+## Fidelidade, naturalidade e voz
 
-Sempre que o usuário pedir uma tradução, apresentar no início, antes do texto traduzido, o título e o link da fonte, neste formato:
+Preservar pausas, repetições intencionais, hesitações, interrupções, intensidade e grau de formalidade. Não acrescentar gírias, regionalismos, palavrões ou linguagem arcaica sem apoio no original. Considerar o interlocutor e a situação ao escolher pronomes, tratamentos, vocabulário, sarcasmo e intimidade.
+
+Os exemplos de `VOZES.md` são referências contextualizadas, não fórmulas para todas as falas nem provas isoladas de quem fala. Distinguir exemplos conferidos no capítulo de observações auxiliares do manual.
+
+Verificar sujeitos, ações, referentes dos pronomes e relações de causa, consequência, contraste, condição e sequência temporal. Esclarecer referentes apenas quando a fonte permitir. Não explicitar relações, intenções ou informações que ela deixa indefinidas, sobretudo se isso eliminar uma interpretação ou antecipar uma revelação.
+
+Avaliar frases e transições junto das anteriores e seguintes. Evitar literalismos ou soluções burocráticas que destoem do registro, como “a saber” numa passagem informal, sem transformar exemplos em lista de palavras proibidas nem simplificar indiscriminadamente a prosa. Manter construções formais próprias da voz. Nas frases interrompidas, conferir a ligação natural com a continuação ou a fala seguinte, preservando a interrupção.
+
+Corrigir repetições acidentais introduzidas pela tradução; não trocar palavras por sinônimos apenas para variar quando a repetição tiver função narrativa.
+
+## Diálogos e marcações
+
+Nas falas de diálogo em parágrafo próprio, usar `Nome: [fala]`. Substituir apenas os delimitadores externos; preservar citações internas, travessões, pausas e interrupções. Não duplicar a marcação com aspas externas dentro dos colchetes.
+
+**Exceção para fala incorporada à narração:** quando o próprio trecho identifica claramente o falante, manter a fala na mesma posição com os delimitadores originais, sem inserir outro rótulo. Exemplos: `enquanto prosseguia: “Se é assim,”` e `Rom perguntou a Felt, “E a senha?”`. Essa exceção evita construções como `prosseguia: Subaru: [...]`. Não deslocar a fala, criar parágrafo, reescrever a narrativa ou converter uma citação em diálogo independente apenas para aplicar um rótulo. Se uma fala incorporada continuar ambígua, preservar a construção e registrar a pendência fora do capítulo.
+
+Validar as atribuições pela narração, ações, referentes, conversa completa e japonês. Pronomes e peculiaridades de fala são pistas auxiliares, não prova isolada. Não presumir alternância automática: falas consecutivas podem pertencer à mesma pessoa.
+
+Usar somente a identidade que o texto permite reconhecer naquele ponto, respeitando o ponto de vista da cena. Não antecipar nomes verdadeiros, disfarces ou revelações. Se houver apenas uma descrição, usar um rótulo compatível, como `Garota`; preservar nomes provisórios, como `Satella`, enquanto forem o conhecimento disponível. Para falas simultâneas, identificar os participantes confirmados, como `Rom e Felt: [fala]`.
+
+Manter `???: [fala]` tanto para identidade ainda oculta na narrativa quanto para atribuição sem evidência suficiente após a pesquisa. Distinguir os casos no registro interno de `projeto.json`, que gera `PENDÊNCIAS.md`: `anonimato_narrativo` ou `atribuicao_pendente`. Não colocar essa classificação nem hipóteses dentro do capítulo. Registrar cada ocorrência com trecho, motivo e referência; nas pendências, acrescentar as interpretações possíveis e apresentar a dúvida relevante na entrega. Anonimato intencional não bloqueia a conclusão da revisão; dúvida editorial permanece aberta até haver evidência para resolvê-la.
+
+Não confundir pensamento, citação, exemplo ou narração entre aspas com fala pronunciada. Fora das exceções adotadas para identificação de falantes, preservar as marcações da fonte enviada pelo usuário. Evitar caracteres soltos e duplicações como “— ―”. Corrigir aspas invertidas ou duplicações da fonte somente quando comprovadamente acidentais, após conferir contexto e japonês quando necessário. Uma marcação incomum não é automaticamente erro; se houver dúvida, preservá-la e registrá-la separadamente.
+
+## Glossário e registros do projeto
+
+Em toda tradução ou revisão, consultar e atualizar `GLOSSÁRIO.md` antes da entrega. Registrar o que importa para os próximos capítulos: termo original, tradução adotada, japonês efetivamente conferido, contexto, versão, capítulo ou seção e link da verificação. Incluir tratamentos, peculiaridades de voz e decisões relevantes quando pertinente; não preencher dados por suposição nem duplicar entradas.
+
+Corrigir entradas quando a consulta revelar erro, inconsistência, lacuna ou informação nova. Ao mudar uma escolha, explicar brevemente o motivo e a fonte, indicando capítulos anteriores afetados. Separar decisões confirmadas, adaptações deliberadas, dúvidas abertas e referências auxiliares ainda não verificadas. `VOZES.md` reúne exemplos de voz; o glossário pode remetê-los, sem copiar todo o conteúdo.
+
+`projeto.json` é o registro de acompanhamento: caminhos, fontes japonesa e inglesa, versão, etapas de revisão, ocorrências anônimas e variantes terminológicas a verificar. `ACOMPANHAMENTO.md` e `PENDÊNCIAS.md` são vistas geradas desse registro; atualizar os dados e regenerar as vistas, sem manter listas divergentes. Os símbolos nos nomes dos capítulos não substituem as etapas registradas. Não marcar uma etapa como concluída apenas porque um símbolo mudou, o arquivo foi formatado ou o verificador passou.
+
+Registrar somente revisões efetivamente realizadas, com data e escopo. Ao incorporar trabalho anterior, indicar que se trata do registro histórico existente. Alterações de conteúdo exigem rever os trechos afetados contra as fontes; mudanças extensas exigem nova revisão integral. Após mudanças de apresentação, registrar se a releitura contínua final ainda está pendente. Atualizar caminhos no registro quando houver renomeação autorizada, preservando escolhas do usuário.
+
+## Cabeçalho, arquivo e notas
+
+Ao entregar uma tradução, apresentar antes do corpo o cabeçalho completo, com cada linha inteira em negrito:
 
 **Título: <título>**
 **Link: <link da fonte>**
 **Data de publicação: <data de publicação na fonte>**
 **Traduzido por: <crédito de tradução informado pela fonte, indicando o idioma quando necessário>**
 
-Apresentar sempre todas as linhas desse cabeçalho em negrito, incluindo os rótulos e seus valores.
+Não inventar título ou link: solicitar o que faltar. Para data ou crédito ausentes na fonte, indicar que não foram informados. Não confundir autor da obra ou responsável pela postagem com tradutor. A data do japonês não substitui a da tradução intermediária apresentada no cabeçalho.
 
-Ao salvar capítulos, manter no nome do arquivo as mesmas aspas e pontuação do título traduzido no cabeçalho, incluindo aspas internas e externas. Não omitir as aspas no nome do arquivo. Conferir a correspondência entre o título do cabeçalho e o nome do arquivo antes de entregar.
+Sempre salvar o texto integral revisado, com cabeçalho, dentro de `C:\Users\luizh\OneDrive\Documentos\Traduções\ReZero`, na pasta do arco/fase e no formato existente; entregar no chat não substitui salvar. O nome do arquivo deve conservar o título do cabeçalho, suas aspas internas e externas e sua pontuação. No Windows, substituir aspas retas duplas por aspas tipográficas de abertura e fechamento apenas no nome do arquivo, preservando a hierarquia; essa exceção não vale para o corpo.
 
-Como o Windows não permite aspas retas duplas (`"`) em nomes de arquivos, substituí-las por aspas tipográficas de abertura e fechamento (`“ ”`) apenas no nome do arquivo. Preservar as aspas internas e externas e sua hierarquia. Essa exceção não autoriza alterar as marcações do corpo da tradução. Ao conferir a correspondência com o cabeçalho, considerar essa substituição permitida.
+Não inserir novas notas ou explicações na narrativa sem solicitação. Preservar e traduzir as notas que já pertencem à fonte, distinguindo-as de observações novas da revisão. Para dúvida relevante não resolvida, registrar e apresentar fora do capítulo o original e as interpretações possíveis, sem tratar hipótese como certeza.
 
-<texto traduzido>
+## Revisão e entrega
 
-Não inventar título ou link. Se não estiverem disponíveis no contexto ou na fonte fornecida, solicitar os dados que faltam.
+1. **Fidelidade:** comparar integralmente com japonês e fonte intermediária, verificando omissões, acréscimos, negações, sujeitos, referentes, sequência de ações, relações lógicas, intensidade, falantes e marcações. Conferir todos os parágrafos e separadores presentes e em ordem, sem duplicações nem truncamentos; não exigir correspondência mecânica de um parágrafo por idioma.
+2. **Naturalidade:** ler o português continuamente, sem consultar a fonte, verificando clareza, ritmo, transições, repetições e coerência de voz. Depois de reformular um trecho, comparar novamente com a fonte para confirmar fidelidade.
 
-Registrar também a data de publicação e o crédito de tradução da fonte. Não confundir o autor da obra ou quem publicou a postagem com quem traduziu. Não inventar esses dados; se não estiverem disponíveis, indicar que não foram informados na fonte.
-
-# Consistência entre capítulos
-
-Antes de traduzir, consultar os capítulos já traduzidos e eventuais glossários do projeto para manter consistentes nomes, títulos, habilidades, organizações, lugares e termos recorrentes.
-
-Usar traduções anteriores como referência, sem reproduzir automaticamente possíveis erros. Se houver conflito entre uma escolha anterior e o sentido do texto-fonte, investigar e registrar a divergência antes de consolidar uma alteração.
-
-Manter um glossário com o termo original, a tradução adotada e, quando necessário, uma breve nota de contexto. Não criar ou alterar termos recorrentes sem verificar o uso existente no projeto.
-
-Registrar também no glossário o termo japonês e a fonte da verificação conforme forem consultados durante a tradução dos capítulos. Identificar a versão da obra e o capítulo ou a seção consultada; incluir o link quando disponível. Não preencher dados por suposição.
-
-Em toda tradução ou revisão de capítulo, revisar e atualizar `GLOSSÁRIO.md` antes da entrega. Registrar o que for importante para os próximos capítulos: termos e traduções adotadas, formas de tratamento, particularidades de voz, ambiguidades relevantes e decisões confirmadas no cotejo com o original. Consultar as entradas existentes antes de acrescentar informações, evitando duplicações.
-
-Atualizar e corrigir as entradas existentes quando a verificação trouxer informações novas ou revelar erros, inconsistências ou lacunas. Completar os termos japoneses, o contexto e as fontes que tiverem sido efetivamente verificados. Ao alterar uma escolha anterior, registrar brevemente o motivo e a referência que fundamenta a mudança, identificando eventuais capítulos anteriores que precisem de revisão. Distinguir informações confirmadas de dúvidas pendentes e de referências auxiliares ainda não conferidas no capítulo; não transformar hipóteses em regras nem acrescentar dados por suposição.
-
-# Referências auxiliares de tradução
-
-Consultar o Manual de Estilo da WCT, disponível em `LINKS.md`, como referência auxiliar para terminologia japonesa, formas de tratamento e peculiaridades de fala. Distinguir observações sobre o original de convenções editoriais da tradução inglesa. Verificar a aplicação ao capítulo e à versão em trabalho, sem importar automaticamente formatação, regionalismos ou informações de arcos posteriores. As decisões devem respeitar o texto-fonte e as orientações deste projeto.
-
-Usar o índice de erros da light novel em inglês, também disponível em `LINKS.md`, para localizar possíveis problemas de tradução. Antes de aplicar uma correção, conferir o original japonês e a versão correspondente; um erro apontado na light novel não comprova um erro na web novel. Registrar decisões confirmadas conforme as orientações sobre ambiguidades e informações implícitas.
-
-# Voz dos personagens e relações
-
-Preservar o modo de falar de cada personagem e as mudanças de registro conforme o interlocutor e a situação. Considerar pronomes, formas de tratamento, vocabulário, sarcasmo, hesitações e grau de intimidade.
-
-Não exagerar características de fala nem acrescentar gírias, regionalismos, palavrões ou linguagem arcaica que não tenham apoio no original.
-
-# Ambiguidades e informações implícitas
-
-Distinguir dificuldades de compreensão de ambiguidades intencionais. Investigar as primeiras e preservar as segundas.
-
-Não explicitar sujeitos, relações, intenções ou informações que o original deixa indefinidos, especialmente quando isso puder antecipar uma revelação ou eliminar uma interpretação possível.
-
-Quando o texto-fonte estiver em inglês, realizar o cotejo integral obrigatório com o japonês e aprofundar a investigação dos trechos em que houver sinais de ambiguidade, inconsistência ou perda de nuance. Não presumir que toda escolha da tradução intermediária corresponde diretamente ao japonês.
-
-Quando a comparação com o japonês confirmar um erro na tradução inglesa, corrigir o português de acordo com o original e registrar brevemente a decisão fora do capítulo, sem acrescentar explicações à narrativa. O registro pode ser feito na mensagem de entrega; não criar um relatório separado sem solicitação. Distinguir erros confirmados de adaptações deliberadas e de interpretações ainda incertas. Verificar se o texto japonês consultado corresponde ao mesmo capítulo e à mesma versão da obra.
-
-# Revisão antes da entrega
-
-Revisar a tradução em duas etapas:
-
-1. Comparar integralmente com o original japonês e com o texto-fonte intermediário, quando houver, verificando omissões, acréscimos, negações, sujeitos, referentes dos pronomes, sequência das ações, intensidade das afirmações e marcações de diálogo. Preservar o padrão de marcações da fonte enviada pelo usuário, conforme as regras do projeto.
-2. Ler o texto em português de forma contínua, verificando naturalidade, clareza, ritmo e coerência da voz dos personagens.
-
-Conferir relações lógicas e referentes. Verificar quem pratica cada ação, a quem cada pronome se refere e como as frases se relacionam: causa, consequência, contraste, condição ou sequência temporal. Não reproduzir conectivos da fonte mecanicamente quando a relação puder ser expressa de modo mais natural em português. Esclarecer referentes apenas quando a fonte permitir, preservando as informações que ela deixa indefinidas.
-
-Revisar construções literais e transições narrativas. Avaliar cada frase junto às anteriores e seguintes, especialmente quando introduzir uma fala, conclusão ou revelação. Evitar equivalentes mecanicamente corretos que soem burocráticos ou destoem do registro do trecho, como “a saber” em uma passagem informal. Reestruturar a frase quando necessário, preservando o sentido, a ênfase, as pausas e o efeito narrativo. Na revisão de naturalidade, ler o português sem consultar o original; depois, comparar novamente para confirmar a fidelidade.
-
-Não tratar essa orientação como uma lista de palavras proibidas nem simplificar indiscriminadamente a prosa. Preservar construções formais quando forem próprias da voz do narrador ou do personagem. Nas frases interrompidas, verificar se a continuação ou a fala seguinte completa naturalmente a construção em português, sem eliminar uma interrupção intencional.
-
-Preservar repetições intencionais, mas corrigir repetições acidentais introduzidas pela tradução. Não substituir palavras por sinônimos apenas para variar o vocabulário quando a repetição tiver função narrativa.
-
-# Dúvidas e notas de tradução
-
-Não inserir explicações ou notas dentro do texto traduzido sem solicitação do usuário. Preservar e traduzir as notas que já pertencem ao texto-fonte, distinguindo-as de novas notas da revisão. Quando uma dúvida relevante não puder ser resolvida pela pesquisa, apresentá-la separadamente, com o trecho original e as interpretações possíveis, sem tratar uma hipótese como certeza.
-
-# Integridade do arquivo
-
-Antes de entregar, conferir se todos os parágrafos e separadores do texto-fonte estão presentes e na ordem correta, sem trechos duplicados ou truncados.
-
-Verificar se o arquivo salvo contém a versão final revisada, com o cabeçalho completo, e se o título corresponde ao nome do arquivo, observada a exceção das aspas retas no Windows.
-
-Conferir também se `GLOSSÁRIO.md` contém as atualizações necessárias decorrentes da tradução e da validação do capítulo, com as fontes das verificações realizadas.
+Na conferência final, verificar especialmente gritos, falas curtas, interrupções e mudanças de falante; confirmar versão salva, cabeçalho, título/nome do arquivo e registros atualizados. Executar o verificador, avaliar seus alertas pelo contexto e corrigir erros objetivos. Ele confere estrutura e regras explícitas, não comprova qualidade, identidade de falantes ou integridade semântica da tradução. Informar na entrega as alterações principais, pendências relevantes e limitações de validação.

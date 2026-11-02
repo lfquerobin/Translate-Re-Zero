@@ -1,0 +1,674 @@
+{
+  "schema": 1,
+  "idioma": "pt-BR",
+  "obra": "Re:Zero",
+  "versao": "web novel",
+  "instrucoes": "Editar este registro e executar python tools/verificar_projeto.py --atualizar-indices. Não alterar etapas apenas para eliminar alertas. registrada = revisão histórica documentada; pendente = etapa ainda não concluída na apresentação atual.",
+  "capitulos": [
+    {
+      "id": "A01-PRO",
+      "arco": 1,
+      "capitulo": 0,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 001. Prólogo – “Calor Residual do Começo”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/1/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/prologue-waste-heat-of-the-beginning/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C01",
+      "arco": 1,
+      "capitulo": 1,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 002. Arco 1, Capítulo 1 – “A moeda de 10 ienes de borda serrilhada que não serve para nada”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/2/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-1-ususable-ridged-10/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C02",
+      "arco": 1,
+      "capitulo": 2,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 003. Arco 1, Capítulo 2 – “‘Não se empolgue’, disse Deus”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/3/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-2-dont-get-carried-away-said-god/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C03",
+      "arco": 1,
+      "capitulo": 3,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 004. Arco 1, Capítulo 3 – “Primeiro Encontro com a Magia”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/4/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-3-first-encounter-with-magic/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C04",
+      "arco": 1,
+      "capitulo": 4,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/5/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-4-compensation-for-a-lap-pillow/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C05",
+      "arco": 1,
+      "capitulo": 5,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 006. Arco 1, Capítulo 5 – “Seu nome”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/6/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-5-your-name/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+        },
+        "falantes": {
+          "estado": "com_pendencias",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C06",
+      "arco": 1,
+      "capitulo": 6,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 007. Arco 1, Capítulo 6 – “O fim do começo”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/7/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-6-the-end-of-the-beginning/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C07",
+      "arco": 1,
+      "capitulo": 7,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 008. Arco 1, Capítulo 7 – “Um reencontro incompreensível”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/8/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-7-an-incomprehensible-reunion/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C08",
+      "arco": 1,
+      "capitulo": 8,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 009. Arco 1, Capítulo 8 – “O sabor amargo da bebida”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/9/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-8-the-taste-of-bitter-alcohol/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C09",
+      "arco": 1,
+      "capitulo": 9,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 010. Arco 1, Capítulo 9 – “Carta na manga”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/10/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-9-trump-card/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C10",
+      "arco": 1,
+      "capitulo": 10,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 011. Arco 1, Capítulo 10 – “O preço de falar demais”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/11/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-10-the-consequence-for-loose-lips/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C11",
+      "arco": 1,
+      "capitulo": 11,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012.  Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/12/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-11-a-struggle-too-late/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "com_pendencias",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C12",
+      "arco": 1,
+      "capitulo": 12,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 013. Arco 1, Capítulo 12 – “Reencontro com a Bruxa”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/13/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-12-reunion-with-the-witch/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "registrada",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+        },
+        "naturalidade": {
+          "estado": "pendente",
+          "data": null,
+          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01"
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01"
+        }
+      }
+    },
+    {
+      "id": "A01-C13",
+      "arco": 1,
+      "capitulo": 13,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 014. Arco 1, Capítulo 13 – “Fim e começo”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/14/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-13-ending-and-beginning/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-01",
+          "observacao": "Cotejo integral do capítulo da web novel japonesa com a tradução inglesa enviada pelo usuário; título, publicação e crédito conferidos na WCT. Corrigidas as divergências confirmadas registradas no glossário."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-01",
+          "observacao": "Leitura contínua do português; ajustes de ritmo e repetições comparados novamente com as fontes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-01",
+          "observacao": "Usados os apelidos apenas após identificação contextual; Bandido identifica um integrante do trio sem fixar qual pessoa fala quando o trecho não o distingue."
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-01",
+          "observacao": "169 unidades do texto enviado, incluindo uma nota preexistente e três separadores; 52 falas isoladas identificadas, sem converter pensamentos em diálogo."
+        }
+      }
+    }
+  ],
+  "ocorrencias_anonimas": [
+    {
+      "id": "F-A01-PRO-01",
+      "capitulo_id": "A01-PRO",
+      "trecho": "―Baru?",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/1/",
+      "motivo": "A cena mantém os participantes sem nome até a revelação final; preservar o ponto de vista do prólogo."
+    },
+    {
+      "id": "F-A01-PRO-02",
+      "capitulo_id": "A01-PRO",
+      "trecho": "―!",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/1/",
+      "motivo": "A cena mantém os participantes sem nome até a revelação final; preservar o ponto de vista do prólogo."
+    },
+    {
+      "id": "F-A01-PRO-03",
+      "capitulo_id": "A01-PRO",
+      "trecho": "…pera",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/1/",
+      "motivo": "A cena mantém os participantes sem nome até a revelação final; preservar o ponto de vista do prólogo."
+    },
+    {
+      "id": "F-A01-PRO-04",
+      "capitulo_id": "A01-PRO",
+      "trecho": "Eu vou, com certeza―",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/1/",
+      "motivo": "A cena mantém os participantes sem nome até a revelação final; preservar o ponto de vista do prólogo."
+    },
+    {
+      "id": "F-A01-C02-01",
+      "capitulo_id": "A01-C02",
+      "trecho": "Ei, sai, sai, sai! Vocês tão no meu caminho!",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/3/",
+      "motivo": "A voz surge antes da apresentação visual de quem entra no beco."
+    },
+    {
+      "id": "F-A01-C02-02",
+      "capitulo_id": "A01-C02",
+      "trecho": "―Já chega, vilões.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/3/",
+      "motivo": "A voz surge antes da apresentação visual de quem entra no beco."
+    },
+    {
+      "id": "F-A01-C03-01",
+      "capitulo_id": "A01-C03",
+      "trecho": "Então dois contra dois deve estar bom, né?",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/4/",
+      "motivo": "A nova voz ainda não foi identificada visualmente como a do gato."
+    },
+    {
+      "id": "F-A01-C03-02",
+      "capitulo_id": "A01-C03",
+      "trecho": "Dá um pouco de vergonha quando ficam me olhando desse jeito.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/4/",
+      "motivo": "A nova voz ainda não foi identificada visualmente como a do gato."
+    },
+    {
+      "id": "F-A01-C04-01",
+      "capitulo_id": "A01-C04",
+      "trecho": "Ah, você acordou?",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/5/",
+      "motivo": "Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual."
+    },
+    {
+      "id": "F-A01-C04-02",
+      "capitulo_id": "A01-C04",
+      "trecho": "Não tente se mexer ainda. Você machucou a cabeça, então não é seguro.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/5/",
+      "motivo": "Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual."
+    },
+    {
+      "id": "F-A01-C04-03",
+      "capitulo_id": "A01-C04",
+      "trecho": "Que bom que você acordou. (Falsete)",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/5/",
+      "motivo": "Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual."
+    },
+    {
+      "id": "F-A01-C05-01",
+      "capitulo_id": "A01-C05",
+      "trecho": "Mas eu me lembro de você murmurar “Cabelo loiro… E os dentes dela… Ah, deixa pra lá” e coisas assim enquanto se escondia atrás de mim quando fazíamos perguntas às pessoas, então você já revelou bastante coisa.",
+      "tipo": "atribuicao_pendente",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/6/",
+      "pendencia_id": "P-A01-C05-01",
+      "estado": "aberta",
+      "registrada_em": "2026-11-01",
+      "motivo": "O comentário sobre as características da ladra não nomeia quem fala; a garota e Puck acompanharam a busca.",
+      "interpretacoes": [
+        "Puck",
+        "Garota de cabelos prateados"
+      ],
+      "original_japones": "「聞き込み中に後ろでぼそぼそ『金髪で……歯が、あ、やっぱいいです』とか言ってたから大まかな特徴は割れてるけどね」",
+      "proximo_passo": "Reabrir a atribuição quando houver evidência contextual adicional da mesma versão; manter ??? enquanto as duas interpretações continuarem possíveis."
+    },
+    {
+      "id": "F-A01-C06-01",
+      "capitulo_id": "A01-C06",
+      "trecho": "―Aah, você viu. Então não tenho escolha. É, não tenho escolha nenhuma.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/7/",
+      "motivo": "A agressora fala no escuro; a identidade não foi revelada nesta cena."
+    },
+    {
+      "id": "F-A01-C08-01",
+      "capitulo_id": "A01-C08",
+      "trecho": "―Cala a boca!! Não sabe nem o sinal e a senha, quer arrebentar a porta?!",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/9/",
+      "motivo": "A primeira voz vem de trás da porta, antes da aparição e descrição do velho."
+    },
+    {
+      "id": "F-A01-C09-01",
+      "capitulo_id": "A01-C09",
+      "trecho": "Veneno.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/10/",
+      "motivo": "Respostas à senha e primeira fala de entrada, antes da identificação da visitante pela narrativa."
+    },
+    {
+      "id": "F-A01-C09-02",
+      "capitulo_id": "A01-C09",
+      "trecho": "Uma armadilha de fosso.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/10/",
+      "motivo": "Respostas à senha e primeira fala de entrada, antes da identificação da visitante pela narrativa."
+    },
+    {
+      "id": "F-A01-C09-03",
+      "capitulo_id": "A01-C09",
+      "trecho": "Vá à merda.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/10/",
+      "motivo": "Respostas à senha e primeira fala de entrada, antes da identificação da visitante pela narrativa."
+    },
+    {
+      "id": "F-A01-C09-04",
+      "capitulo_id": "A01-C09",
+      "trecho": "―Foi mal pela demora, velho. Ela era mais insistente do que eu esperava. Demorei para despistar de vez.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/10/",
+      "motivo": "Respostas à senha e primeira fala de entrada, antes da identificação da visitante pela narrativa."
+    },
+    {
+      "id": "F-A01-C11-01",
+      "capitulo_id": "A01-C11",
+      "trecho": "Quê―?!",
+      "tipo": "atribuicao_pendente",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/12/",
+      "pendencia_id": "P-A01-C11-01",
+      "estado": "aberta",
+      "registrada_em": "2026-11-01",
+      "motivo": "O grito fica entre a descrição do ataque e a esquiva; falta indicação explícita de quem reage.",
+      "interpretacoes": [
+        "Subaru",
+        "Elsa"
+      ],
+      "original_japones": "「な――！？」",
+      "proximo_passo": "Reabrir a atribuição quando houver evidência contextual adicional da mesma versão; manter ??? enquanto as duas interpretações continuarem possíveis."
+    },
+    {
+      "id": "F-A01-C12-01",
+      "capitulo_id": "A01-C12",
+      "trecho": "―!",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/13/",
+      "motivo": "O som vem de cima da barraca antes do reconhecimento da ladra por Subaru."
+    }
+  ],
+  "variantes_terminologicas": [
+    {
+      "adotado": "Satella",
+      "variantes": [
+        "Satela",
+        "Sattella"
+      ]
+    },
+    {
+      "adotado": "Puck",
+      "variantes": [
+        "Puk"
+      ]
+    },
+    {
+      "adotado": "Lugunica",
+      "variantes": [
+        "Lugnica"
+      ]
+    },
+    {
+      "adotado": "insígnia",
+      "variantes": [
+        "insígna",
+        "insignia"
+      ]
+    },
+    {
+      "adotado": "lagmita",
+      "variantes": [
+        "lagmite",
+        "lagmito"
+      ]
+    }
+  ]
+}

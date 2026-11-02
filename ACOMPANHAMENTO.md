@@ -1,0 +1,34 @@
+# Acompanhamento da tradução
+
+Gerado de [projeto.json](projeto.json). Atualizar o registro e executar `python tools/verificar_projeto.py --atualizar-indices`; não editar esta vista à mão.
+
+Versão da obra: **web novel**. Datas de publicação e créditos de cada fonte inglesa estão no registro e nos cabeçalhos; as datas das colunas abaixo indicam revisão.
+
+**Fidelidade registrada no histórico** remete ao cotejo integral documentado em [GLOSSÁRIO.md](GLOSSÁRIO.md), não a uma nova comparação integral feita ao organizar este índice. **Naturalidade pendente** exige releitura contínua após a formatação dos diálogos. O ajuste dos dez trechos incorporados à narração foi conferido localmente; essa conferência não substitui a releitura integral.
+
+Os símbolos ✔️/✖️ dos nomes de arquivo foram preservados e não determinam estas etapas. Uma dúvida de falante pode continuar aberta mesmo com cotejo registrado. Anonimato da narrativa não é pendência de tradução.
+
+| Arco / capítulo | Fontes | Fidelidade | Naturalidade | Falantes | Formato |
+| --- | --- | --- | --- | --- | --- |
+| 1 / [Prólogo](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 001. Prólogo – “Calor Residual do Começo”.md>) | [JP](https://ncode.syosetu.com/n2267be/1/) / [EN](https://witchculttranslation.com/2021/05/19/prologue-waste-heat-of-the-beginning/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 1](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 002. Arco 1, Capítulo 1 – “A moeda de 10 ienes de borda serrilhada que não serve para nada”.md>) | [JP](https://ncode.syosetu.com/n2267be/2/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-1-ususable-ridged-10/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 2](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 003. Arco 1, Capítulo 2 – “‘Não se empolgue’, disse Deus”.md>) | [JP](https://ncode.syosetu.com/n2267be/3/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-2-dont-get-carried-away-said-god/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 3](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 004. Arco 1, Capítulo 3 – “Primeiro Encontro com a Magia”.md>) | [JP](https://ncode.syosetu.com/n2267be/4/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-3-first-encounter-with-magic/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 4](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md>) | [JP](https://ncode.syosetu.com/n2267be/5/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-4-compensation-for-a-lap-pillow/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 5](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 006. Arco 1, Capítulo 5 – “Seu nome”.md>) | [JP](https://ncode.syosetu.com/n2267be/6/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-5-your-name/) | Registrada no histórico · 01/11/2026 | Pendente | Com pendência · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 6](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 007. Arco 1, Capítulo 6 – “O fim do começo”.md>) | [JP](https://ncode.syosetu.com/n2267be/7/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-6-the-end-of-the-beginning/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 7](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 008. Arco 1, Capítulo 7 – “Um reencontro incompreensível”.md>) | [JP](https://ncode.syosetu.com/n2267be/8/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-7-an-incomprehensible-reunion/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 8](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 009. Arco 1, Capítulo 8 – “O sabor amargo da bebida”.md>) | [JP](https://ncode.syosetu.com/n2267be/9/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-8-the-taste-of-bitter-alcohol/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 9](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 010. Arco 1, Capítulo 9 – “Carta na manga”.md>) | [JP](https://ncode.syosetu.com/n2267be/10/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-9-trump-card/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 10](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 011. Arco 1, Capítulo 10 – “O preço de falar demais”.md>) | [JP](https://ncode.syosetu.com/n2267be/11/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-10-the-consequence-for-loose-lips/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 11](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012.  Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md>) | [JP](https://ncode.syosetu.com/n2267be/12/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-11-a-struggle-too-late/) | Registrada no histórico · 01/11/2026 | Pendente | Com pendência · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 12](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 013. Arco 1, Capítulo 12 – “Reencontro com a Bruxa”.md>) | [JP](https://ncode.syosetu.com/n2267be/13/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-12-reunion-with-the-witch/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+| 1 / [Capítulo 13](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 014. Arco 1, Capítulo 13 – “Fim e começo”.md>) | [JP](https://ncode.syosetu.com/n2267be/14/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-13-ending-and-beginning/) | Concluída · 01/11/2026 | Concluída · 01/11/2026 | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
+
+## Trabalho em aberto
+
+- 13 capítulos/textos aguardam registro de releitura contínua final.
+- 2 atribuições de fala em investigação; consultar [PENDÊNCIAS.md](PENDÊNCIAS.md).
+- 18 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
+
+A aprovação estrutural do verificador não conclui nenhuma etapa editorial. Registrar data, escopo e evidência após executar a revisão correspondente.
