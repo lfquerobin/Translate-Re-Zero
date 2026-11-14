@@ -1,0 +1,20 @@
+{
+  "fonte": "https://docs.google.com/document/d/e/2PACX-1vTdk5zfpajh-8Gir4dale6WOFauq9xucmRA0jUDvv63TRDXMe6-e7fc6DLJOiaY6w/pub",
+  "captura_data_local": "2026-11-13",
+  "fuso": "America/Sao_Paulo",
+  "titulo_na_fonte": "Manual of Style.docx",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "arquivos": [
+    {
+      "arquivo": "Manual de Estilo da WCT — 2026-11-13.html",
+      "bytes": 594814,
+      "sha256": "1893d333f73ba9762d66af316a0f59a0f35de939510343569904214db8442b9f"
+    },
+    {
+      "arquivo": "Manual de Estilo da WCT — 2026-11-13.txt",
+      "bytes": 114119,
+      "sha256": "4b3e96521525b7797a3d4de1b151131ed811ecbe0023d86d0c491a2236796648"
+    }
+  ]
+}

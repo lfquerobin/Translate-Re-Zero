@@ -425,7 +425,7 @@
       "id": "A01-C13",
       "arco": 1,
       "capitulo": 13,
-      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 014. Arco 1, Capítulo 13 – “Fim e começo”.md",
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 014. Arco 1, Capítulo 13 – “Fim e começo”.md",
       "fontes": {
         "japones": "https://ncode.syosetu.com/n2267be/14/",
         "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-13-ending-and-beginning/",
@@ -451,7 +451,75 @@
         "formato": {
           "estado": "ajustado",
           "data": "2026-11-01",
-          "observacao": "169 unidades do texto enviado, incluindo uma nota preexistente e três separadores; 52 falas isoladas identificadas, sem converter pensamentos em diálogo."
+          "observacao": "169 unidades do texto enviado, incluindo uma nota preexistente e três separadores; 52 falas isoladas identificadas, sem converter pensamentos em diálogo. Em 2026-11-13, corrigido somente o caminho cadastrado para o nome já existente com ✔️; nenhum arquivo foi renomeado nem nova revisão do capítulo 13 realizada."
+        }
+      }
+    },
+    {
+      "id": "A01-C14",
+      "arco": 1,
+      "capitulo": 14,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/15/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-14-fourth-times-a-charm/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-13",
+          "observacao": "Leitura integral do japonês da web novel e do inglês enviado; cotejo de todo o capítulo. Correções confirmadas e notas preexistentes registradas no glossário; consulta ao Manual da WCT indisponível, sem impedir acesso às duas fontes primárias do trabalho."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-13",
+          "observacao": "Releitura contínua integral do português salvo, seguida de ajustes locais e novo cotejo dos trechos afetados; leitura final das transições, falas curtas e interrupções."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-13",
+          "observacao": "Falas isoladas de Subaru e do vendedor de vasos conferidas pelo contexto e pelo japonês. Vocalização e cantarolar incorporados preservados na narração; pensamento sobre a barba não convertido em diálogo. Sem ocorrências de ??? neste capítulo."
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-13",
+          "observacao": "Cabeçalho completo conferido na WCT; nome corresponde ao título. Preservados três separadores e três notas preexistentes; texto integral em Markdown na pasta do Arco 1. Em 2026-11-13, cadastro sincronizado com o nome já existente com ✖️, preservando o arquivo e o símbolo escolhidos; sem alteração do conteúdo ou das etapas de revisão."
+        }
+      }
+    },
+    {
+      "id": "A01-C15",
+      "arco": 1,
+      "capitulo": 15,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/16/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-15-because-he-is-the-sword-saint/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-13",
+          "observacao": "Lidos integralmente o original japonês da web novel e o inglês enviado. Cotejo integral de narração, falas e marcações, incluindo omissões inglesas restituídas e correções registradas em GLOSSÁRIO.md. Manual online obtido via download HTTP 200 e comparado com a captura local de 13/11/2026: texto normalizado idêntico, sem nova captura necessária. Consultadas entradas terminológicas e ficha de Reinhard."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-13",
+          "observacao": "Releitura contínua integral do português salvo após a tradução e a identificação dos diálogos; ajustes de construção sintática, registro e descrição do arremesso conferidos novamente no japonês e no contexto anterior. Conferidas transições e falas curtas na leitura final."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-13",
+          "observacao": "Primeira voz do novo rapaz preservada como ??? até sua aparição; Rapaz de cabelos ruivos até Chin revelar Reinhard. Kan identificado pelo fato de estar desarmado; Chin pela narração explícita. Bandido é rótulo genérico de integrante confirmado do trio e não fixa ordem individual de Ton e Chin nem identidade por alternância."
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-13",
+          "observacao": "Cabeçalho conferido na WCT; arquivo integral com prefixo ✖️, conforme escolha do usuário. 69 falas isoladas, dois separadores e duas notas preexistentes preservados. Falas e vocalizações incorporadas mantidas na narração, incluindo restituições do japonês. Conferidas todas as unidades do inglês em sequência, sem impor correspondência mecânica de parágrafos."
         }
       }
     }
@@ -634,6 +702,14 @@
       "tipo": "anonimato_narrativo",
       "referencia_japonesa": "https://ncode.syosetu.com/n2267be/13/",
       "motivo": "O som vem de cima da barraca antes do reconhecimento da ladra por Subaru."
+    },
+    {
+      "id": "F-A01-C15-01",
+      "capitulo_id": "A01-C15",
+      "trecho": "―Já chega.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/16/",
+      "motivo": "A voz interrompe o assalto antes da aparição do rapaz ruivo; preservar a ordem da revelação visual e do reconhecimento posterior do nome por Chin."
     }
   ],
   "variantes_terminologicas": [

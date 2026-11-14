@@ -3,6 +3,7 @@
 - [Índice da web novel — Re:ZeroDB](https://rezerodb.com/web_novel)
 - [Translation Meta — Re:ZeroDB](https://rezerodb.com/translation_meta/): página que reúne referências de tradução.
 - [Manual de Estilo da WCT — Phantaminum et al.](https://docs.google.com/document/d/e/2PACX-1vTdk5zfpajh-8Gir4dale6WOFauq9xucmRA0jUDvv63TRDXMe6-e7fc6DLJOiaY6w/pub): terminologia japonesa e inglesa, notas de contexto e peculiaridades de fala dos personagens. Referência auxiliar; contém convenções editoriais próprias do inglês, informações de arcos posteriores e seções incompletas. Consultar conforme o capítulo, preservando as regras do projeto.
+- **Cópia local do Manual da WCT, capturada em 13/11/2026:** [texto pesquisável](<Referências/WCT/Manual de Estilo da WCT — 2026-11-13.txt>), [HTML original](<Referências/WCT/Manual de Estilo da WCT — 2026-11-13.html>) e [procedência e orientações](Referências/WCT/README.md). Usar quando a página online estiver indisponível e mencionar a data da captura; a cópia não se atualiza automaticamente. O download direto funcionou mesmo quando a ferramenta de consulta web falhou.
 - [Índice de erros da light novel em inglês — Re:ZeroDB](https://rezerodb.com/translation_meta/ln_mistls/): apoio para investigar possíveis problemas. Conferir o japonês e a versão correspondente antes de aplicar qualquer correção à web novel.
 
 ## Observações da consulta de 1º de novembro de 2026

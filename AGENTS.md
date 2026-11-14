@@ -18,6 +18,8 @@ Não presumir que escolhas da tradução intermediária reproduzem diretamente o
 
 Consultar as referências de `LINKS.md` com os seguintes limites:
 
+Em cada nova tradução, verificar se o Manual da WCT online mudou em relação à cópia local mais recente de `Referências/WCT`, seguindo as orientações do README dessa pasta. Comparar o conteúdo textual, desconsiderando mudanças apenas de espaços, scripts, estilos e elementos automáticos do Google Docs. Se houver mudanças de conteúdo, guardar nova captura datada em HTML e texto, preservar as anteriores e atualizar os links e o registro da captura. Consultar as mudanças pertinentes ao capítulo sem aplicar automaticamente convenções inglesas ou informações de outra versão. Se o acesso falhar, usar a última cópia local e informar sua data e a limitação da conferência. Fazer essa verificação durante o trabalho de tradução, sem criar tarefa agendada ou automação recorrente.
+
 - O Manual de Estilo da WCT auxilia na terminologia, nos tratamentos e nas particularidades de fala. Distinguir observações sobre o japonês de convenções editoriais inglesas; conferir a aplicação à versão e ao capítulo em trabalho, sem importar regionalismos, formatação ou revelações de arcos posteriores.
 - O índice de erros da light novel inglesa serve para localizar possíveis problemas. Um erro da light novel não comprova erro da web novel: conferir o japonês e a versão correspondente antes de aplicar uma correção.
 
@@ -72,6 +74,8 @@ Não inventar título ou link: solicitar o que faltar. Para data ou crédito aus
 
 Sempre salvar o texto integral revisado, com cabeçalho, dentro de `C:\Users\luizh\OneDrive\Documentos\Traduções\ReZero`, na pasta do arco/fase e no formato existente; entregar no chat não substitui salvar. O nome do arquivo deve conservar o título do cabeçalho, suas aspas internas e externas e sua pontuação. No Windows, substituir aspas retas duplas por aspas tipográficas de abertura e fechamento apenas no nome do arquivo, preservando a hierarquia; essa exceção não vale para o corpo.
 
+Toda nova tradução deve ser salva com **✖️ no início do nome do arquivo**, antes da numeração, seguindo o modelo `✖️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md`. O símbolo é um prefixo de organização do arquivo, não parte do título da obra no cabeçalho. Não trocar automaticamente por ✔️ ao concluir a tradução ou as revisões; manter ✖️ até orientação do usuário. As etapas efetivamente realizadas continuam registradas separadamente em `projeto.json`.
+
 Não inserir novas notas ou explicações na narrativa sem solicitação. Preservar e traduzir as notas que já pertencem à fonte, distinguindo-as de observações novas da revisão. Para dúvida relevante não resolvida, registrar e apresentar fora do capítulo o original e as interpretações possíveis, sem tratar hipótese como certeza.
 
 ## Revisão e entrega
@@ -80,3 +84,8 @@ Não inserir novas notas ou explicações na narrativa sem solicitação. Preser
 2. **Naturalidade:** ler o português continuamente, sem consultar a fonte, verificando clareza, ritmo, transições, repetições e coerência de voz. Depois de reformular um trecho, comparar novamente com a fonte para confirmar fidelidade.
 
 Na conferência final, verificar especialmente gritos, falas curtas, interrupções e mudanças de falante; confirmar versão salva, cabeçalho, título/nome do arquivo e registros atualizados. Executar o verificador, avaliar seus alertas pelo contexto e corrigir erros objetivos. Ele confere estrutura e regras explícitas, não comprova qualidade, identidade de falantes ou integridade semântica da tradução. Informar na entrega as alterações principais, pendências relevantes e limitações de validação.
+
+
+## Sincronização com o GitHub
+
+Por solicitação do usuário, ao concluir qualquer alteração neste projeto, fazer commit de todas as alterações pendentes e enviá-las ao GitHub (remoto `origin`), sem pedir nova confirmação. Conferir o estado do Git após o envio. Se o envio falhar, preservar o trabalho local e informar a limitação; nunca declarar sincronização concluída sem confirmação.

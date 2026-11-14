@@ -53,6 +53,27 @@ Fonte: [WN, Arco 1, capítulo 10 — fim da negociação e combate](https://ncod
 
 Fonte: [WN, Arco 1, capítulo 13 — conversa na barraca](https://ncode.syosetu.com/n2267be/14/). Exemplos conferidos em 1º de novembro de 2026.
 
+## Vendedor de vasos — capítulo 14
+
+- **Irritação com Subaru:** a fala sobre a mercadoria e a ordem final de ir embora acompanham o incômodo com um desconhecido que atrapalha o comércio. O japonês descreve o jeito de falar como um tanto feminino, mas isso não autoriza acrescentar bordões, regionalismos ou caricatura. O tratamento de Subaru é “tio”, para オッサン, neste diálogo casual.
+- **Encerramento impaciente:** a repetição de concordâncias foi preservada como “É, é, é, isso mesmo, então vá logo embora.” A concordância serve para despachá-lo, não demonstra adesão ao discurso de Subaru.
+
+Fonte: [WN, Arco 1, capítulo 14 — conversa na barraca e despedida](https://ncode.syosetu.com/n2267be/15/), cotejada em 13 de novembro de 2026 com a tradução de SNUserTL. O rótulo descritivo distingue este comerciante do vendedor de appas do capítulo anterior.
+
+## Reinhard — capítulo 15
+
+- **Intervenção no beco:** “Sejam quais forem as circunstâncias, não permitirei que continuem a maltratá-lo. Já chega.” O tom é firme e sem hesitação. Depois da fuga, muda para uma pergunta atenciosa: “Que bom que estamos os dois bem. Você se machucou?” Preservar a diferença de situação, sem fazer da cordialidade uma regra de suavizar ameaças.
+- **Aproximação de Subaru:** “Pode me chamar só de Reinhard, Subaru.” A resposta a ラインハルトさん permite o uso direto do nome. O tratamento cordial não exige vocabulário arcaico nem familiaridade acrescentada.
+- **Modéstia:** a referência às próprias “modestas forças” e a brincadeira sobre o peso das expectativas familiares convivem com sua segurança. Não converter as falas em prova de insegurança real ou acrescentar explicação sobre seu poder.
+
+Fonte: [WN, Arco 1, capítulo 15 — resgate e conversa no beco](https://ncode.syosetu.com/n2267be/16/), cotejada integralmente em 13 de novembro de 2026 com a tradução de SNUserTL. A ficha Reinhard (WIP) do Manual da WCT foi consultada como apoio; 僕 e 君 foram conferidos nas falas deste capítulo. Não antecipar sobrenome ou revelações fornecidos pelo manual.
+
+## Subaru — registro cerimonioso no capítulo 15
+
+- Ao se prostrar, passa momentaneamente a “Agradeço de todo o coração” e “admiro profundamente a pureza de seu espírito”. A cerimônia acompanha a encenação do agradecimento; logo volta à fala casual e à piada sobre desbloquear sua rota. Preservar essa passagem, sem aplicar o mesmo grau de formalidade ao resto da conversa.
+
+Fonte: [WN, Arco 1, capítulo 15 — agradecimento a Reinhard](https://ncode.syosetu.com/n2267be/16/), conferida em 13 de novembro de 2026.
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.

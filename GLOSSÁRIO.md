@@ -52,6 +52,55 @@ Preencher as colunas de termo japonês e fonte da verificação conforme as cons
 | healing magic | magia de cura | Denominação usada nas hipóteses de Subaru sobre a recuperação dos ferimentos. A existência de alguém que o tenha curado nas tragédias é uma explicação que ele considera, não um fato confirmado pela narração. | 回復魔法 / 治療魔法 | Web novel, Arco 1, capítulo 13, reflexão sobre ferimentos e conteúdo do pacote; [original japonês](https://ncode.syosetu.com/n2267be/14/). |
 | restoration magic | magia de restauração | Aparece como possibilidade ao lado da magia de duplicação na hipótese sobre um curandeiro extraordinário; não acrescentar explicação técnica ou tratar a hipótese como acontecimento confirmado. | 復元魔法 | Web novel, Arco 1, capítulo 13, hipótese do curandeiro; [original japonês](https://ncode.syosetu.com/n2267be/14/). |
 
+## Decisões do capítulo 14 — 13 de novembro de 2026
+
+Cotejo integral da web novel: [original japonês, Arco 1, capítulo 14](https://ncode.syosetu.com/n2267be/15/), comparado com o texto inglês enviado e com a [publicação de SNUserTL na WCT](https://witchculttranslation.com/2021/05/19/arc-1-chapter-14-fourth-times-a-charm/).
+
+| Termo na fonte inglesa | Tradução adotada | Observação | Termo japonês | Fonte da verificação |
+| --- | --- | --- | --- | --- |
+| Return by Death | Retorno pela Morte | Nome que Subaru dá à habilidade neste capítulo; não acrescentar explicações sobre funcionamento, origem ou limites além das conclusões dele. | 死に戻り | WN, Arco 1, capítulo 14, reflexão após conferir a barba; [JP](https://ncode.syosetu.com/n2267be/15/). |
+| bite the dust / Bite the Dust | “Perca e morra” / Bite the Dust nas notas | Na fala, restituída a leitura literal que sustenta a comparação seguinte; mantidas e traduzidas as duas notas preexistentes de SNUserTL, sem criar nota narrativa nova. | 負けて死ね | WN, Arco 1, capítulo 14, referência inicial da segunda seção; [JP](https://ncode.syosetu.com/n2267be/15/). |
+| black labor | ambiente de trabalho explorador | Neste contexto, condições abusivas de emprego, não uma categoria racial. Preservada a nota inglesa preexistente sobre black company e black labor. | ブラックな労働環境 | WN, Arco 1, capítulo 14, plano de procurar emprego; [JP](https://ncode.syosetu.com/n2267be/15/). |
+| Not-Satella | falsa Satella | Designação provisória usada por Subaru na pergunta final, após suspeitar do nome fornecido; não introduzir o nome verdadeiro. | 偽サテラ | WN, Arco 1, capítulo 14, última fala; [JP](https://ncode.syosetu.com/n2267be/15/). |
+
+Correções confirmadas nesta comparação:
+
+- **Referência a JoJo:** 負かした上で巻き戻す descreve derrotar o adversário e depois voltar no tempo, não simplesmente “vencer e repetir”. Preservado o contraste com Subaru perder e retornar. A explicação da referência vem das notas da tradução inglesa; não é uma nota do autor japonês.
+- **Repetições:** 三回も繰り返してみると abrange passar pela situação três vezes, não apenas refletir sobre a terceira vez, como sugere o inglês. A fala foi corrigida sem transformar a hipótese de um padrão em regra comprovada da habilidade.
+- **Incerteza sobre Satella:** わからねぇまんまだ significa que Subaru continua sem saber o resultado do confronto; não afirma que provavelmente jamais saberá, como no inglês.
+- **Hospedagem:** 何泊か indica algumas noites, sem sustentar a promessa inglesa de hospedagem por um período longo.
+- **Marcações e voz:** a vocalização durante o alongamento, ausente no inglês, foi restituída conforme o japonês. Ela e o cantarolar da ginástica permanecem incorporados à narração. O espadachim corresponde a 剣士 na brincadeira inicial. Todas as falas isoladas foram atribuídas a Subaru ou ao vendedor de vasos pelo contexto completo; não surgiram atribuições pendentes.
+
+Estas decisões não alteram capítulos anteriores. A consulta atual ao Manual da WCT falhou por indisponibilidade da página; suas observações auxiliares já registradas acima foram consideradas sem tratá-las como nova verificação. O índice de erros da light novel foi consultado como referência auxiliar, sem aplicar correções de outra versão.
+
+## Decisões do capítulo 15 — 13 de novembro de 2026
+
+Fontes: web novel, Arco 1, [capítulo 15 em japonês](https://ncode.syosetu.com/n2267be/16/) e [tradução inglesa de SNUserTL na WCT](https://witchculttranslation.com/2021/05/19/arc-1-chapter-15-because-he-is-the-sword-saint/), também enviada pelo usuário. Cotejo integral e releitura contínua do português realizados nesta data.
+
+| Termo na fonte inglesa | Tradução adotada | Observação | Termo japonês | Fonte da verificação |
+| --- | --- | --- | --- | --- |
+| Reinhard | Reinhard | Nome revelado por Chin. Antes disso, primeira voz com ??? e fala após a descrição com Rapaz de cabelos ruivos; não acrescentar sobrenome à narrativa com base no manual. | ラインハルト | WN, Arco 1, capítulo 15, reconhecimento no beco; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| Sword Saint | Santo da Espada | Título apresentado neste capítulo; não confundir com uma explicação da proteção divina ou acrescentar informações sobre sucessão. | 剣聖 | WN, Arco 1, capítulo 15, título e reconhecimento por Chin; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| Grand Cascade | Grande Cascata | Nome geográfico na resposta sobre o leste de Lugunica; não acrescentar explicações que o capítulo não fornece. O manual usa Great Waterfall para 大瀑布, variante inglesa do mesmo termo japonês. | 大瀑布 | WN, Arco 1, capítulo 15, conversa sobre a origem de Subaru; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| trading street | rua do comércio | Nome informado pelo vendedor de turbante, retomado por Subaru; usar em minúsculas conforme a apresentação inglesa. | 商い通り | WN, Arco 1, capítulo 15, abertura e despedida; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| guard / guard station | guarda / posto da guarda | Distinguir o serviço de guarda do título de cavaleiro, também usado por Reinhard. | 衛兵 / 衛兵の詰所 | WN, Arco 1, capítulo 15, pedido de socorro e despedida; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| Ikemen | Ikemen | Mantida a palavra da fonte inglesa e traduzida sua nota preexistente. A repetição sustenta a piada de Subaru sobre beleza, caráter e posição social. | イケメン | WN, Arco 1, capítulo 15, impressões de Subaru sobre Reinhard; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| Reinhard-san | Reinhard-san | Tratamento inicial hesitante; a resposta permite chamar só pelo nome. Preservada a aproximação imediata, sem transformar o tratamento em título de nobreza. | ラインハルトさん / 呼び捨て | WN, Arco 1, capítulo 15, agradecimento depois do resgate; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| white robe | casaco branco | Mantida neste capítulo a escolha do projeto para a peça já descrita no capítulo 3. O japonês emprega ローブ; não acrescentar distinções de vestuário ausentes do contexto. | 白いローブ | WN, Arco 1, capítulo 15, descrição da garota procurada; [JP](https://ncode.syosetu.com/n2267be/16/). |
+| Otome game | jogo otome | Referência de Subaru a procurar homens pela cidade; não acrescentar nota explicativa que não existe na fonte enviada. | 乙女ゲー | WN, Arco 1, capítulo 15, última fala de Subaru; [JP](https://ncode.syosetu.com/n2267be/16/). |
+
+Correções confirmadas em relação ao inglês:
+
+- **Omissões:** restituídos o parágrafo sobre não haver reação da rua ao grito de socorro, a breve vocalização ao se prostrar e o “Pode perguntar” incorporado à narração. As duas últimas ocorrências continuam incorporadas; não foram convertidas em falas independentes.
+- **Resposta sobre o leste:** 安直 caracteriza uma resposta simplista, não uma resposta segura. Mantida a autocrítica de Subaru antes da reação de Reinhard.
+- **Esportes:** あと acrescenta outra habilidade que Subaru alega ter, não descreve o que acontece depois. Participar sem influenciar a troca de passes é a piada. Na narração seguinte, ボールに当たらず significa terminar sem ser atingido pela bola, não sem tocar nela. Preservada a nota preexistente em que SNUserTL declara não compreender a passagem; a nota é do tradutor inglês, não uma nova dúvida da tradução portuguesa.
+- **Agradecimento:** 清廉さ qualifica a integridade ou pureza do espírito, não apenas bravura. O registro cerimonioso de Subaru é momentâneo e contrasta com sua fala habitual.
+- **Voz e provérbio:** o trecho do kendô descreve o descaramento de gritar, não sensibilidade exagerada. O provérbio 仏の顔も三度まで mantém a ideia de um limite de três vezes para a paciência de Buda; não foi acrescentada a ação de tocar seu rosto. O limite de usos do Retorno pela Morte continua sendo uma preocupação de Subaru, não uma regra confirmada.
+
+**Falantes:** Kan é identificável como o desarmado, e Chin é explicitamente identificado na reação ao rapaz. Para as falas em que só é identificável um integrante do trio, mantido `Bandido`, conforme a convenção já registrada: não indica a mesma pessoa em todas as ocorrências. A menção conjunta a Ton e Chin não basta para determinar a ordem individual de suas duas primeiras falas. `???: [―Já chega.]` é anonimato narrativo, documentado em `projeto.json`; não constitui atribuição pendente.
+
+**Manual da WCT:** download direto HTTP 200 e comparação do texto normalizado com a captura local de 13/11/2026: conteúdo textual idêntico, apesar de diferença no HTML. Consultadas as entradas de 剣聖 e 大瀑布 e a ficha incompleta de Reinhard (WIP). As observações de voz foram conferidas no capítulo; convenções editoriais inglesas e dados de arcos posteriores não foram transferidos à narrativa. O índice de erros da light novel só expôs a navegação nesta consulta; nenhuma correção foi aplicada com base nele. Estas decisões não modificam os capítulos anteriores.
+
 ## Referências de voz e pontos a conferir
 
 Consulta ao [Manual da WCT][wct-manual] em 1º de novembro de 2026. As seções citadas são referências gerais, não verificações de capítulos específicos da web novel ou da light novel.
