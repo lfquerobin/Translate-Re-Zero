@@ -459,7 +459,7 @@
       "id": "A01-C14",
       "arco": 1,
       "capitulo": 14,
-      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md",
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md",
       "fontes": {
         "japones": "https://ncode.syosetu.com/n2267be/15/",
         "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-14-fourth-times-a-charm/",
@@ -485,7 +485,7 @@
         "formato": {
           "estado": "ajustado",
           "data": "2026-11-13",
-          "observacao": "Cabeçalho completo conferido na WCT; nome corresponde ao título. Preservados três separadores e três notas preexistentes; texto integral em Markdown na pasta do Arco 1. Em 2026-11-13, cadastro sincronizado com o nome já existente com ✖️, preservando o arquivo e o símbolo escolhidos; sem alteração do conteúdo ou das etapas de revisão."
+          "observacao": "Cabeçalho completo conferido na WCT; nome corresponde ao título. Preservados três separadores e três notas preexistentes; texto integral em Markdown na pasta do Arco 1. Em 2026-11-13, cadastro sincronizado com o nome já existente com ✖️, preservando o arquivo e o símbolo escolhidos; sem alteração do conteúdo ou das etapas de revisão. Em 2026-11-15, cadastro atualizado para a renomeação preexistente com ✔️ escolhida pelo usuário; conteúdo comparado com HEAD e preservado, sem nova revisão editorial."
         }
       }
     },
@@ -520,6 +520,40 @@
           "estado": "ajustado",
           "data": "2026-11-13",
           "observacao": "Cabeçalho conferido na WCT; arquivo integral com prefixo ✖️, conforme escolha do usuário. 69 falas isoladas, dois separadores e duas notas preexistentes preservados. Falas e vocalizações incorporadas mantidas na narração, incluindo restituições do japonês. Conferidas todas as unidades do inglês em sequência, sem impor correspondência mecânica de parágrafos."
+        }
+      }
+    },
+    {
+      "id": "A01-C16",
+      "arco": 1,
+      "capitulo": 16,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/17/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-16-negotiation-in-the-slums/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-15",
+          "observacao": "Leitura integral do original japonês da web novel e do inglês enviado, conferido na publicação WCT. Cotejo integral da narração, das falas e das marcações; duas omissões inglesas restituídas e correções registradas no glossário. Manual online obtido por HTTP 200: conteúdo textual normalizado idêntico ao HTML da captura local de 13/11/2026, excluídos scripts, estilos e diferenças de espaços; nenhuma nova captura necessária. Consultadas entrada 獣人 e fichas de Felt e Elsa sem importar convenções inglesas. Índice de erros da LN consultado, mas ferramenta retornou apenas navegação; nenhuma correção importada de outra versão."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-15",
+          "observacao": "Releitura contínua integral do português salvo, sem consulta simultânea às fontes. Ajustes de repetição, descrição do sofrimento da morte, hesitação após o reencontro e localização no interior dos bairros pobres comparados novamente aos trechos japoneses e ingleses. Conferência final de transições e interrupções."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-15",
+          "observacao": "59 falas isoladas conferidas pelo contexto e japonês. Morador descreve o interlocutor local sem nomeá-lo. Primeiras falas antes de reconhecer Elsa e de se virar para Felt com ???, registradas como anonimato narrativo; Mulher de cabelos pretos até a apresentação nominal de Elsa. Falas incorporadas e vocalizações de Subaru e Felt preservadas na narrativa. Sem atribuição editorial pendente."
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-15",
+          "observacao": "Cabeçalho com título, data e crédito conferidos na WCT. Texto integral em Markdown na pasta do Arco 1, com prefixo ✖️. Mantidos os três separadores do texto enviado, com 11, 23 e 12 símbolos. Sem novas notas na narrativa. Conferidas sequência e integridade de todos os trechos ingleses e das restituições japonesas, sem exigir identidade de parágrafos."
         }
       }
     }
@@ -710,6 +744,22 @@
       "tipo": "anonimato_narrativo",
       "referencia_japonesa": "https://ncode.syosetu.com/n2267be/16/",
       "motivo": "A voz interrompe o assalto antes da aparição do rapaz ruivo; preservar a ordem da revelação visual e do reconhecimento posterior do nome por Chin."
+    },
+    {
+      "id": "F-A01-C16-01",
+      "capitulo_id": "A01-C16",
+      "trecho": "Ah, me desculpe. Você está bem?",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/17/",
+      "motivo": "Primeira fala da pessoa com quem Subaru quase esbarra, antes de ele erguer o rosto e reconhecer a mulher; preservar a surpresa. Mulher de cabelos pretos precede a apresentação nominal de Elsa."
+    },
+    {
+      "id": "F-A01-C16-02",
+      "capitulo_id": "A01-C16",
+      "trecho": "Já tá falando demais, que coisa irritante. Olha o tanto de coisa que você diz só de ver onde alguém dorme, cara.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/17/",
+      "motivo": "A voz vem de trás de Subaru antes de ele se virar e reconhecer Felt; preservar a ordem da revelação."
     }
   ],
   "variantes_terminologicas": [

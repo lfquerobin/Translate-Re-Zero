@@ -24,13 +24,14 @@ Os símbolos ✔️/✖️ dos nomes de arquivo foram preservados e não determi
 | 1 / [Capítulo 11](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012.  Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md>) | [JP](https://ncode.syosetu.com/n2267be/12/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-11-a-struggle-too-late/) | Registrada no histórico · 01/11/2026 | Pendente | Com pendência · 01/11/2026 | Ajustado · 01/11/2026 |
 | 1 / [Capítulo 12](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 013. Arco 1, Capítulo 12 – “Reencontro com a Bruxa”.md>) | [JP](https://ncode.syosetu.com/n2267be/13/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-12-reunion-with-the-witch/) | Registrada no histórico · 01/11/2026 | Pendente | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
 | 1 / [Capítulo 13](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 014. Arco 1, Capítulo 13 – “Fim e começo”.md>) | [JP](https://ncode.syosetu.com/n2267be/14/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-13-ending-and-beginning/) | Concluída · 01/11/2026 | Concluída · 01/11/2026 | Conferida · 01/11/2026 | Ajustado · 01/11/2026 |
-| 1 / [Capítulo 14](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md>) | [JP](https://ncode.syosetu.com/n2267be/15/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-14-fourth-times-a-charm/) | Concluída · 13/11/2026 | Concluída · 13/11/2026 | Conferida · 13/11/2026 | Ajustado · 13/11/2026 |
+| 1 / [Capítulo 14](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md>) | [JP](https://ncode.syosetu.com/n2267be/15/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-14-fourth-times-a-charm/) | Concluída · 13/11/2026 | Concluída · 13/11/2026 | Conferida · 13/11/2026 | Ajustado · 13/11/2026 |
 | 1 / [Capítulo 15](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md>) | [JP](https://ncode.syosetu.com/n2267be/16/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-15-because-he-is-the-sword-saint/) | Concluída · 13/11/2026 | Concluída · 13/11/2026 | Conferida · 13/11/2026 | Ajustado · 13/11/2026 |
+| 1 / [Capítulo 16](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md>) | [JP](https://ncode.syosetu.com/n2267be/17/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-16-negotiation-in-the-slums/) | Concluída · 15/11/2026 | Concluída · 15/11/2026 | Conferida · 15/11/2026 | Ajustado · 15/11/2026 |
 
 ## Trabalho em aberto
 
 - 13 capítulos/textos aguardam registro de releitura contínua final.
 - 2 atribuições de fala em investigação; consultar [PENDÊNCIAS.md](PENDÊNCIAS.md).
-- 19 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
+- 21 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
 
 A aprovação estrutural do verificador não conclui nenhuma etapa editorial. Registrar data, escopo e evidência após executar a revisão correspondente.

@@ -74,6 +74,14 @@ Fonte: [WN, Arco 1, capítulo 15 — resgate e conversa no beco](https://ncode.s
 
 Fonte: [WN, Arco 1, capítulo 15 — agradecimento a Reinhard](https://ncode.syosetu.com/n2267be/16/), conferida em 13 de novembro de 2026.
 
+## Subaru, Elsa e Felt — capítulo 16
+
+- **Subaru diante de Elsa:** a negação repetida de medo se desfaz nas próprias palavras: “Isso me assusta de verdade― […] assusta mesmo―”. Preservar a tentativa atrapalhada de aparentar confiança; a troca para um jeito mais polido de falar não apaga o pânico. A voz sobe na afirmação anterior de que seu ponto forte é a resistência física.
+- **Elsa ao reconhecer o medo:** “Você está com medo agora… E também está com raiva. De mim.” A serenidade e a diversão ao expor Subaru acompanham uma ameaça implícita. Não acrescentar insultos ou transformar a frase sobre o cheiro em diagnóstico sobrenatural explicado pela tradução.
+- **Felt ao oferecer seus serviços:** “É um jeito de sobreviver. Sem isso, só me restaria vender o corpo.” A fala é direta e prática; o contexto não autoriza infantilização nem esclarecimentos sobre um passado que o capítulo não conta. A aspereza de seu primeiro protesto não exige palavrões em todas as falas.
+
+Fonte: [WN, Arco 1, capítulo 16 — encontros com Elsa e Felt](https://ncode.syosetu.com/n2267be/17/), cotejada integralmente em 15 de novembro de 2026 com o inglês de SNUserTL. As fichas auxiliares do Manual da WCT foram consultadas; os exemplos acima foram verificados no capítulo, sem importar regras editoriais inglesas.
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.
