@@ -493,7 +493,7 @@
       "id": "A01-C15",
       "arco": 1,
       "capitulo": 15,
-      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md",
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md",
       "fontes": {
         "japones": "https://ncode.syosetu.com/n2267be/16/",
         "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-15-because-he-is-the-sword-saint/",
@@ -519,7 +519,7 @@
         "formato": {
           "estado": "ajustado",
           "data": "2026-11-13",
-          "observacao": "Cabeçalho conferido na WCT; arquivo integral com prefixo ✖️, conforme escolha do usuário. 69 falas isoladas, dois separadores e duas notas preexistentes preservados. Falas e vocalizações incorporadas mantidas na narração, incluindo restituições do japonês. Conferidas todas as unidades do inglês em sequência, sem impor correspondência mecânica de parágrafos."
+          "observacao": "Cabeçalho conferido na WCT; arquivo integral com prefixo ✖️, conforme escolha do usuário. 69 falas isoladas, dois separadores e duas notas preexistentes preservados. Falas e vocalizações incorporadas mantidas na narração, incluindo restituições do japonês. Conferidas todas as unidades do inglês em sequência, sem impor correspondência mecânica de parágrafos. Em 2026-11-15, registro sincronizado com a renomeação preexistente para ✔️ feita pelo usuário; conteúdo comparado com HEAD e preservado. Sem nova revisão editorial do capítulo 15."
         }
       }
     },
@@ -554,6 +554,40 @@
           "estado": "ajustado",
           "data": "2026-11-15",
           "observacao": "Cabeçalho com título, data e crédito conferidos na WCT. Texto integral em Markdown na pasta do Arco 1, com prefixo ✖️. Mantidos os três separadores do texto enviado, com 11, 23 e 12 símbolos. Sem novas notas na narrativa. Conferidas sequência e integridade de todos os trechos ingleses e das restituições japonesas, sem exigir identidade de parágrafos."
+        }
+      }
+    },
+    {
+      "id": "A01-C17",
+      "arco": 1,
+      "capitulo": 17,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/18/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-17-negotiation-in-the-loot-house/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-15",
+          "observacao": "Lidos integralmente o japonês da web novel e o inglês enviado, conferido na publicação WCT. Cotejo integral da sequência narrativa, falas e marcações. Restituída a reação de Felt omitida pelo inglês; corrigidos sujeito da informação divulgada, referente das provocações, resposta de Rom sobre palavras, limite inclusivo de vinte moedas e distinção entre entender a oferta e aceitá-la. Decisões documentadas no glossário. Manual online HTTP 200: conteúdo textual normalizado idêntico à captura HTML de 13/11/2026, excluídos scripts, estilos e diferenças de espaços. Consultadas entrada 魔法器, fichas de Felt e Rom e definição de 強か no KanjiPedia. Índice de erros da LN retornou só navegação; não foram importadas correções de outra versão."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-15",
+          "observacao": "Releitura contínua integral do português salvo, sem consulta simultânea às fontes. Ajustes locais de fluência e da terminação silabada de pressentimento, seguidos de nova comparação com os trechos-fonte. Conferidas transições, ritmo das provocações, repetições intencionais e falas curtas."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-15",
+          "observacao": "98 falas isoladas atribuídas a Subaru, Felt e Rom pelo diálogo completo, pelas ações e pelo japonês. Identificadas Felt ao ser empurrada e Subaru ao levar o chute, além da troca após o soco no queixo. Rom reconhecível na conversa da senha retomada dos capítulos anteriores; não há ocultação narrativa nova. Falas incorporadas e vocalizações preservadas na narração. Sem ocorrências de ??? nem atribuições editoriais pendentes."
+        },
+        "formato": {
+          "estado": "ajustado",
+          "data": "2026-11-15",
+          "observacao": "Cabeçalho com título, crédito e data conferidos na publicação WCT. Tradução integral salva na pasta do Arco 1 com prefixo ✖️. Preservados os três separadores enviados, com 11, 23 e 12 símbolos, e todas as unidades narrativas e falas em ordem, com restituição japonesa documentada. Não foram acrescentadas notas na narrativa. Releitura final realizada após a identificação dos diálogos."
         }
       }
     }

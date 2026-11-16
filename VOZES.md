@@ -82,6 +82,14 @@ Fonte: [WN, Arco 1, capítulo 15 — agradecimento a Reinhard](https://ncode.syo
 
 Fonte: [WN, Arco 1, capítulo 16 — encontros com Elsa e Felt](https://ncode.syosetu.com/n2267be/17/), cotejada integralmente em 15 de novembro de 2026 com o inglês de SNUserTL. As fichas auxiliares do Manual da WCT foram consultadas; os exemplos acima foram verificados no capítulo, sem importar regras editoriais inglesas.
 
+## Subaru, Felt e Rom — capítulo 17
+
+- **Subaru provocando Felt:** “É o meu pres-sen-ti-men-to” recupera a terminação marcada ヨ・カ・ン. A queixa de Felt recai tanto sobre o ar superior quanto sobre esse final. Manter o exagero no ponto em que ocorre, sem estender a silabação a outras falas.
+- **Felt negociando:** “Já entendi o que você tem na mão” reconhece o valor e a natureza da oferta. Sua fala direta não equivale a fechar o negócio, apesar da interpretação apressada de Subaru. A repetição da pergunta sobre a pressa conduz à pergunta final sobre o motivo de querer a insígnia.
+- **Rom respondendo às provocações:** “Não divido! Não divido, ouviu?!” e “Não tem ninguém do meu lado?! Esta casa não era minha?!” acompanham uma reclamação expansiva e a aliança brincalhona de Subaru com Felt. Ao receber o pedido de avaliação, Rom assume uma postura séria. Preservar a mudança de situação sem caricaturar a idade ou acrescentar regionalismos.
+
+Fonte: [WN, Arco 1, capítulo 17 — negociação no depósito](https://ncode.syosetu.com/n2267be/18/), cotejada integralmente em 15 de novembro de 2026 com a tradução inglesa de SNUserTL. Fichas auxiliares de Felt e Rom no Manual da WCT consultadas; os exemplos e suas atribuições foram conferidos no capítulo japonês.
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.
