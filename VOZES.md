@@ -90,6 +90,14 @@ Fonte: [WN, Arco 1, capítulo 16 — encontros com Elsa e Felt](https://ncode.sy
 
 Fonte: [WN, Arco 1, capítulo 17 — negociação no depósito](https://ncode.syosetu.com/n2267be/18/), cotejada integralmente em 15 de novembro de 2026 com a tradução inglesa de SNUserTL. Fichas auxiliares de Felt e Rom no Manual da WCT consultadas; os exemplos e suas atribuições foram conferidos no capítulo japonês.
 
+## Subaru, Felt, a garota de cabelos prateados e Puck — capítulo 18
+
+- **Felt na negociação:** “Acabou de se entregar. ―Você tá envolvido nisso.” A acusação de 関係者 se limita ao envolvimento de Subaru. A suspeita de que ele e a garota estão juntos aparece mais tarde. A hesitação em “Senão eu… É” fica sem explicação, como no original.
+- **A garota diante de Rom:** em “Só sou elfa pela metade”, a narração sugere que lhe dói dizer aquilo. Logo depois, reage com firmeza à associação de Felt. A variação de tom acompanha a cena e a comparação fica sem referente expresso.
+- **Subaru e Puck no confronto:** Subaru passa dos berros e das metáforas de jogo para o tom de apresentador de TV no mesmo fôlego. Puck responde com calma ao pedido de ataque. O contraste preserva a distração de Subaru e a compostura de Puck.
+
+Fonte: [WN, Arco 1, capítulo 18](https://ncode.syosetu.com/n2267be/19/), cotejada em 21 de novembro de 2026. As fichas do Manual da WCT serviram como referência auxiliar.
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.

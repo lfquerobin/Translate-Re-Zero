@@ -28,11 +28,12 @@ Os símbolos ✔️/✖️ dos nomes de arquivo foram preservados e não determi
 | 1 / [Capítulo 15](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md>) | [JP](https://ncode.syosetu.com/n2267be/16/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-15-because-he-is-the-sword-saint/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Conferida · 21/11/2026 | Conferida · 21/11/2026 |
 | 1 / [Capítulo 16](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md>) | [JP](https://ncode.syosetu.com/n2267be/17/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-16-negotiation-in-the-slums/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Conferida · 21/11/2026 | Conferida · 21/11/2026 |
 | 1 / [Capítulo 17](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”.md>) | [JP](https://ncode.syosetu.com/n2267be/18/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-17-negotiation-in-the-loot-house/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Conferida · 21/11/2026 | Conferida · 21/11/2026 |
+| 1 / [Capítulo 18](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md>) | [JP](https://ncode.syosetu.com/n2267be/19/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-18-battle-in-the-loot-house/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Conferida · 21/11/2026 | Conferida · 21/11/2026 |
 
 ## Trabalho em aberto
 
 - 0 capítulos/textos aguardam registro de releitura contínua final.
 - 2 atribuições de fala em investigação; consultar [PENDÊNCIAS.md](PENDÊNCIAS.md).
-- 21 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
+- 23 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
 
 A aprovação estrutural do verificador não conclui nenhuma etapa editorial. Registrar data, escopo e evidência após executar a revisão correspondente.

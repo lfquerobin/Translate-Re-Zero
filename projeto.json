@@ -616,6 +616,40 @@
           "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
+    },
+    {
+      "id": "A01-C18",
+      "arco": 1,
+      "capitulo": 18,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/19/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-18-battle-in-the-loot-house/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Capítulo integral cotejado com o original da web novel e com a tradução de SNUserTL. O texto colado corresponde ao corpo publicado em inglês. Conferidos a oferta, as conclusões de Felt e Subaru, os tempos de chegada e as ações até a barragem final."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua da tradução, seguida de cotejo dos ajustes de ritmo, pausas e voz, da negociação até o final do confronto."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Diálogos, pensamentos e vocalizações conferidos em contexto. Duas falas de entrada preservam a identificação no momento da narração."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome de arquivo, três separadores colados (11, 23 e 12 marcas) e marcações de diálogo e pensamento conferidos. Não há notas da fonte no corpo."
+        }
+      }
     }
   ],
   "ocorrencias_anonimas": [
@@ -820,6 +854,22 @@
       "tipo": "anonimato_narrativo",
       "referencia_japonesa": "https://ncode.syosetu.com/n2267be/17/",
       "motivo": "A voz vem de trás de Subaru antes de ele se virar e reconhecer Felt; preservar a ordem da revelação."
+    },
+    {
+      "id": "F-A01-C18-01",
+      "capitulo_id": "A01-C18",
+      "trecho": "―Matar vocês? Eu não faria uma coisa tão assustadora assim, de repente.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/19/",
+      "motivo": "A voz vem da porta recém-aberta; só a passagem seguinte identifica a garota de cabelos prateados."
+    },
+    {
+      "id": "F-A01-C18-02",
+      "capitulo_id": "A01-C18",
+      "trecho": "―Um espírito, um espírito, é? He, he, he, que maravilha. Nunca matei um espírito.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/19/",
+      "motivo": "O texto apresenta apenas a agressora antes da fala; a narração revela o nome logo depois."
     }
   ],
   "variantes_terminologicas": [
