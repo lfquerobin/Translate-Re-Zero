@@ -106,6 +106,14 @@ Fonte: [WN, Arco 1, capítulo 18](https://ncode.syosetu.com/n2267be/19/), coteja
 
 Fonte: [WN, Arco 1, capítulo 19](https://ncode.syosetu.com/n2267be/20/), cotejada em 21 de novembro de 2026 com a tradução de SNUserTL.
 
+## Subaru, Felt e a garota de cabelos prateados — capítulo 20
+
+- **Felt diante do resgate:** aceita que Subaru a ajudou, mas reage à piada dele e recusa a ordem de fugir. “Até um instante atrás você tava tremendo de medo” retoma a hesitação que ela viu na luta do capítulo 19.
+- **Subaru tentando se encorajar:** “Ânimo fingido ainda é ânimo. Coragem de maluco ainda é coragem” prepara uma série de variações sobre “fazer”. A fala avança aos trancos, e as provocações mantêm a atenção de Elsa longe de Felt.
+- **A garota reagindo à fantasia de Subaru:** “é uma bobagem compleeeta” retoma a ênfase de すごーく do capítulo 5. Nesta fala, o comentário de Elsa logo depois e a reação de Subaru às duas sustentam a atribuição. A semelhança sozinha não resolve a fala anterior sobre estar em segurança.
+
+Fonte: [WN, Arco 1, capítulo 20](https://ncode.syosetu.com/n2267be/21/), cotejada em 21 de novembro de 2026 com a tradução de SNUserTL.
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.

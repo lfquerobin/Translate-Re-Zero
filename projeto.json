@@ -684,6 +684,40 @@
           "observacao": "Cabeçalho, título e nome do arquivo, dois separadores colados (11 e 12 marcas), falas e marcas de narração conferidos. A data de publicação foi distinguida da data de atualização. O corpo não contém notas da fonte."
         }
       }
+    },
+    {
+      "id": "A01-C20",
+      "arco": 1,
+      "capitulo": 20,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 021. Arco 1, Capítulo 20 – “O elenco está completo”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/21/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-20-the-gangs-all-here/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejados integralmente o original japonês e a tradução de SNUserTL. O texto colado coincide com o corpo publicado. Conferidas a retomada do resgate, a memória do segundo mundo, a sequência de ações, a cartada não especificada e a chegada final."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua em português e reconferência dos ajustes de ritmo, repetições, transições, falas e descrição do combate."
+        },
+        "falantes": {
+          "estado": "com_pendencias",
+          "data": "2026-11-21",
+          "observacao": "Atribuições verificadas com o contexto japonês. A provocação sobre falar de um lugar seguro permanece aberta (P-A01-C20-01). Duas falas da chegada final preservam o anonimato até a descrição do rapaz."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome do arquivo, falas, fala incorporada, duas notas da fonte intermediária e dois separadores do texto colado (11 e 12 marcas) conferidos."
+        }
+      }
     }
   ],
   "ocorrencias_anonimas": [
@@ -904,6 +938,39 @@
       "tipo": "anonimato_narrativo",
       "referencia_japonesa": "https://ncode.syosetu.com/n2267be/19/",
       "motivo": "O texto apresenta apenas a agressora antes da fala; a narração revela o nome logo depois."
+    },
+    {
+      "id": "F-A01-C20-01",
+      "capitulo_id": "A01-C20",
+      "trecho": "Aí, em segurança, você se acha demaaaais, né?",
+      "tipo": "atribuicao_pendente",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/21/",
+      "pendencia_id": "P-A01-C20-01",
+      "estado": "aberta",
+      "registrada_em": "2026-11-21",
+      "motivo": "A resposta à provocação de Subaru não tem atribuição explícita. Elsa está desviando do gelo e a garota de cabelos prateados o está disparando; ambas acompanham a conversa.",
+      "interpretacoes": [
+        "Elsa",
+        "Garota de cabelos prateados"
+      ],
+      "original_japones": "「安全地帯からものすごーく、えらっそうね」",
+      "proximo_passo": "Elsa é a interlocutora da provocação sobre os insetos. A garota também pode comentar da posição de quem dá cobertura, e o alongamento de ものすごーく se parece com a ênfase dela em outros trechos. O cotejo e a busca pelo trecho não deram evidência conclusiva. Manter ??? até haver indicação da mesma versão."
+    },
+    {
+      "id": "F-A01-C20-02",
+      "capitulo_id": "A01-C20",
+      "trecho": "―Já chega.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/21/",
+      "motivo": "A voz interrompe o golpe antes de a narração mostrar qualquer figura."
+    },
+    {
+      "id": "F-A01-C20-03",
+      "capitulo_id": "A01-C20",
+      "trecho": "Parece que foi por pouco. Ainda bem que cheguei a tempo. Pois bem―",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/21/",
+      "motivo": "Subaru vê apenas um brilho em meio à fumaça antes da fala. A descrição do rapaz vem depois."
     }
   ],
   "variantes_terminologicas": [

@@ -41,6 +41,22 @@ Próximo passo: No cotejo de 21/11/2026, a ordem golpe, grito e esquiva continuo
 
 Fontes: [japonês](https://ncode.syosetu.com/n2267be/12/) e [fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-11-a-struggle-too-late/).
 
+### P-A01-C20-01 — aberta
+
+Capítulo: [Capítulo 20](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 021. Arco 1, Capítulo 20 – “O elenco está completo”.md>). Registrada em 2026-11-21.
+
+Português: Aí, em segurança, você se acha demaaaais, né?
+
+Original japonês: 「安全地帯からものすごーく、えらっそうね」
+
+Contexto: A resposta à provocação de Subaru não tem atribuição explícita. Elsa está desviando do gelo e a garota de cabelos prateados o está disparando; ambas acompanham a conversa.
+
+Interpretações possíveis: Elsa; Garota de cabelos prateados.
+
+Próximo passo: Elsa é a interlocutora da provocação sobre os insetos. A garota também pode comentar da posição de quem dá cobertura, e o alongamento de ものすごーく se parece com a ênfase dela em outros trechos. O cotejo e a busca pelo trecho não deram evidência conclusiva. Manter ??? até haver indicação da mesma versão.
+
+Fontes: [japonês](https://ncode.syosetu.com/n2267be/21/) e [fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-20-the-gangs-all-here/).
+
 ## Anonimato preservado na narrativa
 
 Os trechos abaixo são âncoras de localização. A eventual identificação posterior não autoriza revelar o nome antecipadamente.
@@ -70,5 +86,7 @@ Os trechos abaixo são âncoras de localização. A eventual identificação pos
 | F-A01-C16-02 | [Capítulo 16](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md>) · 270 | Já tá falando demais, que coisa irritante. Olha o tanto de coisa que você diz só d… | A voz vem de trás de Subaru antes de ele se virar e reconhecer Felt; preservar a ordem da revelação. | [JP](https://ncode.syosetu.com/n2267be/17/) |
 | F-A01-C18-01 | [Capítulo 18](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md>) · 154 | ―Matar vocês? Eu não faria uma coisa tão assustadora assim, de repente. | A voz vem da porta recém-aberta; só a passagem seguinte identifica a garota de cabelos prateados. | [JP](https://ncode.syosetu.com/n2267be/19/) |
 | F-A01-C18-02 | [Capítulo 18](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md>) · 344 | ―Um espírito, um espírito, é? He, he, he, que maravilha. Nunca matei um espírito. | O texto apresenta apenas a agressora antes da fala; a narração revela o nome logo depois. | [JP](https://ncode.syosetu.com/n2267be/19/) |
+| F-A01-C20-02 | [Capítulo 20](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 021. Arco 1, Capítulo 20 – “O elenco está completo”.md>) · 292 | ―Já chega. | A voz interrompe o golpe antes de a narração mostrar qualquer figura. | [JP](https://ncode.syosetu.com/n2267be/21/) |
+| F-A01-C20-03 | [Capítulo 20](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 021. Arco 1, Capítulo 20 – “O elenco está completo”.md>) · 302 | Parece que foi por pouco. Ainda bem que cheguei a tempo. Pois bem― | Subaru vê apenas um brilho em meio à fumaça antes da fala. A descrição do rapaz vem depois. | [JP](https://ncode.syosetu.com/n2267be/21/) |
 
 Não encerrar pendências escolhendo um candidato apenas para remover `???`. Se houver evidência nova, registrar a resolução e sua fonte antes de atualizar a fala e as etapas de revisão.

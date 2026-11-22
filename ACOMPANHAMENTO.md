@@ -30,11 +30,12 @@ Os símbolos ✔️/✖️ dos nomes de arquivo foram preservados e não determi
 | 1 / [Capítulo 17](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”.md>) | [JP](https://ncode.syosetu.com/n2267be/18/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-17-negotiation-in-the-loot-house/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Conferida · 21/11/2026 | Conferida · 21/11/2026 |
 | 1 / [Capítulo 18](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md>) | [JP](https://ncode.syosetu.com/n2267be/19/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-18-battle-in-the-loot-house/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Conferida · 21/11/2026 | Conferida · 21/11/2026 |
 | 1 / [Capítulo 19](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 020. Arco 1, Capítulo 19 – “A batalha de uma usuária de artes espirituais”.md>) | [JP](https://ncode.syosetu.com/n2267be/20/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-19-a-spirit-arts-users-battle/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Conferida · 21/11/2026 | Conferida · 21/11/2026 |
+| 1 / [Capítulo 20](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 021. Arco 1, Capítulo 20 – “O elenco está completo”.md>) | [JP](https://ncode.syosetu.com/n2267be/21/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-20-the-gangs-all-here/) | Concluída · 21/11/2026 | Concluída · 21/11/2026 | Com pendência · 21/11/2026 | Conferida · 21/11/2026 |
 
 ## Trabalho em aberto
 
 - 0 capítulos/textos aguardam registro de releitura contínua final.
-- 2 atribuições de fala em investigação; consultar [PENDÊNCIAS.md](PENDÊNCIAS.md).
-- 23 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
+- 3 atribuições de fala em investigação; consultar [PENDÊNCIAS.md](PENDÊNCIAS.md).
+- 25 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
 
 A aprovação estrutural do verificador não conclui nenhuma etapa editorial. Registrar data, escopo e evidência após executar a revisão correspondente.

@@ -248,3 +248,18 @@ O texto online do Manual da WCT mudou em relação à captura de 13/11/2026. A c
 - **Precisões do cotejo.** Na abertura, `実に二十本` dá ênfase à contagem de vinte. O gelo é comparado à velocidade de um arremesso, e o golpe que derruba Rom é da parte plana da lâmina, após o desvio pela faca de Felt. A exclamação final de Subaru, “Haidaraaaa―!”, preserva o grito da fonte. [Original japonês](https://ncode.syosetu.com/n2267be/20/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-19-a-spirit-arts-users-battle/)
 
 O Manual da WCT online respondeu HTTP 200. Seu texto normalizado permaneceu igual ao da captura de 21/11/2026. Consultadas as entradas 精霊術師 e オド e as fichas de voz pertinentes. [Captura do manual](Referências/WCT/README.md)
+
+## Decisões do capítulo 20 — 21 de novembro de 2026
+
+| Termo na fonte inglesa | Tradução adotada | Japonês conferido | Contexto |
+| --- | --- | --- | --- |
+| The Gang’s All Here | O elenco está completo | 役者は揃った | A imagem de elenco no título retoma o palco e a cortina na fala final (舞台の幕を引く). |
+| Kotetsu | Kotetsu | 虎鉄 | Nome que Subaru dá à clava de Rom durante a provocação. Preservado o nome da fonte inglesa. |
+| trump card | carta na manga | 切り札 | A garota menciona o efeito que espera se usar a carta. O capítulo deixa em aberto qual é o recurso. |
+| taken out by his own ally | fogo amigo | フレンドリーファイア | Expressão da narração para o risco de Subaru entrar no meio do gelo lançado pela aliada. |
+| BAD END 4 | BAD END 4 | ＢＡＤＥＮＤ４ | Mantida a forma em maiúsculas, como no capítulo 18. Subaru imagina o desfecho diante do golpe. |
+
+- **Correções confirmadas.** A queda de Felt e Subaru diante de Elsa pertence ao segundo mundo. O japonês especifica um treino diário com a espada de bambu e usa o vocabulário de beisebol em 右投げ左打ち, “arremesso com a direita e rebato com a esquerda”. A lembrança infantil menciona o tatame. [Original japonês](https://ncode.syosetu.com/n2267be/21/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-20-the-gangs-all-here/)
+- **Formulações preservadas.** 親のすねをかじる evoca depender dos pais. “Recorrer aos meus pais” mantém o sentido figurado na situação e a referência parental abrangente. Mantidas as duas notas de SNUserTL sobre o inglês de Subaru, no ponto em que aparecem na fonte. [Original japonês](https://ncode.syosetu.com/n2267be/21/) · [Verbete no KanjiPedia](https://www.kanjipedia.jp/kotoba/0003669800)
+
+O download do Manual da WCT respondeu HTTP 200, e a comparação do texto normalizado com a captura de 21/11/2026 não mostrou mudanças. Consultadas as fichas pertinentes. O índice de erros da light novel retornou apenas navegação. [Captura do manual](Referências/WCT/README.md)
