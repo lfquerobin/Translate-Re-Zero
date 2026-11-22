@@ -11,9 +11,9 @@
 - O índice da web novel reúne links do original japonês e das traduções inglesas. A numeração da URL japonesa inclui o prólogo: no Arco 1, o prólogo corresponde a `/1/` e o capítulo 1 a `/2/`. Usar o título para conferir a correspondência. As datas do original japonês não substituem a data de publicação da tradução inglesa usada como fonte.
 - [Felt chama Subaru pelo nome antes de aprendê-lo — LN, volume 1, capítulo 2, seção 5, p. 87](https://rezerodb.com/translation_meta/ln_mistls/felt-addresses-subaru-by-name-before-learning-it): o índice aponta a substituição de 兄ちゃん por “Subaru” na edição inglesa. É um alerta para conferir formas de tratamento e o que cada personagem sabe naquele momento. Não constitui erro confirmado nos capítulos da web novel deste projeto.
 
-## Link do original — Arco 1, capítulo 18
+## Links do original — Arco 1, capítulos 18 e 19
 
-O link “Japanese Web Novel Source” na publicação inglesa leva ao capítulo 6 do Arco 7. Para o cotejo do Arco 1, usar 『盗品蔵の攻防』, a 19ª entrada da web novel. [Publicação inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-18-battle-in-the-loot-house/) · [Original japonês correspondente](https://ncode.syosetu.com/n2267be/19/)
+O link “Japanese Web Novel Source” nas duas publicações inglesas leva ao capítulo 6 do Arco 7. Os originais correspondentes do Arco 1 são 『盗品蔵の攻防』 e 『精霊術師の戦い』. [Capítulo 18 em japonês](https://ncode.syosetu.com/n2267be/19/) · [Capítulo 19 em japonês](https://ncode.syosetu.com/n2267be/20/)
 
 ## Referências de método editorial
 

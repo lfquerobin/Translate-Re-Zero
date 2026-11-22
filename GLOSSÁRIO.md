@@ -13,7 +13,7 @@ Preencher as colunas de termo japonês e fonte da verificação conforme as cons
 | insignia | insígnia | Objeto roubado; não confundir com o emblema no casaco. | 徽章 | Web novel, Arco 1, capítulo 3, pergunta da garota sobre o furto; [original japonês](https://ncode.syosetu.com/n2267be/4/). |
 | emblem | emblema | No capítulo 3, desenho de uma ave no casaco. | 紋章 | Web novel, Arco 1, capítulo 3, descrição do casaco branco; [original japonês](https://ncode.syosetu.com/n2267be/4/). |
 | spirit | espírito | Preservar maiúsculas quando usadas intencionalmente na fonte. | 精霊 | Web novel, Arco 1, capítulo 5, explicação de Puck sobre sua manifestação; [original japonês](https://ncode.syosetu.com/n2267be/6/). |
-| spirit user | usuária de espíritos | Ajustar o gênero conforme a pessoa referida. | 精霊使い | Web novel, Arco 1, capítulo 3, reação do homem da faca; [original japonês](https://ncode.syosetu.com/n2267be/4/). |
+| spirit user | usuário de espíritos / usuária de espíritos | Ajustar o gênero conforme a pessoa referida. Rom distingue usuários de espíritos de magos pela origem da mana que usam. | 精霊使い | Web novel, Arco 1, [capítulo 3](https://ncode.syosetu.com/n2267be/4/), reação do homem da faca, e [capítulo 19](https://ncode.syosetu.com/n2267be/20/), explicação de Rom. |
 | divine protection | proteção divina | Verificar o nome específico de cada proteção. | 加護 | Web novel, Arco 1, capítulo 11, avaliação que Elsa faz de Subaru; [original japonês](https://ncode.syosetu.com/n2267be/12/). |
 | mana | mana | Substantivo feminino no projeto. | マナ | Web novel, Arco 1, capítulo 5, explicação de Puck sobre sua manifestação; [original japonês](https://ncode.syosetu.com/n2267be/6/). |
 | demihuman / subhuman | semi-humano | Quando corresponder ao japonês 亜人, designa um grupo do mundo da obra; não traduzir como insulto “sub-humano”. Verificação feita no capítulo 2. | 亜人 | Web novel, Arco 1, capítulo 2, descrição inicial dos bandidos; [original japonês](https://ncode.syosetu.com/n2267be/3/). |
@@ -25,7 +25,7 @@ Preencher as colunas de termo japonês e fonte da verificação conforme as cons
 | Felt | Felt | Nome apresentado no capítulo 6. | フェルト | Web novel, Arco 1, capítulo 6, informações dadas pelo morador dos bairros pobres; [original japonês](https://ncode.syosetu.com/n2267be/7/). |
 | Bocco fruit | fruta Bocco | Fruta que estimula a mana e pode acelerar a cicatrização; capítulo 6. | ボッコの実 | Web novel, Arco 1, capítulo 6, reação de Subaru à fruta; [original japonês](https://ncode.syosetu.com/n2267be/7/). |
 | gate | portal | ゲート: passagem de mana no corpo; capítulo 6. | ゲート | Web novel, Arco 1, capítulo 6, comentário de Puck após drenar a mana; [original japonês](https://ncode.syosetu.com/n2267be/7/). |
-| Od | Od | オド: manter o termo sem antecipar explicações; capítulo 6. | オド | Web novel, Arco 1, capítulo 6, instrução de Puck antes de desaparecer; [original japonês](https://ncode.syosetu.com/n2267be/7/). |
+| Od | Od | Manter o termo no feminino, como na primeira fala de Puck. No capítulo 19, ele repete que pode ser chamado pela Od e menciona o pacto. | オド | Web novel, Arco 1, [capítulo 6](https://ncode.syosetu.com/n2267be/7/) e [capítulo 19](https://ncode.syosetu.com/n2267be/20/), instruções de Puck antes de desaparecer. |
 | loot house | depósito de mercadorias roubadas | 盗品蔵: lugar onde os produtos roubados são guardados e reunidos para revenda; capítulo 6. | 盗品蔵 | Web novel, Arco 1, capítulo 12, reflexões de Subaru e decisão de procurar Rom; [original japonês](https://ncode.syosetu.com/n2267be/13/). |
 | lagmite | lagmita | ラグマイト: mineral que emite luz após uma batida; capítulo 6. | ラグマイト | Web novel, Arco 1, capítulo 6, entrada no depósito; [original japonês](https://ncode.syosetu.com/n2267be/7/). |
 | slums | bairros pobres | Forma usada nos capítulos 5 e 6. | 貧民街 / スラム | Web novel, Arco 1, capítulo 5, busca pelo objeto roubado; [original japonês](https://ncode.syosetu.com/n2267be/6/). |
@@ -234,3 +234,17 @@ Referências auxiliares: Manual da WCT online obtido por HTTP 200 e comparado te
 - **Continuidade e revelações.** “Meteoro” conserva a adaptação já adotada para 魔法器. O primeiro chamado de cada nova voz na chegada à porta e na revelação da agressora mantém `???` até a identificação na narração. São ocorrências de anonimato narrativo registradas em `projeto.json`. A resposta hesitante de Felt e a semelhança apontada à garota ficam em aberto como no original. [Original japonês](https://ncode.syosetu.com/n2267be/19/)
 
 O texto online do Manual da WCT mudou em relação à captura de 13/11/2026. A captura de 21/11/2026 inclui a entrada 精霊術 consultada para este capítulo. O índice de erros da light novel retornou apenas a navegação na consulta. [Histórico das capturas](Referências/WCT/README.md)
+
+## Decisões do capítulo 19 — 21 de novembro de 2026
+
+| Termo na fonte inglesa | Tradução adotada | Japonês conferido | Contexto |
+| --- | --- | --- | --- |
+| spirit arts user | usuária de artes espirituais | 精霊術師 / 精霊術の使い手 | O título português acompanha a garota que usa artes espirituais no capítulo. A fala dela emprega “quem pratica artes espirituais”. |
+| magic user | mago / maga | 魔法使い | Nas explicações de Rom, magos usam sua própria mana e usuários de espíritos usam a mana ao redor. |
+| remain corporeal | ficar manifestado | 顕現 | Rom trata a duração da manifestação do espírito como um limite separado. Puck diz que sua mana acabou antes de desaparecer. |
+| contract | pacto | 盟約 | Nome da obrigação que Puck afirma que cumprirá se acontecer algo com a garota. O capítulo deixa os termos do pacto em aberto. |
+| bad flag / MP | flag de que vai dar ruim / MP | ダメなフラグ / ＭＰ | Vocabulário de jogo de Subaru. Rom repete a sigla como “eme-pê”, sem saber o que significa. |
+
+- **Precisões do cotejo.** Na abertura, `実に二十本` dá ênfase à contagem de vinte. O gelo é comparado à velocidade de um arremesso, e o golpe que derruba Rom é da parte plana da lâmina, após o desvio pela faca de Felt. A exclamação final de Subaru, “Haidaraaaa―!”, preserva o grito da fonte. [Original japonês](https://ncode.syosetu.com/n2267be/20/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-19-a-spirit-arts-users-battle/)
+
+O Manual da WCT online respondeu HTTP 200. Seu texto normalizado permaneceu igual ao da captura de 21/11/2026. Consultadas as entradas 精霊術師 e オド e as fichas de voz pertinentes. [Captura do manual](Referências/WCT/README.md)

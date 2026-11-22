@@ -587,7 +587,7 @@
       "id": "A01-C17",
       "arco": 1,
       "capitulo": 17,
-      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”.md",
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”.md",
       "fontes": {
         "japones": "https://ncode.syosetu.com/n2267be/18/",
         "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-17-negotiation-in-the-loot-house/",
@@ -648,6 +648,40 @@
           "estado": "conferida",
           "data": "2026-11-21",
           "observacao": "Cabeçalho, nome de arquivo, três separadores colados (11, 23 e 12 marcas) e marcações de diálogo e pensamento conferidos. Não há notas da fonte no corpo."
+        }
+      }
+    },
+    {
+      "id": "A01-C19",
+      "arco": 1,
+      "capitulo": 19,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 020. Arco 1, Capítulo 19 – “A batalha de uma usuária de artes espirituais”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/20/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-19-a-spirit-arts-users-battle/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com a web novel japonesa e a tradução de SNUserTL. Texto colado conferido com o corpo online. Revisados a contagem inicial, os limites das artes espirituais, as ações no depósito e a ordem dos acontecimentos até o resgate de Felt."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua em português, seguida de reconferência dos ajustes de ritmo, diálogo e descrição do combate com as fontes."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Atribuições conferidas pela narração e pelas ações. Mantido o rótulo descritivo da garota de cabelos prateados. Felt lança a faca; Subaru grita no resgate final."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, título e nome do arquivo, dois separadores colados (11 e 12 marcas), falas e marcas de narração conferidos. A data de publicação foi distinguida da data de atualização. O corpo não contém notas da fonte."
         }
       }
     }

@@ -98,6 +98,14 @@ Fonte: [WN, Arco 1, capítulo 17 — negociação no depósito](https://ncode.sy
 
 Fonte: [WN, Arco 1, capítulo 18](https://ncode.syosetu.com/n2267be/19/), cotejada em 21 de novembro de 2026. As fichas do Manual da WCT serviram como referência auxiliar.
 
+## Puck, Rom e Felt — capítulo 19
+
+- **Puck diante de Elsa:** a provocação casual em “Já cansou de ver o mesmo número, né?” acompanha a imagem da cortina. O pequeno “miau” recupera a brincadeira de pronúncia em にゃい. Ao avisar que sua mana acabou, Puck perde a desenvoltura que tinha até ali.
+- **Rom explicando as artes espirituais:** diz “eme-pê” como quem repete uma expressão desconhecida. A metáfora de munição é dele; gasolina e motor são comparações de Subaru, e Rom não as entende.
+- **Felt agradecendo:** “Você meio que me salvou” é seguido de “Só um pouquinho, tá?” e da objeção a ser chamada de criança. O reconhecimento e a defesa da própria idade convivem na fala.
+
+Fonte: [WN, Arco 1, capítulo 19](https://ncode.syosetu.com/n2267be/20/), cotejada em 21 de novembro de 2026 com a tradução de SNUserTL.
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.
