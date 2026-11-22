@@ -18,22 +18,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Reconstituídas a posição do corpo, a natureza do sangue, o ferimento e a imagem da consciência. Conferida a continuidade com o capítulo 6."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -50,22 +52,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos a apresentação de Subaru, o movimento da carruagem, a geração escolar, o contraste noite/dia e a chegada dos três homens."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -82,22 +86,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos os golpes, a rendição, a passagem da garota loira e o pensamento final sobre morrer sem ter feito nada."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -114,22 +120,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos a descrição da garota, a sequência do gelo, a posição do gato e a imagem do segundo beijo no chão."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -146,22 +154,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Conferidos o falsete, a oferta de ajuda, a piada em inglês e o limite de cinco minutos no japonês."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -178,22 +188,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos a dificuldade de comunicação, o conhecimento da escrita, a recusa de recorrer aos guardas e a apresentação como Satella."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "com_pendencias",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Atribuições conferidas em contexto com o japonês. Mantida a dúvida editorial P-A01-C05-01."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -210,22 +222,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos o percurso da busca, a drenagem de mana e a entrada no depósito. A cena final foi cotejada também com o prólogo."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -242,22 +256,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos o reencontro com o vendedor, a hipótese de cura, o arrependimento de Subaru e a sucessão das ações no beco."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -274,22 +290,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos os preparativos à porta, a conversa sobre a bebida e os motivos para aceitar o prejuízo. Conferida a adaptação de meteoro."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -306,22 +324,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Conferidas a chegada de Felt, as reações à fotografia, a ordem das ofertas e a condição inclusiva de vinte moedas."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após as mudanças de apresentação dos diálogos; os trechos incorporados ajustados foram relidos."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -338,22 +358,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos a posição dos interlocutores na negociação, a intervenção de Felt e a sequência do combate de Rom e Elsa."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -361,7 +383,7 @@
       "id": "A01-C11",
       "arco": 1,
       "capitulo": 11,
-      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012.  Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md",
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012. Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md",
       "fontes": {
         "japones": "https://ncode.syosetu.com/n2267be/12/",
         "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-11-a-struggle-too-late/",
@@ -370,22 +392,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos o confronto no depósito, a fala prejudicada pelo ferimento, a perda da visão e a repetição final de medo."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "com_pendencias",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Atribuições conferidas em contexto com o japonês. Mantida a dúvida editorial P-A01-C11-01."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -402,22 +426,24 @@
       },
       "revisoes": {
         "fidelidade": {
-          "estado": "registrada",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral registrado na revisão anterior em GLOSSÁRIO.md; esta atualização de organização não constitui novo cotejo integral."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos a reação de Subaru ao despertar, a rejeição do nome Satella, a sequência do furto e a perseguição."
         },
         "naturalidade": {
-          "estado": "pendente",
-          "data": null,
-          "observacao": "Falta registrar releitura contínua integral após a aplicação das identificações de falantes."
+          "estado": "concluida",
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01"
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01"
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -435,23 +461,23 @@
       "revisoes": {
         "fidelidade": {
           "estado": "concluida",
-          "data": "2026-11-01",
-          "observacao": "Cotejo integral do capítulo da web novel japonesa com a tradução inglesa enviada pelo usuário; título, publicação e crédito conferidos na WCT. Corrigidas as divergências confirmadas registradas no glossário."
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos a mudança de postura no beco, as hipóteses sobre o pacote de salgadinhos e a progressão dos pensamentos finais."
         },
         "naturalidade": {
           "estado": "concluida",
-          "data": "2026-11-01",
-          "observacao": "Leitura contínua do português; ajustes de ritmo e repetições comparados novamente com as fontes."
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-01",
-          "observacao": "Usados os apelidos apenas após identificação contextual; Bandido identifica um integrante do trio sem fixar qual pessoa fala quando o trecho não o distingue."
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-01",
-          "observacao": "169 unidades do texto enviado, incluindo uma nota preexistente e três separadores; 52 falas isoladas identificadas, sem converter pensamentos em diálogo. Em 2026-11-13, corrigido somente o caminho cadastrado para o nome já existente com ✔️; nenhum arquivo foi renomeado nem nova revisão do capítulo 13 realizada."
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -469,23 +495,23 @@
       "revisoes": {
         "fidelidade": {
           "estado": "concluida",
-          "data": "2026-11-13",
-          "observacao": "Leitura integral do japonês da web novel e do inglês enviado; cotejo de todo o capítulo. Correções confirmadas e notas preexistentes registradas no glossário; consulta ao Manual da WCT indisponível, sem impedir acesso às duas fontes primárias do trabalho."
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos o raciocínio sobre as mortes, o valor mínimo do celular e as razões de Subaru para procurar Felt, Rom e a garota."
         },
         "naturalidade": {
           "estado": "concluida",
-          "data": "2026-11-13",
-          "observacao": "Releitura contínua integral do português salvo, seguida de ajustes locais e novo cotejo dos trechos afetados; leitura final das transições, falas curtas e interrupções."
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-13",
-          "observacao": "Falas isoladas de Subaru e do vendedor de vasos conferidas pelo contexto e pelo japonês. Vocalização e cantarolar incorporados preservados na narração; pensamento sobre a barba não convertido em diálogo. Sem ocorrências de ??? neste capítulo."
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-13",
-          "observacao": "Cabeçalho completo conferido na WCT; nome corresponde ao título. Preservados três separadores e três notas preexistentes; texto integral em Markdown na pasta do Arco 1. Em 2026-11-13, cadastro sincronizado com o nome já existente com ✖️, preservando o arquivo e o símbolo escolhidos; sem alteração do conteúdo ou das etapas de revisão. Em 2026-11-15, cadastro atualizado para a renomeação preexistente com ✔️ escolhida pelo usuário; conteúdo comparado com HEAD e preservado, sem nova revisão editorial."
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -503,23 +529,23 @@
       "revisoes": {
         "fidelidade": {
           "estado": "concluida",
-          "data": "2026-11-13",
-          "observacao": "Lidos integralmente o original japonês da web novel e o inglês enviado. Cotejo integral de narração, falas e marcações, incluindo omissões inglesas restituídas e correções registradas em GLOSSÁRIO.md. Manual online obtido via download HTTP 200 e comparado com a captura local de 13/11/2026: texto normalizado idêntico, sem nova captura necessária. Consultadas entradas terminológicas e ficha de Reinhard."
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos os preparativos no beco, o pedido de ajuda, o reconhecimento de Reinhard e as falas iniciais de Ton e Chin."
         },
         "naturalidade": {
           "estado": "concluida",
-          "data": "2026-11-13",
-          "observacao": "Releitura contínua integral do português salvo após a tradução e a identificação dos diálogos; ajustes de construção sintática, registro e descrição do arremesso conferidos novamente no japonês e no contexto anterior. Conferidas transições e falas curtas na leitura final."
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-13",
-          "observacao": "Primeira voz do novo rapaz preservada como ??? até sua aparição; Rapaz de cabelos ruivos até Chin revelar Reinhard. Kan identificado pelo fato de estar desarmado; Chin pela narração explícita. Bandido é rótulo genérico de integrante confirmado do trio e não fixa ordem individual de Ton e Chin nem identidade por alternância."
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-13",
-          "observacao": "Cabeçalho conferido na WCT; arquivo integral com prefixo ✖️, conforme escolha do usuário. 69 falas isoladas, dois separadores e duas notas preexistentes preservados. Falas e vocalizações incorporadas mantidas na narração, incluindo restituições do japonês. Conferidas todas as unidades do inglês em sequência, sem impor correspondência mecânica de parágrafos. Em 2026-11-15, registro sincronizado com a renomeação preexistente para ✔️ feita pelo usuário; conteúdo comparado com HEAD e preservado. Sem nova revisão editorial do capítulo 15."
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -527,7 +553,7 @@
       "id": "A01-C16",
       "arco": 1,
       "capitulo": 16,
-      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md",
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md",
       "fontes": {
         "japones": "https://ncode.syosetu.com/n2267be/17/",
         "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-16-negotiation-in-the-slums/",
@@ -537,23 +563,23 @@
       "revisoes": {
         "fidelidade": {
           "estado": "concluida",
-          "data": "2026-11-15",
-          "observacao": "Leitura integral do original japonês da web novel e do inglês enviado, conferido na publicação WCT. Cotejo integral da narração, das falas e das marcações; duas omissões inglesas restituídas e correções registradas no glossário. Manual online obtido por HTTP 200: conteúdo textual normalizado idêntico ao HTML da captura local de 13/11/2026, excluídos scripts, estilos e diferenças de espaços; nenhuma nova captura necessária. Consultadas entrada 獣人 e fichas de Felt e Elsa sem importar convenções inglesas. Índice de erros da LN consultado, mas ferramenta retornou apenas navegação; nenhuma correção importada de outra versão."
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos os vestígios do gelo, a quase colisão com Elsa, a busca pelo abrigo e a abertura da negociação com Felt."
         },
         "naturalidade": {
           "estado": "concluida",
-          "data": "2026-11-15",
-          "observacao": "Releitura contínua integral do português salvo, sem consulta simultânea às fontes. Ajustes de repetição, descrição do sofrimento da morte, hesitação após o reencontro e localização no interior dos bairros pobres comparados novamente aos trechos japoneses e ingleses. Conferência final de transições e interrupções."
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-15",
-          "observacao": "59 falas isoladas conferidas pelo contexto e japonês. Morador descreve o interlocutor local sem nomeá-lo. Primeiras falas antes de reconhecer Elsa e de se virar para Felt com ???, registradas como anonimato narrativo; Mulher de cabelos pretos até a apresentação nominal de Elsa. Falas incorporadas e vocalizações de Subaru e Felt preservadas na narrativa. Sem atribuição editorial pendente."
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-15",
-          "observacao": "Cabeçalho com título, data e crédito conferidos na WCT. Texto integral em Markdown na pasta do Arco 1, com prefixo ✖️. Mantidos os três separadores do texto enviado, com 11, 23 e 12 símbolos. Sem novas notas na narrativa. Conferidas sequência e integridade de todos os trechos ingleses e das restituições japonesas, sem exigir identidade de parágrafos."
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     },
@@ -571,23 +597,23 @@
       "revisoes": {
         "fidelidade": {
           "estado": "concluida",
-          "data": "2026-11-15",
-          "observacao": "Lidos integralmente o japonês da web novel e o inglês enviado, conferido na publicação WCT. Cotejo integral da sequência narrativa, falas e marcações. Restituída a reação de Felt omitida pelo inglês; corrigidos sujeito da informação divulgada, referente das provocações, resposta de Rom sobre palavras, limite inclusivo de vinte moedas e distinção entre entender a oferta e aceitá-la. Decisões documentadas no glossário. Manual online HTTP 200: conteúdo textual normalizado idêntico à captura HTML de 13/11/2026, excluídos scripts, estilos e diferenças de espaços. Consultadas entrada 魔法器, fichas de Felt e Rom e definição de 強か no KanjiPedia. Índice de erros da LN retornou só navegação; não foram importadas correções de outra versão."
+          "data": "2026-11-21",
+          "observacao": "Cotejo integral com o japonês da web novel e a tradução da WCT. Conferidas a sequência da narrativa, as falas, as notas e as divisões da fonte. Revistos a demonstração do celular, a troca de farpas no depósito e a progressão da avaliação até a pergunta final de Felt."
         },
         "naturalidade": {
           "estado": "concluida",
-          "data": "2026-11-15",
-          "observacao": "Releitura contínua integral do português salvo, sem consulta simultânea às fontes. Ajustes locais de fluência e da terminação silabada de pressentimento, seguidos de nova comparação com os trechos-fonte. Conferidas transições, ritmo das provocações, repetições intencionais e falas curtas."
+          "data": "2026-11-21",
+          "observacao": "Releitura contínua do português e reconferência das alterações com a fonte, com atenção à voz, às retomadas e às transições da versão salva."
         },
         "falantes": {
           "estado": "conferida",
-          "data": "2026-11-15",
-          "observacao": "98 falas isoladas atribuídas a Subaru, Felt e Rom pelo diálogo completo, pelas ações e pelo japonês. Identificadas Felt ao ser empurrada e Subaru ao levar o chute, além da troca após o soco no queixo. Rom reconhecível na conversa da senha retomada dos capítulos anteriores; não há ocultação narrativa nova. Falas incorporadas e vocalizações preservadas na narração. Sem ocorrências de ??? nem atribuições editoriais pendentes."
+          "data": "2026-11-21",
+          "observacao": "Falas e narração conferidas em contexto com o japonês, respeitando a ordem das revelações."
         },
         "formato": {
-          "estado": "ajustado",
-          "data": "2026-11-15",
-          "observacao": "Cabeçalho com título, crédito e data conferidos na publicação WCT. Tradução integral salva na pasta do Arco 1 com prefixo ✖️. Preservados os três separadores enviados, com 11, 23 e 12 símbolos, e todas as unidades narrativas e falas em ordem, com restituição japonesa documentada. Não foram acrescentadas notas na narrativa. Releitura final realizada após a identificação dos diálogos."
+          "estado": "conferida",
+          "data": "2026-11-21",
+          "observacao": "Cabeçalho, nome, separadores e marcações de diálogo conferidos na versão salva."
         }
       }
     }
@@ -668,7 +694,7 @@
     {
       "id": "F-A01-C04-02",
       "capitulo_id": "A01-C04",
-      "trecho": "Não tente se mexer ainda. Você machucou a cabeça, então não é seguro.",
+      "trecho": "Não tente se mexer ainda. Você bateu a cabeça também, então é melhor ter cuidado.",
       "tipo": "anonimato_narrativo",
       "referencia_japonesa": "https://ncode.syosetu.com/n2267be/5/",
       "motivo": "Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual."
@@ -696,7 +722,7 @@
         "Garota de cabelos prateados"
       ],
       "original_japones": "「聞き込み中に後ろでぼそぼそ『金髪で……歯が、あ、やっぱいいです』とか言ってたから大まかな特徴は割れてるけどね」",
-      "proximo_passo": "Reabrir a atribuição quando houver evidência contextual adicional da mesma versão; manter ??? enquanto as duas interpretações continuarem possíveis."
+      "proximo_passo": "No cotejo de 21/11/2026, a frase e o diálogo ao redor continuaram sem identificação suficiente. A posição atrás da garota favorece essa leitura, mas Puck estava no ombro dela e acompanhou a busca. Manter ??? até haver evidência adicional da mesma versão."
     },
     {
       "id": "F-A01-C06-01",
@@ -761,7 +787,7 @@
         "Elsa"
       ],
       "original_japones": "「な――！？」",
-      "proximo_passo": "Reabrir a atribuição quando houver evidência contextual adicional da mesma versão; manter ??? enquanto as duas interpretações continuarem possíveis."
+      "proximo_passo": "No cotejo de 21/11/2026, a ordem golpe, grito e esquiva continuou sem identificar a voz. O grito pode acompanhar a reação de Subaru ao golpe ou a surpresa de Elsa diante da esquiva. Manter ??? até haver evidência adicional da mesma versão."
     },
     {
       "id": "F-A01-C12-01",

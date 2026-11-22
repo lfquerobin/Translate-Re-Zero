@@ -93,3 +93,5 @@ Fonte: [WN, Arco 1, capítulo 17 — negociação no depósito](https://ncode.sy
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.
+
+Quando um trecho retomar uma cena anterior, reler os dois trechos antes de escolher o tratamento ou refazer uma frase recorrente. Na revisão de 21 de novembro de 2026, a abertura coloquial “A coisa tá feia mesmo” foi retomada na cena de morte do capítulo 6, acompanhando a repetição de `これは本気でヤバい` do prólogo. Os rótulos de fala acompanham o conhecimento disponível em cada passagem. [Prólogo japonês](https://ncode.syosetu.com/n2267be/1/) · [Capítulo 6 japonês](https://ncode.syosetu.com/n2267be/7/)

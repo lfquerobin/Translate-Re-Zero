@@ -31,6 +31,8 @@ Preservar pausas, repetições intencionais, hesitações, interrupções, inten
 
 Os exemplos de `VOZES.md` são referências contextualizadas, não fórmulas para todas as falas nem provas isoladas de quem fala. Distinguir exemplos conferidos no capítulo de observações auxiliares do manual.
 
+Selecionar as referências de voz e tratamento pertinentes à cena, ao interlocutor e ao que os personagens e o leitor sabem naquele ponto. Para uma retomada ou transição, reler o final do trecho anterior e recuperar apenas os acontecimentos e as decisões terminológicas necessários para a continuidade.
+
 Verificar sujeitos, ações, referentes dos pronomes e relações de causa, consequência, contraste, condição e sequência temporal. Esclarecer referentes apenas quando a fonte permitir. Não explicitar relações, intenções ou informações que ela deixa indefinidas, sobretudo se isso eliminar uma interpretação ou antecipar uma revelação.
 
 Avaliar frases e transições junto das anteriores e seguintes. Evitar literalismos ou soluções burocráticas que destoem do registro, como “a saber” numa passagem informal, sem transformar exemplos em lista de palavras proibidas nem simplificar indiscriminadamente a prosa. Manter construções formais próprias da voz. Nas frases interrompidas, conferir a ligação natural com a continuação ou a fala seguinte, preservando a interrupção.
@@ -82,6 +84,12 @@ Não inserir novas notas ou explicações na narrativa sem solicitação. Preser
 
 1. **Fidelidade:** comparar integralmente com japonês e fonte intermediária, verificando omissões, acréscimos, negações, sujeitos, referentes, sequência de ações, relações lógicas, intensidade, falantes e marcações. Conferir todos os parágrafos e separadores presentes e em ordem, sem duplicações nem truncamentos; não exigir correspondência mecânica de um parágrafo por idioma.
 2. **Naturalidade:** ler o português continuamente, sem consultar a fonte, verificando clareza, ritmo, transições, repetições e coerência de voz. Depois de reformular um trecho, comparar novamente com a fonte para confirmar fidelidade.
+
+No cotejo, usar começo e fim de cenas, separadores e notas da fonte como pontos de referência para conferir a cobertura e a ordem entre japonês, inglês e português. Conferir também o alcance de negações e quantificadores, o grau de certeza, a maneira como uma ação é executada e as fórmulas recorrentes que têm função na narrativa. Diferenças de contagem de parágrafos servem para localizar trechos a verificar.
+
+Para um trecho suspeito, localizar a redação vigente e a evidência na fonte ou na cena. Antes de editar, confirmar se há perda de sentido, problema de leitura ou desvio de voz e distinguir esses casos de uma alternativa igualmente defensável. Preservar a redação quando a evidência não justificar a troca e registrar dúvidas relevantes no acompanhamento existente. Ao corrigir, alterar apenas o trecho necessário e conferir a passagem completa com a fonte. Em revisões em lote, confirmar que o trecho a editar ainda corresponde ao que foi analisado.
+
+Se houver mudança confirmada no texto de uma fonte ou em uma decisão do glossário, identificar os capítulos e as passagens afetadas e conferir o impacto no contexto. Em monitoramentos por comparação textual, considerar o corpo do capítulo e as notas da fonte, desconsiderando mudanças de navegação ou estilo da página. Indícios de alteração ajudam a localizar trechos para revisão. Registrar nova validação somente depois do cotejo efetivo.
 
 Na conferência final, verificar especialmente gritos, falas curtas, interrupções e mudanças de falante; confirmar versão salva, cabeçalho, título/nome do arquivo e registros atualizados. Executar o verificador, avaliar seus alertas pelo contexto e corrigir erros objetivos. Ele confere estrutura e regras explícitas, não comprova qualidade, identidade de falantes ou integridade semântica da tradução. Informar na entrega as alterações principais, pendências relevantes e limitações de validação.
 

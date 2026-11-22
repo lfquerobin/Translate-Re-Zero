@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md",
+                "file": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”"
+              "title": "✖️ 018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 303.6388740539551
   },
   "right": {
     "id": "c189dc6fd46f44dc",
@@ -190,9 +190,13 @@
   },
   "active": "3fb86d4c70e5c409",
   "lastOpenFiles": [
+    "tools/__pycache__/verificar_projeto.cpython-314.pyc",
+    "tools/__pycache__/test_verificar_projeto.cpython-314.pyc",
+    "tools/__pycache__",
+    "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md",
+    "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012. Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 014. Arco 1, Capítulo 13 – “Fim e começo”.md",
     "Referências/WCT/README.md",
     "Referências/WCT/captura-2026-11-13.json",
@@ -202,7 +206,6 @@
     "Referências",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 013. Arco 1, Capítulo 12 – “Reencontro com a Bruxa”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 011. Arco 1, Capítulo 10 – “O preço de falar demais”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012.  Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md",
     "ACOMPANHAMENTO.md",
     "AGENTS.md",
     "LINKS.md",
@@ -213,7 +216,6 @@
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 006. Arco 1, Capítulo 5 – “Seu nome”.md",
     "tools/verificar_projeto.py",
     "tools",
-    "projeto.json",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 001. Prólogo – “Calor Residual do Começo”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 002. Arco 1, Capítulo 1 – “A moeda de 10 ienes de borda serrilhada que não serve para nada”.md",
     "GLOSSÁRIO.md",
@@ -223,8 +225,6 @@
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 007. Arco 1, Capítulo 6 – “O fim do começo”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 004. Arco 1, Capítulo 3 – “Primeiro Encontro com a Magia”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 003. Arco 1, Capítulo 2 – “‘Não se empolgue’, disse Deus”.md",
-    "Revisões/2026-10-11/antes-da-revisao-final-do-capitulo-5/006. Arco 1, Capítulo 5 – “Seu nome”.md.bak",
-    "Revisões/2026-10-11/RELATÓRIO.md"
+    "001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 003. Arco 1, Capítulo 2 – “‘Não se empolgue’, disse Deus”.md"
   ]
 }

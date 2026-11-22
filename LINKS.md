@@ -10,3 +10,10 @@
 
 - O índice da web novel reúne links do original japonês e das traduções inglesas. A numeração da URL japonesa inclui o prólogo: no Arco 1, o prólogo corresponde a `/1/` e o capítulo 1 a `/2/`. Usar o título para conferir a correspondência. As datas do original japonês não substituem a data de publicação da tradução inglesa usada como fonte.
 - [Felt chama Subaru pelo nome antes de aprendê-lo — LN, volume 1, capítulo 2, seção 5, p. 87](https://rezerodb.com/translation_meta/ln_mistls/felt-addresses-subaru-by-name-before-learning-it): o índice aponta a substituição de 兄ちゃん por “Subaru” na edição inglesa. É um alerta para conferir formas de tratamento e o que cada personagem sabe naquele momento. Não constitui erro confirmado nos capítulos da web novel deste projeto.
+
+## Referências de método editorial
+
+- [Literary Translation Skills](https://github.com/deprav1/literary-translation-skills/blob/main/skills/literary-translation-qa/references/error-discovery.md): confirmação de achados e correções localizadas.
+- [Booktrans](https://github.com/sukamenev/booktrans#what-it-does): continuidade entre trechos e seleção de referências pertinentes.
+- [Translate Book](https://github.com/deusyu/translate-book/blob/main/SKILL.md): identificação de alterações na fonte e de trechos afetados por mudanças no glossário.
+- [Awesome ePub Translator](https://github.com/ludengz/awesome-epub-translator-skill#-how-it-works): conferência de cobertura e detecção de trechos truncados.

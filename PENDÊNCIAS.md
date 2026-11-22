@@ -21,13 +21,13 @@ Contexto: O comentário sobre as características da ladra não nomeia quem fala
 
 Interpretações possíveis: Puck; Garota de cabelos prateados.
 
-Próximo passo: Reabrir a atribuição quando houver evidência contextual adicional da mesma versão; manter ??? enquanto as duas interpretações continuarem possíveis.
+Próximo passo: No cotejo de 21/11/2026, a frase e o diálogo ao redor continuaram sem identificação suficiente. A posição atrás da garota favorece essa leitura, mas Puck estava no ombro dela e acompanhou a busca. Manter ??? até haver evidência adicional da mesma versão.
 
 Fontes: [japonês](https://ncode.syosetu.com/n2267be/6/) e [fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-5-your-name/).
 
 ### P-A01-C11-01 — aberta
 
-Capítulo: [Capítulo 11](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012.  Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md>). Registrada em 2026-11-01.
+Capítulo: [Capítulo 11](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 012. Arco 1, Capítulo 11 – “Uma resistência tardia demais”.md>). Registrada em 2026-11-01.
 
 Português: Quê―?!
 
@@ -37,7 +37,7 @@ Contexto: O grito fica entre a descrição do ataque e a esquiva; falta indicaç
 
 Interpretações possíveis: Subaru; Elsa.
 
-Próximo passo: Reabrir a atribuição quando houver evidência contextual adicional da mesma versão; manter ??? enquanto as duas interpretações continuarem possíveis.
+Próximo passo: No cotejo de 21/11/2026, a ordem golpe, grito e esquiva continuou sem identificar a voz. O grito pode acompanhar a reação de Subaru ao golpe ou a surpresa de Elsa diante da esquiva. Manter ??? até haver evidência adicional da mesma versão.
 
 Fontes: [japonês](https://ncode.syosetu.com/n2267be/12/) e [fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-11-a-struggle-too-late/).
 
@@ -56,7 +56,7 @@ Os trechos abaixo são âncoras de localização. A eventual identificação pos
 | F-A01-C03-01 | [Capítulo 3](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 004. Arco 1, Capítulo 3 – “Primeiro Encontro com a Magia”.md>) · 102 | Então dois contra dois deve estar bom, né? | A nova voz ainda não foi identificada visualmente como a do gato. | [JP](https://ncode.syosetu.com/n2267be/4/) |
 | F-A01-C03-02 | [Capítulo 3](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 004. Arco 1, Capítulo 3 – “Primeiro Encontro com a Magia”.md>) · 112 | Dá um pouco de vergonha quando ficam me olhando desse jeito. | A nova voz ainda não foi identificada visualmente como a do gato. | [JP](https://ncode.syosetu.com/n2267be/4/) |
 | F-A01-C04-01 | [Capítulo 4](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md>) · 10 | Ah, você acordou? | Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual. | [JP](https://ncode.syosetu.com/n2267be/5/) |
-| F-A01-C04-02 | [Capítulo 4](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md>) · 14 | Não tente se mexer ainda. Você machucou a cabeça, então não é seguro. | Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual. | [JP](https://ncode.syosetu.com/n2267be/5/) |
+| F-A01-C04-02 | [Capítulo 4](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md>) · 14 | Não tente se mexer ainda. Você bateu a cabeça também, então é melhor ter cuidado. | Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual. | [JP](https://ncode.syosetu.com/n2267be/5/) |
 | F-A01-C04-03 | [Capítulo 4](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md>) · 28 | Que bom que você acordou. (Falsete) | Preservar a surpresa do travesseiro: a identidade da voz só fica disponível após a revelação visual. | [JP](https://ncode.syosetu.com/n2267be/5/) |
 | F-A01-C06-01 | [Capítulo 6](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 007. Arco 1, Capítulo 6 – “O fim do começo”.md>) · 364 | ―Aah, você viu. Então não tenho escolha. É, não tenho escolha nenhuma. | A agressora fala no escuro; a identidade não foi revelada nesta cena. | [JP](https://ncode.syosetu.com/n2267be/7/) |
 | F-A01-C08-01 | [Capítulo 8](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 009. Arco 1, Capítulo 8 – “O sabor amargo da bebida”.md>) · 84 | ―Cala a boca!! Não sabe nem o sinal e a senha, quer arrebentar a porta?! | A primeira voz vem de trás da porta, antes da aparição e descrição do velho. | [JP](https://ncode.syosetu.com/n2267be/9/) |
@@ -66,7 +66,7 @@ Os trechos abaixo são âncoras de localização. A eventual identificação pos
 | F-A01-C09-04 | [Capítulo 9](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 010. Arco 1, Capítulo 9 – “Carta na manga”.md>) · 72 | ―Foi mal pela demora, velho. Ela era mais insistente do que eu esperava. Demorei p… | Respostas à senha e primeira fala de entrada, antes da identificação da visitante pela narrativa. | [JP](https://ncode.syosetu.com/n2267be/10/) |
 | F-A01-C12-01 | [Capítulo 12](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 013. Arco 1, Capítulo 12 – “Reencontro com a Bruxa”.md>) · 298 | ―! | O som vem de cima da barraca antes do reconhecimento da ladra por Subaru. | [JP](https://ncode.syosetu.com/n2267be/13/) |
 | F-A01-C15-01 | [Capítulo 15](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md>) · 176 | ―Já chega. | A voz interrompe o assalto antes da aparição do rapaz ruivo; preservar a ordem da revelação visual e do reconhecimento posterior do nome por Chin. | [JP](https://ncode.syosetu.com/n2267be/16/) |
-| F-A01-C16-01 | [Capítulo 16](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md>) · 174 | Ah, me desculpe. Você está bem? | Primeira fala da pessoa com quem Subaru quase esbarra, antes de ele erguer o rosto e reconhecer a mulher; preservar a surpresa. Mulher de cabelos pretos precede a apresentação nominal de Elsa. | [JP](https://ncode.syosetu.com/n2267be/17/) |
-| F-A01-C16-02 | [Capítulo 16](<001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md>) · 270 | Já tá falando demais, que coisa irritante. Olha o tanto de coisa que você diz só d… | A voz vem de trás de Subaru antes de ele se virar e reconhecer Felt; preservar a ordem da revelação. | [JP](https://ncode.syosetu.com/n2267be/17/) |
+| F-A01-C16-01 | [Capítulo 16](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md>) · 174 | Ah, me desculpe. Você está bem? | Primeira fala da pessoa com quem Subaru quase esbarra, antes de ele erguer o rosto e reconhecer a mulher; preservar a surpresa. Mulher de cabelos pretos precede a apresentação nominal de Elsa. | [JP](https://ncode.syosetu.com/n2267be/17/) |
+| F-A01-C16-02 | [Capítulo 16](<001. Arco 1 – Um Primeiro Dia Tumultuado/✔️ 017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md>) · 270 | Já tá falando demais, que coisa irritante. Olha o tanto de coisa que você diz só d… | A voz vem de trás de Subaru antes de ele se virar e reconhecer Felt; preservar a ordem da revelação. | [JP](https://ncode.syosetu.com/n2267be/17/) |
 
 Não encerrar pendências escolhendo um candidato apenas para remover `???`. Se houver evidência nova, registrar a resolução e sua fonte antes de atualizar a fala e as etapas de revisão.
