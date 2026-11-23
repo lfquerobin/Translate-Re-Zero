@@ -190,7 +190,8 @@ def celula(texto):
 
 
 def link_capitulo(c):
-    titulo = "Prólogo" if c["capitulo"] == 0 else f"Capítulo {c['capitulo']}"
+    titulos_especiais = {0: "Prólogo", "interludio": "Interlúdio"}
+    titulo = titulos_especiais.get(c["capitulo"], f"Capítulo {c['capitulo']}")
     return f"[{titulo}](<{c['arquivo']}>)"
 
 

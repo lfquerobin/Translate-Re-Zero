@@ -718,6 +718,108 @@
           "observacao": "Cabeçalho, nome do arquivo, falas, fala incorporada, duas notas da fonte intermediária e dois separadores do texto colado (11 e 12 marcas) conferidos."
         }
       }
+    },
+    {
+      "id": "A01-C21",
+      "arco": 1,
+      "capitulo": 21,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 022. Arco 1, Capítulo 21 – “O poder do Santo da Espada”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/22/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-21-the-power-of-the-sword-saint/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-22",
+          "observacao": "Cotejo com o japonês e o inglês. O texto colado coincide com o corpo publicado na WCT. Conferidos a fuga e o pedido de ajuda de Felt, o reconhecimento de Elsa, a proteção de Reinhard e o tratamento de Rom. Restaurado o marcador de ponto de vista do japonês."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-22",
+          "observacao": "Releitura contínua em português. Ajustados trechos de ritmo, clareza e regência e cotejadas as passagens reformuladas."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-22",
+          "observacao": "Atribuições conferidas por contexto e pelo original, preservando revelações e anonimato narrativo."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-22",
+          "observacao": "Cabeçalho, arquivo, separadores e diálogos conferidos. Prefixo ✖️ conforme o guia."
+        }
+      }
+    },
+    {
+      "id": "A01-C22",
+      "arco": 1,
+      "capitulo": 22,
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 023. Arco 1, Capítulo 22 – “A vida em outro mundo começa do zero”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/23/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-chapter-22-starting-life-in-another-world-from-zero/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-22",
+          "observacao": "Cotejo com o japonês e o inglês. O texto colado coincide com o corpo publicado na WCT. Conferidos o duelo, a intervenção de Subaru, a apresentação de Emilia e a retomada após o separador, até Subaru perder a consciência."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-22",
+          "observacao": "Releitura contínua em português. Ajustados trechos de ritmo, clareza e regência e cotejadas as passagens reformuladas."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-22",
+          "observacao": "Atribuições conferidas por contexto e pelo original, preservando revelações e anonimato narrativo."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-22",
+          "observacao": "Cabeçalho, arquivo, separadores e diálogos conferidos. Prefixo ✖️ conforme o guia."
+        }
+      }
+    },
+    {
+      "id": "A01-INT",
+      "arco": 1,
+      "capitulo": "interludio",
+      "arquivo": "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 024. Arco 1, Interlúdio – “A lua está olhando”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/24/",
+        "ingles": "https://witchculttranslation.com/2021/05/19/arc-1-interlude-the-moon-is-watching/",
+        "publicacao_ingles": "2021-05-19",
+        "credito_ingles": "SNUserTL (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-22",
+          "observacao": "Cotejo com o japonês e o inglês. O texto colado coincide com o corpo publicado na WCT. Conferidos o tratamento de Subaru, o diálogo entre Emilia e Reinhard, a devolução da insígnia e a cena final sob a lua."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-22",
+          "observacao": "Releitura contínua em português. Ajustados trechos de ritmo, clareza e regência e cotejadas as passagens reformuladas."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-22",
+          "observacao": "Atribuições conferidas por contexto e pelo original, preservando revelações e anonimato narrativo."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-22",
+          "observacao": "Cabeçalho, arquivo, separadores e diálogos conferidos. Prefixo ✖️ conforme o guia."
+        }
+      }
     }
   ],
   "ocorrencias_anonimas": [
@@ -971,6 +1073,30 @@
       "tipo": "anonimato_narrativo",
       "referencia_japonesa": "https://ncode.syosetu.com/n2267be/21/",
       "motivo": "Subaru vê apenas um brilho em meio à fumaça antes da fala. A descrição do rapaz vem depois."
+    },
+    {
+      "id": "F-A01-C21-01",
+      "capitulo_id": "A01-C21",
+      "trecho": "Está bem. Vou ajudar você.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/22/",
+      "motivo": "A resposta ao pedido de Felt antecede a imagem do jovem como uma chama e o reconhecimento nominal por Subaru após o separador."
+    },
+    {
+      "id": "F-A01-C22-01",
+      "capitulo_id": "A01-C22",
+      "trecho": "―!",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/23/",
+      "motivo": "A narração declara a origem do grito indeterminada e menciona Elsa, Reinhard e o próprio Subaru como possibilidades."
+    },
+    {
+      "id": "F-A01-C22-02",
+      "capitulo_id": "A01-C22",
+      "trecho": "―!!",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/23/",
+      "motivo": "A exclamação antecede o surgimento da sombra sob os destroços. A narração só identifica Elsa depois de descrever a figura em movimento."
     }
   ],
   "variantes_terminologicas": [

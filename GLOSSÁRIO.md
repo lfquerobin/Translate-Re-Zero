@@ -263,3 +263,22 @@ O Manual da WCT online respondeu HTTP 200. Seu texto normalizado permaneceu igua
 - **Formulações preservadas.** 親のすねをかじる evoca depender dos pais. “Recorrer aos meus pais” mantém o sentido figurado na situação e a referência parental abrangente. Mantidas as duas notas de SNUserTL sobre o inglês de Subaru, no ponto em que aparecem na fonte. [Original japonês](https://ncode.syosetu.com/n2267be/21/) · [Verbete no KanjiPedia](https://www.kanjipedia.jp/kotoba/0003669800)
 
 O download do Manual da WCT respondeu HTTP 200, e a comparação do texto normalizado com a captura de 21/11/2026 não mostrou mudanças. Consultadas as fichas pertinentes. O índice de erros da light novel retornou apenas navegação. [Captura do manual](Referências/WCT/README.md)
+
+## Web novel, Arco 1, capítulos 21 e 22 e interlúdio — 22 de novembro de 2026
+
+| Inglês da WCT | Português adotado | Japonês conferido | Contexto |
+| --- | --- | --- | --- |
+| Bowel Hunter | Caçadora de Vísceras | 腸狩り | Epíteto de Elsa. Reinhard o reconhece pelo modo como ela mata. A própria Elsa o usa ao se apresentar. [Capítulos 21](https://ncode.syosetu.com/n2267be/22/) e [22](https://ncode.syosetu.com/n2267be/23/). |
+| divine protection of arrow avoidance | proteção divina do desvio de flechas | 矢避けの加護 | As facas arremessadas desviam de Reinhard. O nome mantém a referência a flechas e a fala anterior especifica a abrangência a projéteis. [Capítulo 21](https://ncode.syosetu.com/n2267be/22/). |
+| Elsa Granhiert / Reinhard Van Astrea | Elsa Granhiert / Reinhard van Astrea | エルザ・グランヒルテ / ラインハルト・ヴァン・アストレア | Nomes completos no duelo. Adotado “van” em minúscula, conforme a ficha da WCT. [Capítulo 22](https://ncode.syosetu.com/n2267be/23/). |
+| Emilia-sama | senhora Emilia | エミリア様 | Forma de deferência de Reinhard. Emilia se apresenta a Subaru como “Só Emilia” no fim do capítulo anterior. [Capítulo 22](https://ncode.syosetu.com/n2267be/23/) e [interlúdio](https://ncode.syosetu.com/n2267be/24/). |
+| imperial uniform | uniforme da guarda real | 近衛の制服 | Reinhard explica por que está à paisana. O contexto é a guarda da corte de um reino. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
+| Lord Roswaal | marquês de fronteira Roswaal / marquês Roswaal | ロズワール辺境伯 / ロズワール伯 | Título territorial na primeira menção; forma abreviada quando Reinhard pede discrição. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
+| gate | portão | ゲート | Termo usado por Emilia ao advertir Reinhard sobre possíveis sequelas em Felt. O trecho ainda não explica seu funcionamento. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
+| the Dragon Kingdom of Lugunica | Reino de Lugunica, aliado do Dragão | 親竜王国ルグニカ | Nome oficial ao descrever a insígnia. A formulação mantém o sentido de afinidade com o Dragão presente em 親竜. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
+
+- **Capítulo 21.** Recuperado o marcador de ponto de vista ＜ｓｉｄｅ：Ｆ＞, ausente na WCT. Felt pensa na meio-elfa, e, no alto do muro, cospe. Mantido “meteoro” para 魔法器 conforme a adaptação já registrada. [Original japonês](https://ncode.syosetu.com/n2267be/22/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-21-the-power-of-the-sword-saint/)
+- **Capítulo 22.** 「マナが……」 deixa a frase da garota suspensa, sem possessivo que identifique a mana como dela. O grito no início do duelo tem origem expressamente indeterminada. [Original japonês](https://ncode.syosetu.com/n2267be/23/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-chapter-22-starting-life-in-another-world-from-zero/)
+- **Interlúdio.** Emilia afasta a franja de Subaru enquanto ele está recostado na parede. Mais tarde, Reinhard ampara Felt e a toma nos braços, conforme 横抱き. [Original japonês](https://ncode.syosetu.com/n2267be/24/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-interlude-the-moon-is-watching/)
+
+A comparação do texto do Manual da WCT com a captura de 21/11/2026 não encontrou alteração de conteúdo. Consultadas as entradas de Elsa, Reinhard, Emilia e Felt. O índice de erros da light novel retornou apenas navegação. [Captura do manual](Referências/WCT/README.md)

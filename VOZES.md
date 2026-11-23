@@ -114,6 +114,22 @@ Fonte: [WN, Arco 1, capítulo 19](https://ncode.syosetu.com/n2267be/20/), coteja
 
 Fonte: [WN, Arco 1, capítulo 20](https://ncode.syosetu.com/n2267be/21/), cotejada em 21 de novembro de 2026 com a tradução de SNUserTL.
 
+## Felt, Subaru e Reinhard — capítulos 21 e 22
+
+- **Felt no pedido de ajuda.** O imperativo de “―Por favor, me ajuda” soa direto pela urgência. Pouco antes, ela tentava convencer a si mesma de que só precisava fugir. A resposta simples de Reinhard atende ao pedido sem lhe exigir explicações.
+- **Reinhard ao enfrentar Elsa.** Alterna a cortesia de “Com licença” e “Recomendo que se renda” com pedidos diretos a Subaru. Na apresentação do duelo menciona a linhagem dos Santos da Espada.
+- **Subaru ao pedir a recompensa.** “Então, okay?!” e “‘only one’, um só” preservam o inglês que ele usa para fazer pose. A pergunta final vem simples, depois da encenação.
+
+Fontes: [capítulo 21](https://ncode.syosetu.com/n2267be/22/) e [capítulo 22](https://ncode.syosetu.com/n2267be/23/), cotejados com SNUserTL em 22 de novembro de 2026.
+
+## Emilia, Reinhard e Felt — interlúdio do Arco 1
+
+- **Emilia ao agradecer.** Oferece a Reinhard “Obrigada por nos ajudar”, com a mesma franqueza que elogia em Subaru. Ao pedir que ele não interfira, a firmeza preserva o agradecimento anterior.
+- **Reinhard ao dirigir-se a Emilia.** “Senhora Emilia” preserva o tratamento エミリア様. Ao se ajoelhar, adota o registro solene de uma desculpa formal. Quando fala do caso com a vítima, “Mas eu realmente desconheço as circunstâncias” repete a alegação anterior com ironia discreta.
+- **Felt ao falar de Rom.** A pausa em “o meu único… É, é como se fosse meu avô” preserva o embaraço da confissão. O tom direto volta na promessa de devolver o que roubou.
+
+Fonte: [interlúdio do Arco 1](https://ncode.syosetu.com/n2267be/24/), cotejado com SNUserTL em 22 de novembro de 2026.
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.
