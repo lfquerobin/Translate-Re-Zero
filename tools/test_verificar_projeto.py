@@ -11,7 +11,7 @@ from verificar_projeto import conferir_anonimos, main, verificar_texto
 
 
 TITULO = "Arco 1, Capítulo 1 – “Teste”"
-ARQUIVO = "Arco 1/✔️ 002. " + TITULO + ".md"
+ARQUIVO = "Arco 1/002. " + TITULO + ".md"
 CAPITULO = {
     "id": "A01-C01", "arco": 1, "capitulo": 1, "arquivo": ARQUIVO,
     "fontes": {"japones": "https://example.org/jp/2/", "ingles": "https://example.org/en/1/", "publicacao_ingles": "2021-05-19"},

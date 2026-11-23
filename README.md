@@ -38,7 +38,7 @@ Códigos de saída: **0** = sem erros; **1** = avisos com `--estrito`; **2** = e
 
 - `registrada` identifica revisão histórica documentada; a observação deve explicar a evidência e o escopo. Não representa uma nova revisão feita pelo gerador.
 - `pendente` ou `iniciada` mantém explícito o trabalho ainda necessário. `concluida`, `conferida` e `ajustado` descrevem etapas efetivamente realizadas; `com_pendencias` indica falantes ainda em investigação.
-- Uma renomeação autorizada exige atualizar o campo `arquivo`. Os símbolos ✔️/✖️ não atualizam as etapas automaticamente.
+- Uma renomeação autorizada exige atualizar o campo `arquivo`.
 - Para um novo capítulo, adicionar uma entrada com ID único e fontes conferidas, sem copiar datas de revisão concluída de outro capítulo. Regenerar as vistas após preencher os dados.
 
 Em `ocorrencias_anonimas`, registrar o texto exato de cada fala, sem o rótulo e os colchetes, e classificar como `anonimato_narrativo` ou `atribuicao_pendente`. O primeiro preserva o efeito da cena; o segundo inclui original japonês, candidatos, motivo e próximo passo. Duas falas idênticas no mesmo capítulo precisam de dois registros com IDs diferentes, pois o verificador também confere a quantidade.

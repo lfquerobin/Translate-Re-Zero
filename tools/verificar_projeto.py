@@ -21,7 +21,7 @@ class Achado:
 
 
 ROTULO = re.compile(r"^(?:\?\?\?|[^:\[\]\n,.!?;]{1,60}): \[")
-PREFIXO_ARQUIVO = re.compile(r"^[✔✖\ufe0f\s]*\d{3}\.\s+")
+PREFIXO_ARQUIVO = re.compile(r"^\d{3}\.\s+")
 ESTADOS = {"pendente", "iniciada", "registrada", "concluida", "conferida", "com_pendencias", "ajustado"}
 CAMPOS = ("Título", "Link", "Data de publicação", "Traduzido por")
 VISTAS = ("ACOMPANHAMENTO.md", "PENDÊNCIAS.md")
@@ -208,7 +208,7 @@ def gerar_vistas(dados: dict, textos: dict[str, str]) -> dict[str, str]:
     anonimos = [o for o in dados["ocorrencias_anonimas"] if o["tipo"] == "anonimato_narrativo"]
     pendentes = [o for o in dados["ocorrencias_anonimas"] if o["tipo"] == "atribuicao_pendente"]
     abertos = [o for o in pendentes if o["estado"] == "aberta"]
-    indice = ["# Acompanhamento da tradução", "", "Gerado de [projeto.json](projeto.json). Atualizar o registro e executar `python tools/verificar_projeto.py --atualizar-indices`; não editar esta vista à mão.", "", f"Versão da obra: **{dados['versao']}**. Datas de publicação e créditos de cada fonte inglesa estão no registro e nos cabeçalhos; as datas das colunas abaixo indicam revisão.", "", "**Fidelidade registrada no histórico** remete ao cotejo integral documentado em [GLOSSÁRIO.md](GLOSSÁRIO.md), não a uma nova comparação integral feita ao organizar este índice. **Naturalidade pendente** exige releitura contínua após a formatação dos diálogos. O ajuste dos dez trechos incorporados à narração foi conferido localmente; essa conferência não substitui a releitura integral.", "", "Os símbolos ✔️/✖️ dos nomes de arquivo foram preservados e não determinam estas etapas. Uma dúvida de falante pode continuar aberta mesmo com cotejo registrado. Anonimato da narrativa não é pendência de tradução.", "", "| Arco / capítulo | Fontes | Fidelidade | Naturalidade | Falantes | Formato |", "| --- | --- | --- | --- | --- | --- |"]
+    indice = ["# Acompanhamento da tradução", "", "Gerado de [projeto.json](projeto.json). Atualizar o registro e executar `python tools/verificar_projeto.py --atualizar-indices`; não editar esta vista à mão.", "", f"Versão da obra: **{dados['versao']}**. Datas de publicação e créditos de cada fonte inglesa estão no registro e nos cabeçalhos; as datas das colunas abaixo indicam revisão.", "", "**Fidelidade registrada no histórico** remete ao cotejo integral documentado em [GLOSSÁRIO.md](GLOSSÁRIO.md), não a uma nova comparação integral feita ao organizar este índice. **Naturalidade pendente** exige releitura contínua após a formatação dos diálogos. O ajuste dos dez trechos incorporados à narração foi conferido localmente; essa conferência não substitui a releitura integral.", "", "Uma dúvida de falante pode continuar aberta mesmo com cotejo registrado. Anonimato da narrativa não é pendência de tradução.", "", "| Arco / capítulo | Fontes | Fidelidade | Naturalidade | Falantes | Formato |", "| --- | --- | --- | --- | --- | --- |"]
     for c in caps:
         fontes = f"[JP]({c['fontes']['japones']}) / [EN]({c['fontes']['ingles']})"
         valores = [f"{c['arco']} / {link_capitulo(c)}", fontes] + [etapa(c["revisoes"][e]) for e in ("fidelidade", "naturalidade", "falantes", "formato")]

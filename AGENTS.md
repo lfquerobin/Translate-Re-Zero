@@ -61,7 +61,7 @@ Em toda tradução ou revisão, consultar e atualizar `GLOSSÁRIO.md` antes da e
 
 Corrigir entradas quando a consulta revelar erro, inconsistência, lacuna ou informação nova. Ao mudar uma escolha, explicar brevemente o motivo e a fonte, indicando capítulos anteriores afetados. Separar decisões confirmadas, adaptações deliberadas, dúvidas abertas e referências auxiliares ainda não verificadas. `VOZES.md` reúne exemplos de voz; o glossário pode remetê-los, sem copiar todo o conteúdo.
 
-`projeto.json` é o registro de acompanhamento: caminhos, fontes japonesa e inglesa, versão, etapas de revisão, ocorrências anônimas e variantes terminológicas a verificar. `ACOMPANHAMENTO.md` e `PENDÊNCIAS.md` são vistas geradas desse registro; atualizar os dados e regenerar as vistas, sem manter listas divergentes. Os símbolos nos nomes dos capítulos não substituem as etapas registradas. Não marcar uma etapa como concluída apenas porque um símbolo mudou, o arquivo foi formatado ou o verificador passou.
+`projeto.json` é o registro de acompanhamento: caminhos, fontes japonesa e inglesa, versão, etapas de revisão, ocorrências anônimas e variantes terminológicas a verificar. `ACOMPANHAMENTO.md` e `PENDÊNCIAS.md` são vistas geradas desse registro; atualizar os dados e regenerar as vistas, sem manter listas divergentes. Não marcar uma etapa como concluída apenas porque o arquivo foi formatado ou o verificador passou.
 
 Registrar somente revisões efetivamente realizadas, com data e escopo. Ao incorporar trabalho anterior, indicar que se trata do registro histórico existente. Alterações de conteúdo exigem rever os trechos afetados contra as fontes; mudanças extensas exigem nova revisão integral. Após mudanças de apresentação, registrar se a releitura contínua final ainda está pendente. Atualizar caminhos no registro quando houver renomeação autorizada, preservando escolhas do usuário.
 
@@ -78,7 +78,7 @@ Não inventar título ou link: solicitar o que faltar. Para data ou crédito aus
 
 Sempre salvar o texto integral revisado, com cabeçalho, na pasta do arco ou fase deste repositório e no formato existente; entregar no chat não substitui salvar. O nome do arquivo deve conservar o título do cabeçalho, suas aspas internas e externas e sua pontuação. No Windows, substituir aspas retas duplas por aspas tipográficas de abertura e fechamento apenas no nome do arquivo, preservando a hierarquia; essa exceção não vale para o corpo.
 
-Toda nova tradução deve ser salva com **✖️ no início do nome do arquivo**, antes da numeração, seguindo o modelo `✖️ 015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md`. O símbolo é um prefixo de organização do arquivo, não parte do título da obra no cabeçalho. Não trocar automaticamente por ✔️ ao concluir a tradução ou as revisões; manter ✖️ até orientação do usuário. As etapas efetivamente realizadas continuam registradas separadamente em `projeto.json`.
+Salvar as traduções com a numeração seguida do título, sem emojis, conforme o modelo `015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md`. Registrar as etapas de revisão em `projeto.json`.
 
 Não inserir novas notas ou explicações na narrativa sem solicitação. Preservar e traduzir as notas que já pertencem à fonte, distinguindo-as de observações novas da revisão. Para dúvida relevante não resolvida, registrar e apresentar fora do capítulo o original e as interpretações possíveis, sem tratar hipótese como certeza.
 
