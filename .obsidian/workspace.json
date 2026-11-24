@@ -11,10 +11,14 @@
             "id": "3fb86d4c70e5c409",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VOZES.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "VOZES"
             }
           }
         ]
@@ -186,13 +190,17 @@
   },
   "active": "3fb86d4c70e5c409",
   "lastOpenFiles": [
+    "PENDÊNCIAS.md",
+    "GLOSSÁRIO.md",
+    "ACOMPANHAMENTO.md",
+    "Referências/WCT/README.md",
+    "001. Arco 1 – Um Primeiro Dia Tumultuado/021. Arco 1, Capítulo 20 – “O elenco está completo”.md",
+    "001. Arco 1 – Um Primeiro Dia Tumultuado/020. Arco 1, Capítulo 19 – “A batalha de uma usuária de artes espirituais”.md",
+    "001. Arco 1 – Um Primeiro Dia Tumultuado/019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/024. Arco 1, Interlúdio – “A lua está olhando”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/023. Arco 1, Capítulo 22 – “A vida em outro mundo começa do zero”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/022. Arco 1, Capítulo 21 – “O poder do Santo da Espada”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/021. Arco 1, Capítulo 20 – “O elenco está completo”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/020. Arco 1, Capítulo 19 – “A batalha de uma usuária de artes espirituais”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/019. Arco 1, Capítulo 18 – “Batalha no depósito de mercadorias roubadas”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/018. Arco 1, Capítulo 17 – “Negociação no depósito de mercadorias roubadas”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/017. Arco 1, Capítulo 16 – “Negociação nos bairros pobres”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/016. Arco 1, Capítulo 15 – “Porque ele é o Santo da Espada”.md",
@@ -208,10 +216,6 @@
     "001. Arco 1 – Um Primeiro Dia Tumultuado/006. Arco 1, Capítulo 5 – “Seu nome”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/005. Arco 1, Capítulo 4 – “Compensação por um travesseiro de colo”.md",
     "001. Arco 1 – Um Primeiro Dia Tumultuado/004. Arco 1, Capítulo 3 – “Primeiro Encontro com a Magia”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/003. Arco 1, Capítulo 2 – “‘Não se empolgue’, disse Deus”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/002. Arco 1, Capítulo 1 – “A moeda de 10 ienes de borda serrilhada que não serve para nada”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/001. Prólogo – “Calor Residual do Começo”.md",
-    "001. Arco 1 – Um Primeiro Dia Tumultuado/✖️ 024. Arco 1, Interlúdio – “A lua está olhando”.md",
     "Referências/WCT/captura-2026-11-21.json",
     "Referências/WCT/Manual de Estilo da WCT — 2026-11-21.txt",
     "Referências/WCT/Manual de Estilo da WCT — 2026-11-21.html",

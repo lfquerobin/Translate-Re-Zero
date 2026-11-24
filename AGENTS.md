@@ -100,4 +100,4 @@ Na conferência final, verificar especialmente gritos, falas curtas, interrupç�
 
 ## Sincronização com o GitHub
 
-Por solicitação do usuário, ao concluir qualquer alteração neste projeto, fazer commit de todas as alterações pendentes e enviá-las ao GitHub (remoto `origin`), sem pedir nova confirmação. Conferir o estado do Git após o envio. Se o envio falhar, preservar o trabalho local e informar a limitação; nunca declarar sincronização concluída sem confirmação.
+Por solicitação do usuário, ao concluir qualquer alteração neste projeto, faça commit das alterações pendentes neste repositório e envie os commits ao GitHub (remoto `origin`) sem pedir nova confirmação. Se o trabalho afetar outros projetos, faça commits separados nos repositórios correspondentes. Confira o estado do Git após o envio. Se o envio falhar, preserve os commits locais e informe a limitação.
