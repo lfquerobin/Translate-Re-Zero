@@ -272,7 +272,7 @@ O download do Manual da WCT respondeu HTTP 200, e a comparação do texto normal
 | Elsa Granhiert / Reinhard Van Astrea | Elsa Granhiert / Reinhard van Astrea | エルザ・グランヒルテ / ラインハルト・ヴァン・アストレア | Nomes completos no duelo. Adotado “van” em minúscula, conforme a ficha da WCT. [Capítulo 22](https://ncode.syosetu.com/n2267be/23/). |
 | Emilia-sama | senhora Emilia | エミリア様 | Forma de deferência de Reinhard. Emilia se apresenta a Subaru como “Só Emilia” no fim do capítulo anterior. [Capítulo 22](https://ncode.syosetu.com/n2267be/23/) e [interlúdio](https://ncode.syosetu.com/n2267be/24/). |
 | imperial uniform | uniforme da guarda real | 近衛の制服 | Reinhard explica por que está à paisana. O contexto é a guarda da corte de um reino. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
-| Lord Roswaal | marquês de fronteira Roswaal / marquês Roswaal | ロズワール辺境伯 / ロズワール伯 | Título territorial na primeira menção; forma abreviada quando Reinhard pede discrição. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
+| Lord Roswaal | marquês de fronteira Roswaal / conde Roswaal | ロズワール辺境伯 / ロズワール伯 | A WCT usa o mesmo tratamento nas duas falas. Na retradução de 24/11/2026, mantém-se a forma territorial na primeira menção e o grau 伯爵 quando Reinhard pede discrição. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
 | gate | portão | ゲート | Termo usado por Emilia ao advertir Reinhard sobre possíveis sequelas em Felt. O trecho ainda não explica seu funcionamento. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
 | the Dragon Kingdom of Lugunica | Reino de Lugunica, aliado do Dragão | 親竜王国ルグニカ | Nome oficial ao descrever a insígnia. A formulação mantém o sentido de afinidade com o Dragão presente em 親竜. [Interlúdio](https://ncode.syosetu.com/n2267be/24/). |
 
@@ -281,6 +281,13 @@ O download do Manual da WCT respondeu HTTP 200, e a comparação do texto normal
 - **Interlúdio.** Emilia afasta a franja de Subaru enquanto ele está recostado na parede. Mais tarde, Reinhard ampara Felt e a toma nos braços, conforme 横抱き. [Original japonês](https://ncode.syosetu.com/n2267be/24/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-interlude-the-moon-is-watching/)
 
 A comparação do texto do Manual da WCT com a captura de 21/11/2026 não encontrou alteração de conteúdo. Consultadas as entradas de Elsa, Reinhard, Emilia e Felt. O índice de erros da light novel retornou apenas navegação. [Captura do manual](Referências/WCT/README.md)
+
+### Retradução de 24 de novembro de 2026
+
+- **Capítulo 21.** Felt tenta justificar a fuga e descreve o que Subaru arriscou por ela. Mantidas a imagem do vento, a insistência nas justificativas e a identidade da voz que responde ao pedido de ajuda. Em 剣撃, a resposta de Reinhard anuncia um golpe de espada, retomado no início do capítulo seguinte. [Original japonês](https://ncode.syosetu.com/n2267be/22/)
+- **Capítulo 22.** Mantida a despedida que Reinhard dirige à espada como a alguém que vai dormir (ゆっくり、おやすみ). A nota final é de Tappei Nagatsuki e vem do posfácio da publicação japonesa. [Original japonês](https://ncode.syosetu.com/n2267be/23/)
+- **Interlúdio.** 行きずり caracteriza um encontro fortuito, retomado na fala seguinte de Emilia. 横抱き descreve Felt deitada nos braços de Reinhard. Tratamentos de Roswaal conforme a tabela acima. [Original japonês](https://ncode.syosetu.com/n2267be/24/)
+- Os corpos ingleses dos três anexos coincidem com as publicações correspondentes, com um separador de encerramento adicional nos anexos. O Manual da WCT online respondeu HTTP 200 e o conteúdo textual normalizado coincide com a captura de 24/11/2026. Consultadas as referências de voz de Felt, Reinhard, Elsa e Emilia. [Captura do manual](Referências/WCT/README.md)
 
 ## Arco 2 — Capítulo 1
 

@@ -120,12 +120,14 @@ Fonte: [WN, Arco 1, capítulo 20](https://ncode.syosetu.com/n2267be/21/), coteja
 - **Reinhard ao enfrentar Elsa.** Alterna a cortesia de “Com licença” e “Recomendo que se renda” com pedidos diretos a Subaru. Na apresentação do duelo menciona a linhagem dos Santos da Espada.
 - **Subaru ao pedir a recompensa.** “Então, okay?!” e “‘only one’, um só” preservam o inglês que ele usa para fazer pose. A pergunta final vem simples, depois da encenação.
 
-Fontes: [capítulo 21](https://ncode.syosetu.com/n2267be/22/) e [capítulo 22](https://ncode.syosetu.com/n2267be/23/), cotejados com SNUserTL em 22 de novembro de 2026.
+Fontes dos exemplos: [capítulo 21](https://ncode.syosetu.com/n2267be/22/) e [capítulo 22](https://ncode.syosetu.com/n2267be/23/), cotejados com SNUserTL em 22 de novembro e novamente em 24 de novembro de 2026.
 
 ## Emilia, Reinhard e Felt — interlúdio do Arco 1
 
 - **Emilia ao agradecer.** Oferece a Reinhard “Obrigada por nos ajudar”, com a mesma franqueza que elogia em Subaru. Ao pedir que ele não interfira, a firmeza preserva o agradecimento anterior.
 - **Reinhard ao dirigir-se a Emilia.** “Senhora Emilia” preserva o tratamento エミリア様. Ao se ajoelhar, adota o registro solene de uma desculpa formal. Quando fala do caso com a vítima, “Mas eu realmente desconheço as circunstâncias” repete a alegação anterior com ironia discreta.
+
+- **Felt devolvendo a insígnia.** “Não acho que fiz nada errado nem tenho vontade de parar” segue a promessa de devolver o que roubou. A devolução reconhece a dívida com Emilia, ao passo que o restante da fala mantém a firmeza de Felt. [Original japonês](https://ncode.syosetu.com/n2267be/24/)
 
 ## Subaru e a garota de cabelos cacheados — Arco 2, capítulo 1
 
