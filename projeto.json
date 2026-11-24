@@ -854,6 +854,40 @@
           "observacao": "Cabeçalho, nome do arquivo, numeração das duas seções, separadores e marcações de diálogo conferidos."
         }
       }
+    },
+    {
+      "id": "A02-C02",
+      "arco": 2,
+      "capitulo": 2,
+      "arquivo": "002. Arco 2 – Uma Semana Tumultuada/026. Arco 2, Capítulo 2 – “A guardiã da biblioteca proibida e as criadas gêmeas”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/26/",
+        "ingles": "https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-2",
+        "publicacao_ingles": "2020-10-15",
+        "credito_ingles": "Eminent (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-24",
+          "observacao": "Cotejo integral das duas seções com a web novel japonesa e o anexo inglês, cujo texto coincide com o corpo da página da Eminent. Recuperados diálogos, referentes e ações, incluindo a fala sobre os mangás, a forma da alma, a posição da porta e as provocações das gêmeas."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-24",
+          "observacao": "Releitura contínua em português e reconferência das reformulações, com atenção às retomadas do capítulo anterior, ao contraste entre as falas das gêmeas e à passagem da comédia à ameaça."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-24",
+          "observacao": "Falas cotejadas com o original, preservando a revelação gradual de Betty, Rem, Ram e Emilia. Duas falas preservam anonimato narrativo."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-24",
+          "observacao": "Conferidos cabeçalho, crédito, data, nome, separadores, duas seções, diálogos e posição das duas ilustrações da Eminent."
+        }
+      }
     }
   ],
   "ocorrencias_anonimas": [
@@ -1131,6 +1165,22 @@
       "tipo": "anonimato_narrativo",
       "referencia_japonesa": "https://ncode.syosetu.com/n2267be/23/",
       "motivo": "A exclamação antecede o surgimento da sombra sob os destroços. A narração só identifica Elsa depois de descrever a figura em movimento."
+    },
+    {
+      "id": "F-A02-C02-01",
+      "capitulo_id": "A02-C02",
+      "trecho": "Ah, ele acordou, irmã.",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/26/",
+      "motivo": "Subaru ouve a primeira voz ao despertar. A resposta da irmã revela o nome de Rem."
+    },
+    {
+      "id": "F-A02-C02-02",
+      "capitulo_id": "A02-C02",
+      "trecho": "…Não dava para acordar um pouquinho mais quieto?",
+      "tipo": "anonimato_narrativo",
+      "referencia_japonesa": "https://ncode.syosetu.com/n2267be/26/",
+      "motivo": "A interrupção vem antes da descrição dos cabelos prateados e da identificação nominal de Emilia."
     }
   ],
   "variantes_terminologicas": [

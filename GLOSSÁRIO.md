@@ -292,3 +292,19 @@ A comparação do texto do Manual da WCT com a captura de 21/11/2026 não encont
 | I suppose | francamente | かしら | Na fala final da garota de cabelos cacheados, a partícula acompanha uma exclamação de irritação. “Francamente” preserva o tom dessa fala. Conferir a função em cada ocorrência posterior. [Original japonês](https://ncode.syosetu.com/n2267be/25/) |
 
 - **Diferenças de sentido.** ダニ indica ácaros. Subaru ainda não aprendeu os afazeres domésticos (ＡＬＬ未収得). A probabilidade de estar na casa do vendedor é de uma em dez mil (万分の一). Subaru diz que está sem sono após dormir meio dia (全然眠くねぇ) e atribui a saída do loop à vontade de urinar (尿意). [Original japonês](https://ncode.syosetu.com/n2267be/25/) · [Fonte inglesa](https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-1)
+
+## Arco 2 — Capítulo 2
+
+| Termo na fonte inglesa | Tradução adotada | Termo japonês | Observação e fonte |
+| --- | --- | --- | --- |
+| Forbidden Library | biblioteca proibida | 禁書庫 | Nome usado no título. No corpo, 書庫 designa a biblioteca. [Original japonês](https://ncode.syosetu.com/n2267be/26/) |
+| Betty | Betty | ベティー | Forma como a garota se refere a si mesma. Subaru só pode supor que seja um apelido. [Original japonês](https://ncode.syosetu.com/n2267be/26/) |
+| Bubby | maninho | にーちゃ | Forma infantil de chamar o irmão mais velho, usada por Betty. A fala alude a um encontro anterior sem nomear a pessoa. [Original japonês](https://ncode.syosetu.com/n2267be/26/) |
+| Sister | irmã | 姉様 | Rem se dirige à irmã mais velha com deferência, mantida pelo registro das frases. Na fala de Subaru, o plural irônico 姉様方 virou “senhoritas”. [Original japonês](https://ncode.syosetu.com/n2267be/26/) |
+| Seven Brightsun / Seven Solartime | sete horas do dia solar | 陽日七時 | A mesma expressão nas falas das gêmeas e no raciocínio de Subaru. O sistema de horas ainda é desconhecido para ele. [Original japonês](https://ncode.syosetu.com/n2267be/26/) |
+| Koetsu | Kotetsu | 虎鉄 | Grafia do nome de espada invocado por Subaru na piada sobre estar sedento de sangue. [Original japonês](https://ncode.syosetu.com/n2267be/26/) |
+
+- **Retomadas.** “Aguenta firme” recupera o bordão 強く生きろ que Subaru ouviu nos bairros pobres no Arco 1. “Relógio da barba” retoma o nome usado no capítulo 1 do Arco 2. “Portão” para ゲート mantém o termo adotado no interlúdio do Arco 1. [Original japonês](https://ncode.syosetu.com/n2267be/26/)
+- **Diferenças de sentido.** Subaru conta em voz alta a história do piso, que envolve a reforma de dois cômodos. Betty consulta a mana e observa a forma da alma (魂の形). Em outra fala, a cobrança de mana compensa os desaforos de Subaru. Na cena final, cada gêmea atribui à outra a humilhação imaginada. A porta já está aberta quando a visitante bate nela. [Original japonês](https://ncode.syosetu.com/n2267be/26/) · [Fonte inglesa](https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-2)
+
+A comparação textual com o Manual da WCT online encontrou o mesmo conteúdo da captura de 24/11/2026. Para o capítulo, foram consultadas as fichas de Betty, Ram e Rem. [Captura do manual](Referências/WCT/README.md)

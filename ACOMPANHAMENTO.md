@@ -33,11 +33,12 @@ As dúvidas de falante e as ocorrências de anonimato narrativo estão documenta
 | 1 / [Capítulo 22](<001. Arco 1 – Um Primeiro Dia Tumultuado/023. Arco 1, Capítulo 22 – “A vida em outro mundo começa do zero”.md>) | [JP](https://ncode.syosetu.com/n2267be/23/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-chapter-22-starting-life-in-another-world-from-zero/) | Concluída · 22/11/2026 | Concluída · 22/11/2026 | Conferida · 22/11/2026 | Conferida · 22/11/2026 |
 | 1 / [Interlúdio](<001. Arco 1 – Um Primeiro Dia Tumultuado/024. Arco 1, Interlúdio – “A lua está olhando”.md>) | [JP](https://ncode.syosetu.com/n2267be/24/) / [EN](https://witchculttranslation.com/2021/05/19/arc-1-interlude-the-moon-is-watching/) | Concluída · 22/11/2026 | Concluída · 22/11/2026 | Conferida · 22/11/2026 | Conferida · 22/11/2026 |
 | 2 / [Capítulo 1](<002. Arco 2 – Uma Semana Tumultuada/025. Arco 2, Capítulo 1 – “O teto desconhecido, o corredor sem fim”.md>) | [JP](https://ncode.syosetu.com/n2267be/25/) / [EN](https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-1) | Concluída · 24/11/2026 | Concluída · 24/11/2026 | Conferida · 24/11/2026 | Conferida · 24/11/2026 |
+| 2 / [Capítulo 2](<002. Arco 2 – Uma Semana Tumultuada/026. Arco 2, Capítulo 2 – “A guardiã da biblioteca proibida e as criadas gêmeas”.md>) | [JP](https://ncode.syosetu.com/n2267be/26/) / [EN](https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-2) | Concluída · 24/11/2026 | Concluída · 24/11/2026 | Conferida · 24/11/2026 | Conferida · 24/11/2026 |
 
 ## Trabalho em aberto
 
 - 0 capítulos/textos aguardam registro de releitura contínua final.
 - 3 atribuições de fala em investigação; consultar [PENDÊNCIAS.md](PENDÊNCIAS.md).
-- 28 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
+- 30 ocorrências de `???` preservam anonimato da narrativa e estão documentadas separadamente.
 
 A aprovação estrutural do verificador não conclui nenhuma etapa editorial. Registrar data, escopo e evidência após executar a revisão correspondente.
