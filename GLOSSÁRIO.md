@@ -281,3 +281,14 @@ O download do Manual da WCT respondeu HTTP 200, e a comparação do texto normal
 - **Interlúdio.** Emilia afasta a franja de Subaru enquanto ele está recostado na parede. Mais tarde, Reinhard ampara Felt e a toma nos braços, conforme 横抱き. [Original japonês](https://ncode.syosetu.com/n2267be/24/) · [Fonte inglesa](https://witchculttranslation.com/2021/05/19/arc-1-interlude-the-moon-is-watching/)
 
 A comparação do texto do Manual da WCT com a captura de 21/11/2026 não encontrou alteração de conteúdo. Consultadas as entradas de Elsa, Reinhard, Emilia e Felt. O índice de erros da light novel retornou apenas navegação. [Captura do manual](Referências/WCT/README.md)
+
+## Arco 2 — Capítulo 1
+
+| Termo na fonte inglesa | Tradução adotada | Termo japonês | Observação e fonte |
+| --- | --- | --- | --- |
+| Emilia-tan | Emilia-tan | エミリアたん | Apelido afetuoso de Subaru, usado quando imagina em qual casa acordou e quando enumera seus conhecidos. [Original japonês](https://ncode.syosetu.com/n2267be/25/) |
+| flag | flag | フラグ | Termo de jogos que Subaru usa para condições que podem desencadear um evento. Retoma a forma já usada no Arco 1. [Original japonês](https://ncode.syosetu.com/n2267be/25/) |
+| evil genius | endemoninhadamente inspirado | 鬼がかる | Subaru improvisa uma variante de 神懸かる, aqui vertido como “divinamente inspirado”. A explicação do trocadilho consta no original. [Original japonês](https://ncode.syosetu.com/n2267be/25/) |
+| I suppose | francamente | かしら | Na fala final da garota de cabelos cacheados, a partícula acompanha uma exclamação de irritação. “Francamente” preserva o tom dessa fala. Conferir a função em cada ocorrência posterior. [Original japonês](https://ncode.syosetu.com/n2267be/25/) |
+
+- **Diferenças de sentido.** ダニ indica ácaros. Subaru ainda não aprendeu os afazeres domésticos (ＡＬＬ未収得). A probabilidade de estar na casa do vendedor é de uma em dez mil (万分の一). Subaru diz que está sem sono após dormir meio dia (全然眠くねぇ) e atribui a saída do loop à vontade de urinar (尿意). [Original japonês](https://ncode.syosetu.com/n2267be/25/) · [Fonte inglesa](https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-1)

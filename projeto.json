@@ -820,6 +820,40 @@
           "observacao": "Cabeçalho, arquivo, separadores e diálogos conferidos."
         }
       }
+    },
+    {
+      "id": "A02-C01",
+      "arco": 2,
+      "capitulo": 1,
+      "arquivo": "002. Arco 2 – Uma Semana Tumultuada/025. Arco 2, Capítulo 1 – “O teto desconhecido, o corredor sem fim”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/25/",
+        "ingles": "https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-1",
+        "publicacao_ingles": "2020-10-01",
+        "credito_ingles": "Eminent (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-24",
+          "observacao": "Cotejo integral das duas seções com o original japonês e o anexo inglês, cujo texto foi conferido com a página da Eminent. Verificadas a sequência da narrativa, a divisão em duas seções, as falas e as ênfases. Restituídos o silêncio doméstico e a explicação do neologismo. Conferidas as medidas, a recordação das mortes e a condição que Subaru atribui ao fim do loop."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-24",
+          "observacao": "Releitura contínua do português e reconferência das mudanças com as fontes, com atenção à voz de Subaru, aos apartes e ao ritmo da corrida."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-24",
+          "observacao": "Confirmadas as falas de Subaru, as citações internas e a fala final da garota de cabelos cacheados, ainda sem nome para Subaru."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-24",
+          "observacao": "Cabeçalho, nome do arquivo, numeração das duas seções, separadores e marcações de diálogo conferidos."
+        }
+      }
     }
   ],
   "ocorrencias_anonimas": [

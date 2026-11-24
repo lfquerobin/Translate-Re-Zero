@@ -126,6 +126,11 @@ Fontes: [capítulo 21](https://ncode.syosetu.com/n2267be/22/) e [capítulo 22](h
 
 - **Emilia ao agradecer.** Oferece a Reinhard “Obrigada por nos ajudar”, com a mesma franqueza que elogia em Subaru. Ao pedir que ele não interfira, a firmeza preserva o agradecimento anterior.
 - **Reinhard ao dirigir-se a Emilia.** “Senhora Emilia” preserva o tratamento エミリア様. Ao se ajoelhar, adota o registro solene de uma desculpa formal. Quando fala do caso com a vítima, “Mas eu realmente desconheço as circunstâncias” repete a alegação anterior com ironia discreta.
+
+## Subaru e a garota de cabelos cacheados — Arco 2, capítulo 1
+
+- **Subaru ao falar sozinho.** Alterna comentários sobre convenções dos jogos (“Que flag complicada…”) com bravatas e autocrítica. Ao descrever quem pode ter ajudado, conserva o tratamento afetuoso “Emilia-tan”. [Original japonês](https://ncode.syosetu.com/n2267be/25/)
+- **A garota na biblioteca.** A fala breve exprime irritação. A partícula かしら aparece no fim da exclamação, traduzida aqui com “francamente”. A atribuição usa apenas a descrição disponível a Subaru quando ele abre a porta. [Original japonês](https://ncode.syosetu.com/n2267be/25/)
 - **Felt ao falar de Rom.** A pausa em “o meu único… É, é como se fosse meu avô” preserva o embaraço da confissão. O tom direto volta na promessa de devolver o que roubou.
 
 Fonte: [interlúdio do Arco 1](https://ncode.syosetu.com/n2267be/24/), cotejado com SNUserTL em 22 de novembro de 2026.

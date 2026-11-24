@@ -1,5 +1,13 @@
 # Manual de Estilo da WCT — cópia local
 
+## Captura de 24 de novembro de 2026
+
+A publicação pública respondeu HTTP 200. A comparação do texto com a captura de 21/11/2026 encontrou uma orientação acrescentada sobre uma fala de Crusch ligada à sua proteção divina, sem efeito no capítulo 1 do Arco 2. Para esse capítulo, foram consultadas as fichas de Subaru, Emilia e da garota de cabelos cacheados.
+
+- [Texto pesquisável](<Manual de Estilo da WCT — 2026-11-24.txt>)
+- [HTML original](<Manual de Estilo da WCT — 2026-11-24.html>)
+- [Registro da captura](captura-2026-11-24.json)
+
 ## Captura de 21 de novembro de 2026
 
 O download direto da publicação pública respondeu HTTP 200. A comparação do texto com a captura anterior, desconsiderando espaços, scripts e estilos, encontrou mudanças em orientações de voz e de tratamento, além de uma ficha de personagem acrescentada. A tradução do capítulo 18 consultou o verbete 精霊術 e as fichas pertinentes à cena.

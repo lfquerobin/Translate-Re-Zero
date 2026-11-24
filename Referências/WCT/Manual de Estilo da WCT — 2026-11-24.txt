@@ -1,0 +1,6223 @@
+CÓPIA LOCAL PARA CONSULTA — MANUAL DE ESTILO DA WCT
+Fonte: https://docs.google.com/document/d/e/2PACX-1vTdk5zfpajh-8Gir4dale6WOFauq9xucmRA0jUDvv63TRDXMe6-e7fc6DLJOiaY6w/pub
+Captura: 24 de novembro de 2026 (America/Sao_Paulo).
+Extração do texto do HTML público; o conteúdo abaixo permanece no idioma da fonte.
+Esta cópia pode ficar desatualizada. Para links, imagens e formatação, consultar o HTML e a fonte online.
+
+--- INÍCIO DO TEXTO EXTRAÍDO ---
+
+Manual of Style.docx
+
+Publicada usando o Google Docs
+
+Denunciar abusoSaiba mais
+
+Manual of Style.docx
+
+Atualizado automaticamente a cada 5 minutos
+
+Formatting
+
+IMPORTANT NOTE: The preprocessing script replaces single quotes (「」) with superscript quotation marks (“”), and double quotes (『』) with same-line quotation marks («»). Take this into account while formatting the text as per the rules below.
+
+General formatting rules:
+
+General
+
+Use American English.
+
+Prefer concatenated compound words over hyphenated (e.g. “midair” instead of “mid-air”)
+
+Use double line breaks every time there’s a line break in the JP text
+
+Oxford commas (e.g.: “X, Y, and Z”) shall be used according to context, if dramatic pauses feel necessary or befitting the moment.
+
+Names ending in “s” with a possessive particle in front MUST have the “s” in the possessive particle (e.g.: Cecilus’s, Louis’s). This is valid, see this link. The idea is to have it as is spoken.
+
+Loanwords not normally used in English should be italicized (e.g. kimono, kiseru).
+
+Ellipses (e.g.: “......”) if longer than 1, should be reduced to 1 like this “…”, there are very rare exceptions to this rule, such as when Tappei is using DOZENS of ellipses.
+
+Ellipses are to be rendered as a single character "…" rather than 3 periods ("...")
+
+Punctuation changes may occur in the following cases:
+
+“X。…Y” -> “X… Y”
+
+“X? …Y” -> “X…? Y”
+
+“X! …Y” -> “X…! Y”
+
+Keep the punctuation when possible, particularly stuff like the “. ――”, “――,”, and whatnot.
+
+The JP text might show something like “--”, which indicates the need for “――” in the EN translation.
+
+Em-dashes without preceding/following punctuation usually have a space right after (e.g.: “Blah blah―― blah blah”. “Stuff stuff. ――Stuff stuff”).
+
+Convention is usually to keep things as they are around the em-dashes unless it’s straight-up impossible to make it sound well. Tappei uses the em-dashes a whole lot for stuff like "roundabout description of event/person-- contradiction or explanation", so we try and replicate that as best as possible. In character lines, it’s more to convey a pause longer than a full-stop.
+
+Em-dashes are to be rendered with the following characters: ――
+
+Numbers in narration and speech should be written in full (e.g.: “five” instead of “5”.
+
+When referring to a named physical building at a specific location, capitalize its name.
+
+An example would be the City Hall of Guaral, in the context of the chapters that take place there.
+
+Be sure that any instances of "△▼△▼△▼△" are center aligned. These typically only occur at the start of a new chapter part.
+
+For speech:
+
+For dialogues that are「Dialogue, 『Quote』」please use the following format:
+
+Speaker Name: [Dialogue, “Quote”]
+
+For dialogues that are:『Dialogue, 『Quote』』please use the following format:
+
+Speaker Name: [Dialogue, “Quote”]
+
+For dialogues that are embedded into narration, you have an option of either writing the narration out, and using “Dialogue” to represent the embedded dialogue, or to move the dialogue down to the speaker’s next sentence, if possible.
+
+For styling the speech of specific characters, check the Character Index, after the Glossary.
+
+If anyone uses Engrish in dialogue, and another character hears it, please underline the Engrish word. Be warned that this should be reserved for expressions that are NOT commonplace in the RZ world, so things such as Meteor, Mana, maid, table, etc should NOT be underlined. Some of these will be described below.
+
+For proofreaders - wrap the Engrish expression with underline tags (<u></u>) when proofing, to highlight them for when the post is made
+
+In the WCT post, use </span><span style="text-decoration: underline;"><span style="font-weight: 400;">XXX</span></span><span style="font-weight: 400;"> to underline these words.
+
+Terminology that is written in 『』 should be one of the two:
+
+If they are keywords, they should be capitalized (except connectors), and the double quote marks deleted. Examples:
+
+『嫉妬の魔女』- Witch of Envy
+
+『インビジブル • プロヴィデンス』- Invisible Providence
+
+If they are common words, they should be put in English quotation marks.
+
+Examples:
+
+『夢物語』 - “pipe dream”
+
+『人間』- “human”
+
+『資源』- “resources”
+
+Exceptions:
+
+『死』- Death
+
+『記憶』- Memories
+
+『名前』- Names
+
+For crossdressing characters, use "she/her" for those unaware (such as Jamal, Todd, etc…), "he/him" for those who are aware. Same logic goes for any female crossdresser that might appear in the story.
+
+Be mindful of the context, Subaru calling Flora/Flop a "he" in front of, say, Jamal, would be very odd.
+
+For a lone small っ that isn't followed by any text, “hk” is recommended. But if it’s preceded by text I.E. 「なっ!?」please use a dash - to cut off the word or sentence in the middle where appropriate instead.
+
+For case in which characters are stuttering their speech (check for lone syllables before a comma, following by a full word, e.g.: “”, “”), use “X-x” as a convention (e.g.: “T-that”, “Y-you”). If the stuttered word is the first in a sentence, capitalize only the first letter (see previous example).
+
+There are some instances in which characters elongate their speech, but the way this is done in Japanese is different.
+
+Elongation with vowels - add number of extra vowels plus one:
+
+いやぁ - “weeell”
+
+そうですねえ - “isn’t iiit?”
+
+Elongation with em-dashes and vowel - add number of dashes as vowels plus one and til-de at the end:
+
+レムって、だーぁれのこと？- “Whooo~ is Rem?”
+
+所持者の未来の一部はわかるようになっているねーぇ - “But it does reveal a portion of the owner’s fuuuture~”
+
+Elongation with til-de at the end - only keep the til-de:
+
+“あらあら~” - “Oh my~”
+
+“きゃあ~” - “Kyaa~”
+
+For speaker assignment:
+
+If it is the first time a character is coming into a scene, consider assigning their speech as “???” until the narration identifies them. If they’re identified by a generic moniker (e.g.: “woman”, “child”, “young man”) before being identified by name, use that until the name’s name is mentioned in narration.
+
+For crossdressing characters, label their speech using their real names unless the POV is slanted through someone’s lens. Same logic goes for any female crossdresser that might appear in the story.
+
+For lines spoken by more than one person (and if it’s not everyone in the scene), use “A, B & C: []”.
+
+For narration:
+
+Narration is to be rendered almost exclusively in third-person; only in very few cases should it be done in first-person (the use of 自分 is NOT an indicator of first-person narration)
+
+Use contractions (“he’d” / “would’ve” / “hadn’t” / etc) only when the scene is light-hearted/not serious. Tension and graveness feels better conveyed when contractions aren’t used in the narration.
+
+There may be a few exceptions for this, however. One of which was the Sirius scene in Arc 5 Chapter 19, in which using contractions heightens the intended dissonance between events and actions.
+
+Engrish in narration is often ignored, and so is not marked with an underline.
+
+When speech is embedded in narration, use “” to distinguish it from the rest.
+
+The tenses to use for conveying current actions, feelings or absolute truths in narration are the Past and Past Continuous tenses.
+
+The tenses to use for conveying past actions or feelings in narration are the Past Perfect and Past Perfect Continuous tenses.
+
+The tenses to use for conveying future or possible actions or feelings in narration are the Past Future, Past Future Continuous, Past Future Perfect and Past Future Perfect Continuous tenses.
+
+For crossdressing characters, use "he/her” pronouns unless the POV is slanted through the eyes of someone unaware of their crossdressing status.
+
+This is because the narration more often than not uses “彼” (gender-neutral) over “彼女” (female-specific) for these characters, possibly because the “normal” POV is Subaru’s.
+
+△▼△▼△▼△
+
+Glossary
+
+Terms
+
+Titles
+
+Japanese
+
+English translation
+
+Used for
+
+Notes
+
+大賢人
+
+Great Sage
+
+Flugel
+
+Used exclusively by Shaula
+
+三英傑
+
+Three Great Heroes
+
+Flugel
+
+Shaula
+
+Reid Astrea
+
+Volcanica
+
+賢人
+
+Sage
+
+Flugel
+
+Shaula
+
+賢人候補
+
+Sage Candidate
+
+Natsuki Subaru
+
+魔女
+
+Witch
+
+Carmilla
+
+Daphne
+
+Echidna
+
+Minerva
+
+Pandora
+
+Satella
+
+Sekhmet
+
+Typhon
+
+Also used for Emilia (is listed separately)
+
+魔人
+
+Warlock
+
+Hector
+
+Also used for Roswaal L. Mathers and Ley Batenkaitos, but not capitalized
+
+大罪
+
+Sin Archbishop
+
+Capella Emerada Lugunica
+
+Louis Arneb
+
+Ley Batenkaitos
+
+Petelgeuse Romanée-Conti
+
+Regulus Corneas
+
+Roy Alphard
+
+Sirius Romanée-Conti
+
+Stride Vollachia
+
+Also used for Natsuki Subaru in Ayamatsu IF
+
+王選候補者
+
+Royal Candidate
+
+Anastasia Hoshin
+
+Crusch Karsten
+
+Emilia
+
+Felt
+
+Priscilla Barielle
+
+Filóre
+
+辺境伯
+
+Margrave
+
+Roswaal L. Mathers
+
+団長
+
+Commander
+
+Marcos Gildark
+
+Wilhelm van Astrea (formerly)
+
+In the context of Lugunica’s Royal Guards
+
+副団長
+
+Deputy Commander
+
+Heinkel Astrea
+
+In the context of Lugunica’s Royal Guards
+
+神将
+
+Divine General
+
+Arakiya
+
+Cecilus Segmunt
+
+Chisha Gold
+
+Goz Ralfon
+
+Groovy Gumlet
+
+Madelyn Eschart
+
+Moguro Hagane
+
+Olbart Dunklekenn
+
+Yorna Mishigure
+
+一将
+
+General First-Class
+
+All Divine Generals
+
+Plural is “Generals of the First-Class”
+
+Can be employed as sort-of honorific
+
+二将
+
+General Second-Class
+
+Zikr Osman
+
+Kafma Irulux
+
+Gudda Dialmo
+
+Toledo Spiegel
+
+Plural is “Generals of the Second-Class”
+
+Can be employed as sort-of honorific
+
+三将
+
+General Third-Class
+
+None
+
+Plural is “Generals of the Third-Class”
+
+Can be employed as sort-of honorific
+
+上等兵
+
+Private First-Class
+
+Jamal Aurélie
+
+Todd Fang (later)
+
+Plural is “Privates of the First-Class”
+
+Can be employed as sort-of honorific
+
+兵卒
+
+Private
+
+--
+
+筆頭宮廷魔導師
+
+(筆頭宮廷魔術師)
+
+Head Magician of the Court
+
+Roswaal L. Mathers
+
+筆頭宮廷魔術師 was used in several instances from Arc 2 through Arc 4
+
+騎士
+
+Knight
+
+Julius Juukulius
+
+Felix Argyle
+
+Reinhard van Astrea
+
+Heinkel Astrea
+
+Marcos Gildark
+
+皇帝
+
+Emperor
+
+Drizen Vollachia
+
+Vincent Vollachia
+
+(et al.)
+
+There are some derivations on this, see Abel’s section
+
+宰相
+
+Prime Minister
+
+Berstetz Fondalfon
+
+王様
+
+King/Monarch
+
+Gionis Lugunica
+
+Randohal Lugunica
+
+Use King for Gionis/Randohal/any other male king
+
+Use Monarch for the candidates’ prospective position (using Queen doesn’t fit so well)
+
+族長
+
+Chieftain
+
+Mizelda
+
+Taritta
+
+上級伯
+
+High Count(ess)
+
+Serena Dracroy
+
+中級伯
+
+Mid Count(ess)
+
+Jorah Pendleton
+
+If you have any suggestions, feel free to add; this hasn’t been used thus far
+
+下級伯
+
+Low Count(ess)
+
+Jamal Aurélie
+
+剣奴
+
+Gladiator
+
+Aldebaran
+
+Hornet
+
+(島の)管理者
+
+(Island) Chief
+
+Gustav Morello
+
+神殿騎士
+
+Acolyte Knight(s)
+
+n/a
+
+To be settled on
+
+大参謀
+
+Great Strategist
+
+Valga Cromwell/Old Man Rom
+
+豚王
+
+King Pig
+
+Doltero Amule
+
+巌
+
+Boulder
+
+Marcos Gildark
+
+獅子王
+
+Lion King(s)
+
+Farsale Lugunica
+
+Fourier Lugunica
+
+Felt (possibly in the future)
+
+聖女
+
+(The) Saintess
+
+Filóre
+
+Pandora (possibly)
+
+In the context of the Church of the Divine Dragon and the one who held the Witch Factor of Vanagloria; in other contexts other translations may be preferable. “The” should always be used in the context of Vanagloria.
+
+勇者
+
+The Valiant
+
+Hector
+
+Only in the context of Hector; in other contexts, it might be better translated as hero.
+
+一の騎士
+
+One and only Knight
+
+Royal Candidate's Knights
+
+Should be "one and only Knight", with "Knight" being the only capitalized word
+
+Major Concepts
+
+Japanese
+
+English TL
+
+Notes
+
+王選
+
+Royal Selection
+
+選帝の儀
+
+Imperial Selection Ceremony
+
+オド
+
+Od
+
+Do not underline
+
+マナ
+
+Mana
+
+Do not underline
+
+ゲート
+
+Gate
+
+Do not underline
+
+大災厄
+
+Great Calamity
+
+Refers to the events of 400 years ago
+
+観覧者
+
+Observer(s)
+
+Unclear if it’s a group
+
+オド・ラグナ
+
+Od Lagna
+
+Do not underline
+
+加護
+
+Divine Protection
+
+魔女因子
+
+Witch Factor
+
+権能
+
+Authority
+
+瘴気
+
+Miasma
+
+魔女の香
+
+Witch’s Scent
+
+魔女の残り香
+
+Witch’s Lingering Scent
+
+禁忌
+
+Taboo
+
+In context of Subaru speaking of RbD (should be capitalized)
+
+精霊術
+
+Spiritual Arts
+
+精霊術師
+
+Spiritual Arts User(s)
+
+呪術
+
+Curse Arts
+
+呪術師
+
+Curse Arts User(s)
+
+禁術
+
+forbidden arts / forbidden technique
+
+To be used freely, no capitalization
+
+誓い
+
+vow
+
+約束
+
+promise
+
+誓約
+
+Oath
+
+盟約
+
+Covenant
+
+契約
+
+Contract
+
+試練
+
+Trial/Ordeal
+
+Is used as Ordeal in the context of whatever Petelgeuse means/meant by it. Trial otherwise (only for Arc 4 Trials)
+
+試験
+
+Trial
+
+Specifically for Arc 6
+
+大災
+
+Great Disaster
+
+Equipment (Items, Weapons)
+
+Japanese
+
+English TL
+
+Notes
+
+鬼の面
+
+Oni mask
+
+Should be stylized as “oni mask”--no capitals
+
+リュリーレ
+
+Lyulyre
+
+Do not underline
+
+魔剣
+
+Enchanted Sword
+
+妖刀
+
+Bewitched Swords
+
+聖剣
+
+Holy Swords
+
+龍剣(レイド)
+
+Dragon Sword( Reid)
+
+邪剣(ムラサメ)
+
+Fiend Sword( Murasame)
+
+Denoted as 1st rank (一番刀) in EX4, 2nd (二番刀) in Oboreru
+
+夢剣(マサユメ)
+
+Dream Sword( Masayume)
+
+Denoted as 2nd rank (二番刀) in EX4, 1st (一番刀) in Oboreru
+
+陽剣(ヴォラキア)
+
+Yang Sword( Vollachia)
+
+Possesses an ability labelled as “Flame of the Yang Sword” (陽剣の焔)
+
+命剣(ゼアム)
+
+Life Sword( Zeam)
+
+呪剣(アイオーン)
+
+Cursed Sword( Aeon)
+
+愛剣
+
+Beloved Sword
+
+霊剣
+
+Spirit Sword
+
+影剣
+
+Shadow Sword
+
+疫剣
+
+Blight Sword
+
+青龍刀
+
+dao
+
+飛翼刃
+
+Flying Winged Blade
+
+ミーティア
+
+Meteor
+
+Used in Light Novel canon and post-Arc 6 Web Novel for the generality of magic devices
+
+Used in Web Novel Arc 5 to refer to a specific device
+
+Do not underline
+
+魔法器
+
+magical device(s)
+
+Supplanted with “ミーティア” (Meteor) in Light Novel canon (and post Arc 6 Web Novel)
+
+輝石
+
+pyroxene
+
+魔晶砲
+
+Magic Crystal Cannon
+
+呪具
+
+Curse Tool(s)
+
+魔造具
+
+Magicreation tools
+
+魔核
+
+Magic Core
+
+As in, the Magic Core of the Crystal Palace
+
+魔晶巨兵
+
+Giant Magic Crystal Soldier
+
+Magics
+
+Japanese
+
+English TL
+
+Notes
+
+流法
+
+Flow Method
+
+エル・
+
+El
+
+ウル・
+
+Ul
+
+アル・
+
+Al
+
+オル・
+
+Ol
+
+Used only with Al
+
+フーラ
+
+Fula
+
+ドーナ
+
+Dona
+
+ヒューマ
+
+Huma
+
+ゴーア
+
+Goa
+
+シャマク
+
+Shamak
+
+ネクト
+
+Nect
+
+ミーニャ
+
+Minya
+
+ジワルド
+
+Jiwald
+
+ムラク
+
+Murak
+
+ヴィータ
+
+Vita
+
+クラム
+
+Karum
+
+ムラク but flipped
+
+クラリスタ
+
+Clarista
+
+クラウゼリア
+
+Clauseria
+
+クランヴェル
+
+Clanveir
+
+アイスブランド・アーツ
+
+Ice Brand Arts
+
+アイスブランド・アーツ、アイシクルライン
+
+Ice Brand Arts: Icicle Line
+
+氷の兵隊
+
+Ice Soldiers
+
+アブソリュート・ゼロ
+
+Absolute Zero
+
+百人一太刀
+
+One Blow, One Hundred Felled
+
+扉渡り
+
+Door Crossing
+
+復元魔法
+
+Restoration Magic
+
+不死王の秘蹟
+
+Sacrament of the Immortal King
+
+共感覚
+
+Synesthesia
+
+千里眼
+
+Clairvoyance
+
+魂婚術
+
+Soul Marriage Technique
+
+短距離転移
+
+Blink
+
+短距離ワープ
+
+Short-distance warp
+
+No capitalization needed
+
+転移
+
+Teleport
+
+No capitalization needed unless employed as a noun
+
+魔装励起
+
+Magical Shroud Excitation
+
+飛竜繰り
+
+flying dragon taming / taming of flying dragons
+
+To be used freely, no capitalization
+
+認識阻害
+
+cognitive disruption
+
+No capitalization
+
+秘蹟
+
+Sacrament
+
+Capitalized when talking about the Sacrament of the Church of the Divine Dragon or the Sacrament of the Immortal King, uncapitalized in general use
+
+Authorities
+
+Japanese
+
+English TL
+
+Notes
+
+圧縮
+
+Compression
+
+日食
+
+Solar Eclipse
+
+月食
+
+Lunar Eclipse
+
+星食
+
+Star Eating
+
+死に戻り
+
+Return by Death
+
+コル・リオニス
+
+Cor Leonis
+
+Do not underline
+
+インビジブル・プロヴィデンス
+
+Invisible Providence
+
+Do not underline
+
+見えざる手
+
+Unseen Hand
+
+洗魂
+
+Soulwashing
+
+変異・変貌
+
+(TBD)
+
+Divine Protections
+
+Japanese
+
+English TL
+
+Relevant characters
+
+Notes
+
+風避, 風除け
+
+Wind Evasion
+
+Ground dragons in general
+
+誘精
+
+Gathering Spirits
+
+Julius Juukulius
+
+言霊
+
+The Soul of Language
+
+Otto Suwen
+
+This one is an exception and keeps “the”, so Divine Protection of the Soul of Language
+
+死神
+
+Death God
+
+Thearesia van Astrea
+
+地霊
+
+Earth Spirits
+
+Garfiel Tinzel
+
+魔操
+
+Fiend Manipulation
+
+Meili Portroute
+
+伝心
+
+Telepathy
+
+Reinhard van Astrea
+
+Liliana Masquerade
+
+不死
+
+Phoenix
+
+Reinhard van Astrea
+
+審判
+
+Judgement
+
+Reinhard van Astrea
+
+水
+
+Water
+
+Felix Argyle
+
+What a stupid name
+
+三分
+
+Trisection
+
+Mimi Pearlbatton
+
+Hetaro Pearlbatton
+
+Tivey Pearlbatton
+
+剣聖
+
+Sword Saint
+
+Reinhard van Astrea
+
+Theresia van Astrea
+
+Fribal van Astrea
+
+Also used to refer to Reid Astrea as-is
+
+念話
+
+Mindspeak
+
+Flam Remendis
+
+Grassis Remendis
+
+Animals, Beasts, Living Beings
+
+Note: Creatures’ cries are often written as 「――ッッ！！」 and stuff of the sort, and nothing more.
+
+Japanese
+
+English TL
+
+Notes
+
+Collective Noun
+
+Cries (for Witchbeasts etc)
+
+大精霊
+
+Great Spirit
+
+準精霊
+
+Quasi Spirit
+
+微精霊
+
+Micro Spirit
+
+人工精霊
+
+Artificial Spirit
+
+精霊
+
+Spirit
+
+邪精霊
+
+Evil Spirit
+
+斑王犬
+
+Spotted Rex
+
+黒翼鼠
+
+Blackwinged Mice
+
+羽土竜
+
+Feathered Mole
+
+魔獣
+
+Witchbeast
+
+白鯨
+
+White Whale
+
+大兎
+
+Great Rabbit
+
+黒蛇
+
+Black Serpent
+
+紅蠍
+
+Crimson Scorpion
+
+Aka Shaula’s transformed form
+
+BISHAAAN
+
+百足棺
+
+Centipede Coffin
+
+ギルティラウ
+
+Guiltilaw
+
+AROOOOOO
+
+オルトロス
+
+Orthrus
+
+GRAAOWRRHK
+
+一角獣
+
+Unicorn
+
+ウルガルム
+
+Ulgarm
+
+砂蚯蚓
+
+Sand Earthworm
+
+KRUAAAAAAAAAAAGH
+
+花魁熊
+
+Courtesan Bear
+
+<TBD>
+
+ケンタウロス
+
+Centaur
+
+Same creature as Hungry Horse King
+
+KSHEEEEEEGHHH
+
+餓馬王
+
+Hungry Horse King
+
+Same creature as Centaur
+
+KSHEEEEEEGHHH
+
+N/A
+
+Great Eagle
+
+This Witchbeast hasn’t been given a proper name
+
+GYAOO
+
+N/A
+
+Rock-looking Frog
+
+This Witchbeast hasn’t been given a proper name
+
+GWOGOBO
+
+龍
+
+Dragon
+
+Should be capitalized always to make a distinction to 竜, which is only capitalized in certain cases
+
+weyr
+
+Volcanica: Haahraan
+
+Mezoreia: PREAHHHHHH
+
+竜殻
+
+dragonhusk
+
+邪龍
+
+Blight Dragon
+
+地竜
+
+ground dragon
+
+Dodogyuuun
+
+水竜
+
+water dragon
+
+飛竜
+
+flying dragon
+
+Priscilla calls them “翼竜”, which should be “winged dragon”
+
+flock
+
+疾風馬
+
+Galewind Horse
+
+ファロー(車)
+
+Falo (Cart)
+
+勇牛
+
+Brave Ox
+
+ライガー
+
+Liger
+
+ガイラス
+
+Gyras
+
+Subspecies of ground dragon
+
+幻狼
+
+Phantom Wolf
+
+Also called 影の獣 (beast of shadows)
+
+ZRRAARZK
+
+雷狼
+
+thunderwolf
+
+Races
+
+Japanese
+
+English TL
+
+Notes
+
+亜人
+
+Demi-human
+
+Should be lowercase
+
+獣人
+
+Beastman/men/woman
+
+Which one to be used depends on context
+
+Should be lowercase
+
+<animal>人の女
+
+<animal>woman
+
+E.g.: Catwoman
+
+Should be lowercase
+
+<animal>人
+
+<animal>man/person/kin
+
+Which one to be used depends on context or just sound
+
+E.g.: Catman, dragonkin
+
+Should be lowercase
+
+<animal>人の娘
+
+<animal>girl
+
+E.g.: Catgirl
+
+鬼族
+
+Oni Clan
+
+虫籠族
+
+Insect Cage Tribe
+
+多腕族
+
+Multi-Arm Tribe
+
+単眼族
+
+Cyclops Tribe
+
+魔眼族
+
+Evil Eye Tribe
+
+足長族
+
+Long-Leg Tribe
+
+半獣族
+
+Halfbeast Tribe
+
+獣人族
+
+Beastman Tribe
+
+人間族
+
+Humans or the human race
+
+刃金人
+
+Weaponkin
+
+光人
+
+Glow People
+
+人馬人
+
+Centaur People
+
+翼人
+
+Winged People
+
+人狼
+
+Werewolf
+
+ハーフエルフ
+
+half-elf
+
+Basically Engrish
+
+Do not underline
+
+エルフ
+
+elf
+
+Basically Engrish
+
+Do not underline
+
+Nicknames & Monikers
+
+Japanese
+
+English TL
+
+Used for
+
+Notes
+
+幼女使い
+
+Lolimancer
+
+Natsuki Subaru
+
+氷結の魔女
+
+Witch of Glaciation
+
+Emilia
+
+内政官
+
+Internal Affairs Minister
+
+Otto Suwen
+
+半魔
+
+half-devil
+
+Emilia
+
+Satella
+
+Ryuzu Meyer
+
+Lower-case should be used
+
+亜人趣味
+
+Demi-Human Lover
+
+Roswaal L. Mathers
+
+魔獣使い
+
+猛獣使
+
+Witchbeast Master
+
+Meili Portroute
+
+騎士の中の騎士
+
+Knight Amongst Knights
+
+Reinhard van Astrea
+
+『最優』の騎士
+
+Finest of Knights
+
+Julius Juukulius
+
+May also appear as 最優の騎士
+
+ゴージャス・タイガー
+
+Gorgeous Tiger
+
+Garfiel Tinzel
+
+青き雷光
+
+(The) Blue Lightning
+
+Cecilus Segmunt
+
+青き稲妻
+
+(The) Blue Thunderbolt
+
+Cecilus Segmunt
+
+Single instance in Arc 7 Chapter 98
+
+精霊喰らい
+
+(The) Spirit Eater
+
+Arakiya
+
+悪辣翁 (not to be confused with 怪老)
+
+(The) Vicious Old Man
+
+Olbart Dunklekenn
+
+白蜘蛛
+
+(The) White Spider
+
+Chisha Gold
+
+獅子騎士
+
+(The) Lion Knight
+
+Goz Ralfon
+
+呪具師
+
+(The) Master of Curse Tools
+
+Groovy Gumlet
+
+極彩色
+
+(The) Flamboyant
+
+Yorna Mishigure
+
+鋼人
+
+(The) Steelman
+
+Moguro Hagane
+
+飛竜将
+
+(The) Flying Dragon General
+
+Madelyn Eschart
+
+魔弾の射手
+
+(The) Magical Sharpshooter
+
+Balleroy Temeglyph
+
+星詠み
+
+Stargazer
+
+Ubilk
+
+Mariuli
+
+Rowan Segmunt
+
+Cecilus Segmunt
+
+女好き
+
+(The) Womanizer
+
+Zikr Osman
+
+灼熱公
+
+Scorching Lady
+
+Serena Dracroy
+
+破滅願望
+
+Destruction Wish
+
+Stride Vollachia
+
+闘蟲将
+
+Fighting Insect General
+
+Kafma Irulux
+
+虎狩
+
+(The) Tiger Hunter
+
+Gudda Dialmo
+
+大敗帝
+
+Loser Emperor
+
+Murkia Vollachia
+
+腑分け
+
+(The) Dissector
+
+Viva
+
+黒髪の皇太子
+
+black-haired Crown Prince
+
+Subaru
+
+“black-haired” is lowercase, “Crown Prince” is uppercase
+
+礼賛者
+
+(The) Admirer
+
+Halibel
+
+毒姫
+
+Poison Princess
+
+Lamia Godwin
+
+終焉の獣
+
+Beast of the End
+
+Puck
+
+調停者
+
+Arbitrator
+
+Melakuera
+
+石塊
+
+Stone
+
+Muspel
+
+通り魔
+
+Slasher
+
+Zarestia
+
+霊獣
+
+Sacred Beast
+
+Odglass
+
+聖獣/Holy Beast has mistakenly been used in the past
+
+紅桜
+
+Crimson Sakura
+
+Yae Tenzen
+
+無駄飯喰らい
+
+Parasite
+
+Heinkel Astrea
+
+背剣者
+
+(The) Backstabber
+
+Heinkel Astrea
+
+猛犬
+
+Mad Dog
+
+Bordeaux Zergev
+
+狂皇子
+
+(The) Mad Prince
+
+Vague Adgard
+
+割り物
+
+(The) Shatterer
+
+Clarissa
+
+TBD
+
+腸狩り
+
+(The) Bowel Hunter
+
+Elsa
+
+Sins
+
+Japanese
+
+English TL
+
+Notes
+
+暴食
+
+Gluttony
+
+憤怒
+
+Wrath
+
+色欲
+
+Lust
+
+傲慢
+
+Pride
+
+怠惰
+
+Sloth
+
+強欲
+
+Greed
+
+嫉妬
+
+Envy
+
+憂鬱
+
+Tristitia
+
+虚飾
+
+Vanagloria
+
+Associations, Groups
+
+Japanese
+
+English TL
+
+Notes
+
+四大国
+
+Four Great Countries
+
+賢人会
+
+Council of Wise Men
+
+To be decided if “Sages” should be used instead
+
+魔女教
+
+Witch Cult
+
+シュドラクの民
+
+People of Shudraq
+
+“Shudraqians” may also be used as a substitute
+
+ルグニカ王族
+
+Royal Family of Lugunica
+
+ヴォラキア皇族
+
+Vollachian Imperial Family
+
+帝国貴族
+
+Imperial Nobility
+
+帝国軍人
+
+帝国兵
+
+Imperial Soldier(s)
+
+九神将
+
+Nine Divine Generals
+
+Use “Divine General” when referring to one or more individuals in particular, not the group as a whole
+
+Ranks should be ordinals: First, Second, etc
+
+近衛騎士
+
+Royal Guard
+
+<X>陣営
+
+<X> Camp
+
+Capitalized
+
+Used for the Royal Candidates
+
+<X>家
+
+<X> Family
+
+プレアデス戦団
+
+Pleiades Battalion
+
+飛竜隊
+
+Flying Dragon Squadron
+
+剪定部隊
+
+Pruning Corps
+
+(ヴォラキア帝国を)滅亡から救い隊
+
+Rescue (the Vollachian Empire) from Destruction Squad
+
+黒銀貨
+
+Black Silver Coin
+
+天秤
+
+Balance
+
+華獄園
+
+Flower Prison Garden
+
+神龍教会
+
+Church of the Divine Dragon
+
+When just “教会” is used in reference, should be capitalized as the Church. Check that it is not referring to a physical church.
+
+商業組合
+
+Commerce Guild
+
+六枚舌
+
+Six Tongues
+
+愛し子
+
+Beloved Children
+
+聖議会
+
+Holy Synod
+
+Objects
+
+Japanese
+
+English TL
+
+Notes
+
+竜歴石
+
+Dragon History Stone
+
+竜珠
+
+Dragon Gem
+
+聖金貨
+
+holy gold coin(s)
+
+金貨
+
+gold coin(s)
+
+銀貨
+
+silver coin(s)
+
+銅貨
+
+bronze coin(s)
+
+福音
+
+福音書
+
+Gospel
+
+As in, the Witch Cult’s, Beatrice’s and Roswaal’s Gospels. From what I could tell, there’s two distinct ways to refer to it so yeah
+
+魔石
+
+Magic Stone
+
+魔鉱石
+
+Magic Ore
+
+ラグマイト鉱石
+
+Lagmite ore
+
+魔晶石
+
+魔水晶
+
+Magic Crystal
+
+結晶石
+
+Crystal Stone
+
+竜車
+
+Dragon Carriage
+
+Should be lowercase
+
+牛車
+
+Ox Cart
+
+犬車
+
+Canine Cart
+
+ファロー車
+
+Falo Cart
+
+背負子
+
+wooden rack
+
+依り代
+
+Anchor
+
+Should be uppercase
+
+パイロ樹
+
+pyro tree
+
+テーブル
+
+table
+
+Straight from English
+
+Food stuffs
+
+Note: do not underline any of these
+
+Japanese
+
+English TL
+
+Notes
+
+ソルテ
+
+solt
+
+Stands for salt
+
+ペッパ
+
+peppa
+
+Stands for pepper
+
+ビネギー
+
+vinegee
+
+Stands for vinegar
+
+ピーマル
+
+peppir
+
+Stands for bell pepper
+
+スク
+
+watermelan
+
+Stands for watermelon
+
+メラン
+
+melan
+
+Stands for melon
+
+ランコ
+
+lodus
+
+Stands for lotus fruit
+
+チェロリ
+
+chorry
+
+Stands for cherry
+
+バニナ
+
+banina
+
+Stands for banana
+
+ピジ
+
+piche
+
+Stands for peach
+
+オレージ
+
+orage
+
+Stands for orange
+
+ペア
+
+peah
+
+Stands for pear
+
+リンガ
+
+appa
+
+Stands for apple
+
+レモヌ/レモム
+
+lemom
+
+Stands for lemon
+
+トメト
+
+tometo
+
+Stands for tomato
+
+芋
+
+yam
+
+Unchanged from standard Japanese, anime bad
+
+スロベリ
+
+strowberry
+
+Stands for strawberry
+
+グラプ
+
+grapp
+
+Stands for grape
+
+コーフ
+
+coff
+
+Stands for coffee
+
+ジャリガニ
+
+krafish
+
+Stands for crayfish
+
+ラグディッシュ
+
+radsh
+
+Stands for raddish
+
+ポワッゾ
+
+poiison
+
+Stands for poisson (French for fish)
+
+ミルク
+
+milk
+
+Unchanged from English
+
+リョクチャ
+
+ryokucha
+
+ボッコの実
+
+bokko fruit
+
+ファネルの実
+
+fannel fruit
+
+カルナゴの粉末
+
+karnago powder
+
+Honorifics
+
+Japanese
+
+English TL
+
+Prefix/suffix
+
+Notes
+
+ちゃん
+
+chan
+
+Suffix
+
+さん
+
+san
+
+Suffix
+
+くん
+
+kun
+
+Suffix
+
+姉様
+
+neesama
+
+Suffix
+
+お姉さん
+
+oneesan
+
+Suffix
+
+様
+
+sama
+
+Suffix
+
+殿
+
+dono
+
+Suffix
+
+嬢ちゃん
+
+Little Miss
+
+Prefix
+
+Can also be localized as “Lil’ Miss” depending on the character stylization
+
+女史
+
+Miss
+
+Prefix
+
+嬢様
+
+Lady
+
+Prefix
+
+嬢
+
+Miss
+
+Prefix
+
+Careful with distinction between “嬢ちゃん”, “嬢様” and “嬢”
+
+卿
+
+Sir
+
+Prefix
+
+翁
+
+Master
+
+Prefix
+
+Localization may be context dependant
+
+爺
+
+jii
+
+Suffix
+
+Careful with distinction between “爺” and “爺さん”
+
+爺さん
+
+Old Man
+
+Prefix
+
+坊
+
+Little
+
+Prefix
+
+Can also be localized as “Lil’” depending on the character stylization
+
+Can be employed as standalone (as in, not an honorific, just a way to refer to someone)
+
+氏
+
+Mister
+
+Prefix
+
+Time (Hours, Seasons)
+
+Japanese
+
+English TL
+
+Notes
+
+火の刻
+
+Fire Time
+
+6 AM to Noon (IIRC)
+
+陽日
+
+Bright Time
+
+Time of the day with light (6 AM to 6 PM)
+
+冥日
+
+Dark Time
+
+Time of the day without light (6PM to 6AM)
+
+氷季
+
+Ice Season
+
+Equivalent to winter
+
+火季
+
+Fire Season
+
+Equivalent to summer
+
+Others
+
+Japanese
+
+English TL
+
+Notes
+
+異世界
+
+(An)other world
+
+イセカイ
+
+Isekai
+
+This is not translated into “(an)other world” to distinguish between usages of “異世界” and “イセカイ”
+
+Underline
+
+魔女の残り香
+
+Witch's Lingering Scent
+
+魔女の香
+
+Witch's Scent
+
+親竜儀
+
+Dragonkindling Ceremony
+
+血命の儀
+
+Lifeblood Ritual
+
+発魔期
+
+Magic Release Period
+
+砂風
+
+Sand Wind
+
+砂海
+
+Sand Sea
+
+シャトランジ
+
+Shatranj
+
+Do not underline
+
+ワフー
+
+Wafuu
+
+Underline
+
+ワソー
+
+Wasou (?)
+
+Corrupted form of the above (its not corrupted, its just more for clothing while above is for other aspects - garcar)
+
+Do not underline
+
+幼児化
+
+Infantilization / infantilized
+
+Whichever works best in the sentence’s wording
+
+合
+
+Unit
+
+How teams are referred to in Sparka
+
+マグリッツァの断頭台
+
+Magrizza’s Guillotine
+
+アイリスと茨の王
+
+Iris and the King of Thorns
+
+死魂花
+
+necrosoul flower
+
+ミリージア
+
+milizia flower
+
+ボーク陽樹
+
+bokuyang tree
+
+頂点
+
+bastion
+
+For the context of the Arc 7 and Arc 8 Lupugana battles. Under other circumstances, a different localization may be more appropriate.
+
+(Name)領
+
+(Name) Domain
+
+剣に貫かれた狼
+
+wolf pierced by swords
+
+A bit of a key expression describing Vollachia’s emblem
+
+死に逃げ
+
+Escape by Death
+
+核虫
+
+Corebug
+
+屍人
+
+undead
+
+龍の血
+
+Dragon’s Blood
+
+メイド
+
+maid
+
+Actually straight from English
+
+Locations
+
+Lugunica
+
+Japanese
+
+English TL
+
+Observations
+
+親竜王国ルグニカ
+
+Dragon Kingdom of Lugunica
+
+ルグニカ王国
+
+Kingdom of Lugunica
+
+ルグニカ
+
+Lugunica
+
+王都
+
+Royal Capital
+
+王城
+
+Royal Castle
+
+王侯館
+
+Royal Residence
+
+貴族街
+
+Noble District
+
+商業街
+
+Commercial District
+
+Same 商業 used for the Commercial City
+
+平民街
+
+Commoner District
+
+貧民街
+
+(the) Slums
+
+監獄塔
+
+Prison Tower
+
+五大都市
+
+Five Great Cities
+
+(水門都市)プリステラ
+
+(Watergate City of) Pristella
+
+Also called “水の都” (Capital of Water)
+
+(商業都市)ピックタット
+
+(Commercial City of) Picoutatte
+
+(工業都市)コスツール
+
+(Industrial City of) Costuul
+
+(地竜の都)フランダース
+
+(Ground Dragon Capital,) Flanders
+
+(鉱山都市)ガナクス
+
+(Mining City of) Ganacks
+
+ミルーラ
+
+Mirula
+
+アウグリア砂丘
+
+Augria Sand Dunes
+
+魔女の祠
+
+Witch's Shrine
+
+封魔石の祠
+
+Evil Sealing Stone Shrine
+
+リーファウス平原
+
+Lifaus Plains
+
+リーファウス街道
+
+Lifaus Highway
+
+ティグラシー大河
+
+Tigracy River
+
+ティグラシー大橋
+
+Great Tigracy Bridge
+
+水の羽衣亭
+
+Water Plumage Inn
+
+パッペルト
+
+Pappelt
+
+アーラム村
+
+Arlam Village
+
+エリオール大森林
+
+Great Forest of Elior
+
+クレマルディ
+
+Kremaldy
+
+聖域
+
+Sanctuary
+
+強欲の魔女の墓場
+
+Witch of Greed’s Tomb
+
+プレアデス監視塔
+
+Pleiades Watchtower
+
+大図書館プレイアデス
+
+Great Library Pleiádes
+
+プレイアデス spelling is also used when referring directly to the Greek myth of the Seven Sisters.
+
+『タイゲタ』の書庫
+
+Library of Taygeta
+
+封魔石の祠
+
+Evil Sealing Stone Shrine
+
+大瀑布
+
+Great Waterfall
+
+フルール
+
+Fleur
+
+禁書庫
+
+Forbidden Library
+
+Vollachia
+
+Japanese
+
+English TL
+
+Notes
+
+神聖ヴォラキア帝国
+
+Sacred Vollachian Empire
+
+ヴォラキア帝国
+
+Vollachian Empire
+
+ヴォラキア
+
+Vollachia
+
+剣狼の国
+
+(The) Land of the Sword Wolf
+
+バドハイム密林
+
+Buddheim Jungle
+
+バドハイム
+
+Buddheim
+
+(城郭都市)グァラル
+
+(Fortress City of) Guaral
+
+Sometimes referred to as 城塞都市 as well (can be translated as fortified city but it’s whatever as long as Fortress City is capitalized)
+
+(魔都)カオスフレーム
+
+(Demon City of) Chaosflame
+
+(剣奴孤島)ギヌンハイブ
+
+(Gladiator Island) Ginunhive
+
+When 孤島 is used on it’s own, simply use “island”, do not add “Isolated” or “Solitary”
+
+(帝都)ルプガナ
+
+(Imperial Capital of) Lupugana
+
+Changed as of 2022/09/20
+
+(鉄血都市)グララシア
+
+Glarasia(, the City of Iron and Blood)
+
+Has to break convention for it to sound decent
+
+(城塞都市)ガークラ
+
+(Fortified City of) Garkla
+
+城塞都市 has also been used for Guaral (without the city’s name) here and there
+
+水晶宮
+
+Crystal Palace
+
+紅瑠璃城
+
+Crimson Lapis Castle
+
+エイブリーク
+
+Averyk
+
+(雲海都市)メゾレイア
+
+(Cloud Sea City of) Mezoreia
+
+Also used for the Cloud Dragon Mezoreia
+
+Kararagi
+
+Japanese
+
+English TL
+
+カララギ都市国家
+
+Kararagi City-States
+
+モゴレード大噴口
+
+Grand Mogolade Geyser
+
+Gusteko
+
+Japanese
+
+English TL
+
+グステコ聖王国
+
+Holy Kingdom of Gusteko
+
+Interjections, sayings
+
+Japanese
+
+English TL
+
+Notes
+
+魔女教大罪司教『X』担当、Y
+
+Sin Archbishop of the Witch Cult, representing X, Y
+
+――っ
+
+――ッ
+
+――Hk!
+
+When used in speech, usually at the end of sentences.
+
+Punctuation may also be a full-stop depending on context.
+
+Does not apply to Ley Batenkaitos, Louis Arneb and Roy Alphard.
+
+――ッッ！！
+
+――Roar!
+
+Used for roars.
+
+A unique sound can be picked for new things
+
+Character Index
+
+!!! NOTICE !!!
+
+Stuff like contractions is currently being reworked/adapted.
+
+However, this will be lacking for the time being, so refer back to this sheet.
+
+Things such as set-phrases used by a character, their Japanese/English names, their pronouns, will remain here.
+
+Lugunica
+
+Emilia Camp
+
+Annerose Miload
+
+Name in Japanese: アンネローゼ・ミロード
+
+Japanese speech quirks:
+
+First person pronoun – “わたくし”
+
+Second person pronoun/s – “”
+
+English speech quirks:
+
+No contractions
+
+Polite and formal speech
+
+Notes:
+
+Refers to Emilia with Emilly (エミリー)
+
+Refers to Roswaal with Uncle (小父様)
+
+Beatrice
+
+Name in Japanese: ベアトリス
+
+Japanese speech quirks:
+
+First person pronoun – “ベティ” (basically her name in short)
+
+Second person pronoun/s – “お前”
+
+Uses “かしら” and “のよ” / ”なのよ” nearly always interchangibly (one sentence will have the former, the next will have the latter)
+
+English speech quirks:
+
+Refers to herself as Betty
+
+Uses intermediate-level vocabulary (not overly complex)
+
+Uses contractions such as “I’m” / “don’t”, etc often, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+“かしら” quirk should be translated as “, I suppose” at the end of sentences
+
+“のよ” / “なのよ” quirk should be translated as “, in fact” at the end of sentences
+
+Referred to as “嬢様” in Arc 7, to be localized as “Lady Beatrice”
+
+Notes:
+
+Proofreaders: If "Betty" (ベティ) is not used in the JP, do not use "I" as her pronoun. Instead, attempt to rewrite the sentence to remove the need for a pronoun, unless this proves impossible or detrimental to the flow or accuracy of the translation, in which case, just insert “Betty”.
+
+Clind
+
+Name in Japanese: クリンド
+
+Japanese speech quirks:
+
+First person pronoun – “私”, used “我” in one line in Sasageru IF (same as Volcanica)
+
+Second person pronoun/s – "君”
+
+English speech quirks:
+
+Very polite and formal speech
+
+No contractions
+
+Ends almost every sentence with a statement in kanji, the format should be “Dialogue. Statement.”
+
+Refers to Roswaal with “旦那様” should always to translated as “Master” or “the Master”.
+
+Refers to anyone above him with “sama” 様
+
+When 万能 is used for him it should be translated as “versatile”
+
+When using his “power” will say the word “憂鬱” should always be translated to “Tristitia”
+
+Notes:
+
+None
+
+Emilia
+
+Name in Japanese: エミリア
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Second person pronoun/s – “あなた”
+
+Elongates the word “すごく” as “すごーく”
+
+Not really a quirk but she does use the phrase “そこまでよ” a lot
+
+Uses old timey vocabulary from time to time
+
+English speech quirks:
+
+Simple vocabulary
+
+Uses contractions such as “I’m” / “don’t”, etc often, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+“すごーく” quirk should be translated as “reaaally”
+
+“そこまでよ” should be translated as “That’s enough”
+
+Old timey vocabulary should have weird-ass word choices (dunderhead, etc)
+
+Notes:
+
+Eye color should be translated as “amethyst” (紫紺)
+
+Has a sort of catch-phrase with “ごめん、ちょっと何言ってるのかわかんない”, translated as “Sorry, I’ve got no idea what you’re talking about”
+
+Kind of another as introduction with “私はエミリア、ただのエミリアよ。”, translated as “I’m Emilia, just Emilia”
+
+At times referred to as “氷結の魔女” (Witch of Glaciation)
+
+Referred to often as “エミリアたん” (Emilia-tan) by Subaru
+
+Referred to as “リア” (Lia) by Puck
+
+Referred to as “エミリー” (Emily) by Annerose, also uses that name for herself in Arc 7
+
+Refers to Fortuna as “母様” (Mother)
+
+Frederica Baumann
+
+Name in Japanese: フレデリカ・バウマン
+
+Japanese speech quirks:
+
+First person pronoun – “わたくし”
+
+Second person pronoun/s – “あなた”
+
+English speech quirks:
+
+Very polite speech
+
+No contractions unless speaking like an older person
+
+Will rarely slip into a way of speaking that is like an older person (Ryuzu)
+
+Refers to everyone above her with “sama” 様
+
+Refers to Roswaal with “旦那様” should always to translated as “Master” or “the Master”.
+
+Will very rarely in private refer to Petra with “chan” ちゃん
+
+Uses Garf for Garfiel
+
+Notes:
+
+Eye color should written as “emerald” or “emerald-green”
+
+Garfiel Tinzel
+
+Name in Japanese: ガーフィール・ティンゼル
+
+Japanese speech quirks:
+
+First person pronoun – “俺様”
+
+Second person pronoun/s – “お前, てめェ”
+
+English speech quirks:
+
+Uses of “俺様” shall be localized as “my amazin’ self”
+
+When “俺様たち” is used when appropate use “our amazin’ selves”
+
+Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “-in’”, etc
+
+“you” to be stylized as “ya”, except in “you’re” and “you’ve”
+
+“your(s)” to be stylized as “yer(s)”
+
+Uses “Captain” for Natsuki Subaru
+
+Uses “Ottobro” for Otto Suwen
+
+Uses “姉貴” for Frederica should be translated to “Sis”
+
+Refers to Roswaal with “野郎” Should be translated as “that bastard Roswaal”, “Roswaal the bastard” or “the bastard Roswaal”
+
+Use ‘Nanna’ when saying 婆ちゃん
+
+Use ‘Granny’ when saying ババア
+
+Notes:
+
+Eye color should written as “emerald” or “emerald-green”
+
+Louis Arneb (Arc 7) / Spica
+
+Name in Japanese: ルイ・アルネブ
+
+Japanese speech quirks:
+
+First person pronoun – “私たち” (prior to Arc 7)
+
+Second person pronoun/s – “”
+
+English speech quirks:
+
+“うー” - “Uu”
+
+“あうー” - “Auu”
+
+“あー” - “Aa”
+
+“あーうー” - “Aauu”
+
+You get the point.
+
+Notes:
+
+From Arc 8, Chapter 23 onward うあう should be treated as a name, referring to Subaru
+
+Meili Portroute
+
+Name in Japanese: メィリィ・ポートルート
+
+Japanese speech quirks:
+
+First person pronoun – “わたし”
+
+Second person pronoun/s – “あなた”
+
+Often extends particles at the end of her sentences with an extra full hiragana (ex. わ > わあ, よ > よお, etc.)
+
+English speech quirks:
+
+Casual, innocent-but-not-really.
+
+Uses basic contractions.
+
+Very slight child-like way of speaking.
+
+Elongation represented by inserting a tilde in the last word of the sentence, after the penultimate vowel (ex. “intere~sting”), or after the vowel in a single syllable word (“like thi~s”).
+
+Notes:
+
+Meili has a number of nicknames she uses for varying people:
+
+Subaru and Emilia are usually “Onii-san” and “Onee-san” respectively, but sometimes “Subaru-oniisan” and “Emilia-oneesan”.
+
+Petra is “Petra-chan”.
+
+Garfiel is “Garf-oniisan” as of Arc 10, used to be “fang-oniisan”.
+
+Otto is “Otto-oniisan” as of Arc 10, used to be “hat-oniisan”.
+
+Ram is “Ram-oneesan”.
+
+Rem is “Rem-oneesan”.
+
+Reinhard is “Sword Saint-oniisan”.
+
+Shaula was “naked-oneesan”.
+
+Calls Witchbeasts “Witchbeast-chan(s)”.
+
+Natsuki Subaru
+
+Name in Japanese: ナツキ・スバル (菜月・昴)
+
+Japanese speech quirks:
+
+First person pronoun – “俺”
+
+Second person pronoun/s – “お前”
+
+Casual speech
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “’n” / “y’all”, “ain’t” is used scarcely (never “y’ain’t”)
+
+Relatively simple speaking style, avoid very complicated words
+
+Notes:
+
+His “kind-of” catch-phrase, “馬鹿か、俺は。いや、馬鹿だ俺は”, should always be TL’d as “Am I an idiot? No, I am definitely an idiot.”
+
+May be “バカ” at times instead of “馬鹿”
+
+Has another sort of catch-phrase, “運命様、上等だ”, which has been TLd on multiple instances as “Bring it on, oh inevitable fate”
+
+Al also uses this phrase more than once
+
+HAS YET ANOTHER sort of catch-phrase, “俺が必ずお前を救ってみせる”, which has a bunch of variations (e.g. with “助ける” rather than “救う”, for Shaula in Arc 6 Chapter 70), and has been TLd as “I, no matter what, will save you”
+
+Has a bit of a gag with Emilia with old-timey expressions, to which he replies “Who even says X these days” (...ってきょうび聞かねぇな)
+
+Calls Cecilus “Ceci” (セッシー)
+
+Natsumi Schwartz
+
+Name in Japanese: ナツミ・シュバルツ
+
+Japanese speech quirks:
+
+First person pronoun – わたくし
+
+Speaks like a refined lady of high-class, uses わ frequently as a sentence-ending particle as well as polite speech.
+
+Still has some Subaru-like qualities, such as loanwords and expressions.
+
+English speech quirks:
+
+Uses essentially no contractions as of Arc 10.
+
+Uses a more formal tone when in character compared to Natsuki Subaru, and somewhat elevated vocabulary, but not to a major extent.
+
+Notes:
+
+In Arc 7, Natsumi used contractions and was not well distinguished from Subaru’s normal speech patterns. This has been rectified for Azamuku and Arc 10.
+
+Otto Suwen
+
+Name in Japanese: オットー・スーウェン
+
+Japanese speech quirks:
+
+First person pronoun – “僕”
+
+Second person pronoun/s – “あなた, 君”
+
+English speech quirks:
+
+Avoids any contractions entirely
+
+Well-spoken and polite
+
+Notes:
+
+Referred to as Ottobro by Garfiel (オットー兄ィ)
+
+Referred to as Internal Affairs Minister from time to time (内政官) by Roswaal
+
+Referred with sama(様) by Frederica, and pre-arc 7 Rem
+
+Referred with san(さん) by Petra
+
+Referred with kun(くん) by Roswaal, and Emilia
+
+Petra Leyte
+
+Name in Japanese: ペトラ・レイテ
+
+Japanese speech quirks:
+
+First person pronoun – “わたし”
+
+Second person pronoun/s – “あなた”
+
+English speech quirks:
+
+Polite speech
+
+Uses contractions but not very often (post arc 4)
+
+Very slight child like way of speaking
+
+Refers to all the maids with “nee-sama” 姉様
+
+Refers to Clind with “nii-sama”
+
+Refers to everyone above her with “sama” 様 except Otto he gets the “san”
+
+Will sometimes drop “sama” with Subaru
+
+Refers to Roswaal with “旦那様” should always to translated as “Master” or “the Master”.
+
+Referred to as “嬢様” in Arc 7, to be localized as “Lady Petra”
+
+Notes:
+
+As of Arc 7 Chapter 76 many characters she referred to with “sama” are now referred with san, such as, Garf, Emilia, and many others.
+
+Puck (WIP)
+
+Name in Japanese: パック
+
+Japanese speech quirks:
+
+First person pronoun – “ボク” (can snap to “俺” in very particular circumstances)
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Ram
+
+Name in Japanese: ラム
+
+Japanese speech quirks:
+
+First person pronoun – Own name in third person
+
+Second person pronoun/s – “あなた”
+
+Uses “姉” to refer to herself when talking about Rem Should be translated as “older sister”
+
+Very curt with people, but speaks politely
+
+Uses “ください”, “馬鹿ね” from time-to-time
+
+English speech quirks:
+
+Referring to herself as third person should be kept as-is
+
+Uses some contractions such as “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Uses “Kindly” whenever “ください” is employed
+
+Uses “Truly a fool” whenever “馬鹿ね” is employed
+
+Uses Garf for Garfiel
+
+Notes:
+
+Referred to as “nee-sama” (姉様) by a plethora of people (Subaru, Rem, Petra…) - should be kept as spoken because we’re weebs
+
+Has a sort-of catch-phrase with “剣を握るものは剣に、魔に縋るものは魔に、炎に委ねるものは炎に。そして、鬼に願うものは鬼に、拠り所にしたそれに滅ぼされる” - “Those who wield the sword fall to the sword, those who cling to evil fall to evil, those who yield to fire fall to fire. And, those who wish for the Oni fall to the Oni, destroyed by what they rely on.”
+
+Uses a lot of “おぞましい” (disgusting)
+
+Eye color should be written as “light-crimson”
+
+Hair color should be written as “pink”
+
+Rem
+
+Name in Japanese: レム
+
+Japanese speech quirks:
+
+First person pronoun – “私” (uses own name, “レム”, pre-Arc 7)
+
+Second person pronoun/s – “あなた”
+
+English speech quirks:
+
+Refers to herself using “Rem” pre-Arc 7
+
+During Arc 9 used both Rem and I (likely will happen again if she regains her memories).
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Is a tad more curt to Subaru, but is curt overall
+
+Notes:
+
+Uses Subaru-kun as her form of address for Subaru pre-coma, but since Arc 7 she often refers to Subaru as “あの人”, translated as “that person”
+
+Uses Garf for Garfiel pre-Arc 7
+
+Refers to Otto with sama 様(pre-Arc 7)
+
+Eye color should be written as "pale-blue"
+
+Roswaal L. Mathers
+
+Name in Japanese: ロズワール・L・メイザース
+
+Japanese speech quirks:
+
+First person pronoun – “私”, used “僕” as Roswaal A. Mathers, as well as sometimes when reverting back to that persona.
+
+Second person pronoun/s – "君”
+
+Elongates syllables here and there with ー
+
+English speech quirks:
+
+Uses contractions such as “I’m” / “don’t”, etc often, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Words with elongated syllables should be stylized by repeating a vowel and inserting a til-de (e.g.: “さーく” becomes “plaaan~”)
+
+Notes:
+
+Referred to as the Head Magician of the Court (筆頭宮廷魔導師)
+
+Referred to as Ros-chi (ロズっち) by Subaru sometimes
+
+Ryuzu Meyer (Copy/ies)(WIP)
+
+Name in Japanese: リューズ・メイエル
+
+Japanese speech quirks:
+
+First person pronoun – “儂(Pre-copies reveal WN only), 儂ら(post-copies reveal WN only) ワシ(Pre-copies reveal LN only) ワシら(post-copies reveal LN only)”
+
+English speech quirks:
+
+Uses some contractions such as “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” , but doesn’t use “(y’)ain’t” / “y’all” / “’n” / “y’know”
+
+Should sound like an old woman
+
+Should refer to herself with plural pronouns post copies reveal (Arc 7 chapter that is WN only doesn’t use ワシ/ら)
+
+Notes:
+
+Uses Fuu(フー) for Frederica sometimes
+
+Uses Gar-bo for Garfiel(ガー坊)
+
+Uses Su-bo for Subaru(スー坊)
+
+Uses Ros-bo for Roswaal(ロズ坊)
+
+Refers to Emilia with “sama” 様
+
+Sylphy Elmart (WIP)
+
+Name in Japanese: シルフィ・エルマート
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Originally introduced as No. 184 (百八十四番), one of Regulus’s wives, before her name was revealed
+
+Refers to anyone above her with “sama” 様
+
+Priscilla Camp
+
+Al
+
+Name in Japanese: アル
+
+Japanese speech quirks:
+
+First person pronoun – “オレ”
+
+Second person pronoun/s – “お前, あんた”
+
+Very casual speech
+
+Refers to Priscilla as “姫さん”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “y’all” / “ain’t”, “y’know” / “gonna”, etc, but does not use “-in’” / “y’ain’t” / “’n”
+
+Relatively simple speaking style, tone should be laid-back
+
+Calls almost everyone “bro” or “missy” (should this be “sis” instead?)
+
+Calls Priscilla “Princess” (capitalized)
+
+Notes:
+
+Full name is Aldebaran (アルデバラン)
+
+Uses “俺” once in the Third Trial, might happen again
+
+Has a catchphrase when using Authority, “領域展開、マトリクス再定義”, translated as “Expand territory, matrix redefinition” (matrix is Engrish, and be lower-case)
+
+Has a variant which is “領域再展開、マトリクス再定義”, translated as “Re-expand territory, matrix redefinition” (matrix is Engrish, and should be lower-case
+
+Heinkel Astrea
+
+Name in Japanese: ハインケル・アストレア
+
+Japanese speech quirks:
+
+First person pronoun – “俺”
+
+Second person pronoun – “お前”
+
+Casual, crude style of speech
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” but does not use “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc
+
+Notes:
+
+Eye color should be written as “sky-blue”
+
+Hair color should be written as “blazing red”
+
+Sometimes referred to as “背剣者”, translated as “(the) Backstabber”
+
+Priscilla Barielle
+
+Name in Japanese: プリシラ・バーリエル
+
+Japanese speech quirks:
+
+First person pronoun – “妾”
+
+Second person pronoun/s – 貴様
+
+Very high-and-mighty, horribly arrogant style of speech
+
+Likes to use “凡愚” (foolish commoner) and “凡夫” (simpleton)
+
+Has a little catch-phrase, “この世界は全て、妾にとって都合のよいようにできておる”
+
+Another is “大義である”
+
+English speech quirks:
+
+Contractions are not used at all, not even in questions
+
+Convey arrogance through tone and wording
+
+Prefer “shall/shall not” to “will/will not”
+
+Scarce use of “mine” / “mine self”
+
+Her little catchphrase should be TL’d as “Everything in this world is made for my convenience”
+
+The other often-spoken phrase should be “It is a great service” (if standalone)
+
+Notes:
+
+Her pronoun usually trips up MTL tools
+
+Schult
+
+Name in Japanese: シュルト
+
+Japanese speech quirks:
+
+First person pronoun – “僕”
+
+English speech quirks:
+
+No contractions
+
+Very formal speech, simple words preferred
+
+Refers to almost everyone with Sama (様)
+
+Notes:
+
+Often sutters words
+
+Yae Tenzen
+
+Name in Japanese: ヤエ・テンゼン
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Second person pronoun – “あなた”
+
+Frequently uses tildes
+
+English speech quirks:
+
+Uses basic contractions sometimes
+
+Very flirty and playful demeanor
+
+Tildes are to split words up rather than being moved towards the end of words
+
+Notes:
+
+Refers to Priscilla with “奥様”, which should be translated as “Madam” or “the Madam”
+
+Anastasia Camp
+
+Anastasia Hoshin
+
+Name in Japanese: アナスタシア・ホーシン
+
+Japanese speech quirks:
+
+First person pronoun – “ウチ”
+
+Second person pronoun – “あんた”
+
+Kansai dialect
+
+Refers to others as “子ぉ(ら)” a lot (often translated as “child”/”children”)
+
+English speech quirks:
+
+Use contractions whenever possible, all of them “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” / “(y’)ain’t” / “y’all” / “’n” / “y’know”
+
+Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “gotta” / “in’” / “y’all”
+
+“you” to be stylized as “ya”, except in “you’re” and “you’ve”
+
+“your(s)” to be stylized as “yer(s)”
+
+Notes:
+
+Referred to as “Ana” by Eridna (アナ)
+
+Referred to as “Ana-bo” by Ricardo Welkin (アナ坊)
+
+Sometimes referred as She-fox (女狐) by Priscilla
+
+Eridna
+
+Name in Japanese: 襟ドナ
+
+Japanese speech quirks:
+
+First person pronoun – “ボク”
+
+English speech quirks:
+
+No contractions whatsoever
+
+Somewhat complex speech
+
+Notes:
+
+Also called “襟巻きのエキドナ” at times (translated differently, as “Scarfdona”)
+
+Hetaro Pearlbatton (WIP)
+
+Name in Japanese: ヘータロー・パールバトン
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Julius Juukulius
+
+Name in Japanese: ユリウス・ユークリウス
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Second person pronoun – “君” with those of equal or lower rank, “あなた” with those of higher rank
+
+English speech quirks:
+
+No contractions whatsoever
+
+Polite and semi-formal speech
+
+Can be polite to the point of belittlement
+
+Notes:
+
+Can use the name Juli (ユーリ) when he does his pronoun becomes 俺
+
+His Spirits’ names are as follows:
+
+イア (fire) - Ia
+
+アロ (wind) - Aro
+
+クア (water) - Qua
+
+イク (earth) - Ik
+
+イン (yang) - In
+
+ネス (yin) - Ness
+
+Mimi Pearlbatton (WIP)
+
+Name in Japanese: ミミ・パールバトン
+
+Japanese speech quirks:
+
+First person pronoun – Own name in third person
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Ricardo Welkin (WIP)
+
+Name in Japanese: リカード・ウェルキン
+
+Japanese speech quirks:
+
+First person pronoun – “ワイ”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Tivey Pearlbatton (WIP)
+
+Name in Japanese: ティビー・パールバトン
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Felt Camp
+
+Camberley (WIP)
+
+Name in Japanese: カンバリー
+
+Japanese speech quirks:
+
+First person pronoun – “オイラ”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Has a Subaru-nickname of “カン” (Kan)
+
+Carol Fauzen (née Remendis) (WIP)
+
+Name in Japanese: キャロル・ファウゼン / キャロル・レメンディス
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+English speech quirks:
+
+Avoids contractions except for end of questions (isn’t it, haven’t you, etc)
+
+Polite and modest, can get a bit hotheaded
+
+Notes:
+
+Doltero Amule
+
+Name in Japanese: ドルテロ・アムル
+
+Japanese speech quirks:
+
+First person pronoun – ?
+
+Uses a lot of puns related to pigs (because he’s a pigman)
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Polite speech, devoid of contractions
+
+Ezzo Cadner
+
+Name in Japanese: エッゾ・カドナー
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Polite speech, devoid of contractions
+
+Felt (WIP)
+
+Name in Japanese: フェルト
+
+Japanese speech quirks:
+
+First person pronoun – “アタシ”
+
+Second person pronoun – “アンタ”, “テメー”
+
+English speech quirks:
+
+Speaks roughly, uses many contractions, but not to the point of characters like Anastasia, Rom, or Garfiel.
+
+Occasional use of ain’t, gotta, etc…, but no ‘em, ya, y’all, etc…
+
+Curses when standoffish, but typically doesn’t swear like a sailor.
+
+Notes:
+
+Eye color should be written as “ruby”
+
+Hair color should be written as “golden”
+
+Often calls Reinhard some variation of “bastard” (“ヤロー”)
+
+Calls Heinkel “pops” (“オッサン”)
+
+Calls Marcos “Rockface” (“岩ヅラ”)
+
+Flam Remendis
+
+Name in Japanese: フラム・レメンディス
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Polite speech, devoid of contractions
+
+Gaston (WIP)
+
+Name in Japanese: ガストン
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+Second person pronoun – “お前”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Has a Subaru-nickname of “トン” (Ton)
+
+Grassis Remendis
+
+Name in Japanese: グラシス・レメンディス
+
+Japanese speech quirks:
+
+First person pronoun – Unknown, probably “私” like Flam
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Polite speech, devoid of contractions (?)
+
+Grimm Fauzen (WIP)
+
+Name in Japanese: グリム・ファウゼン
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+Everything is written, can’t talk
+
+English speech quirks:
+
+Avoids contractions except for end of questions (isn’t it, haven’t you, etc)
+
+Speech should be rendered as cursed speech (see how Ice did it in BB, or how monster Izmail was done in Arc 8)
+
+Manfred Madison
+
+Name in Japanese: マンフレッド・マディソン
+
+Japanese speech quirks:
+
+First person pronoun – ?
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Often called 『天秤』のマンフレッド, translated as “Manfred of the Balance”
+
+Rachins Hoffman (WIP)
+
+Name in Japanese: ラチンス・ホフマン
+
+Japanese speech quirks:
+
+First person pronoun – “俺”
+
+Second person pronoun – “テメエ” (used to be “てめえ” in WN Arc 5)
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Has a Subaru-nickname of “チン” (Chin)
+
+Sometimes calls Subaru “Shitty Subaru”
+
+Reinhard van Astrea (WIP)
+
+Name in Japanese: ラインハルト・ヴァン・アストレア
+
+Japanese speech quirks:
+
+First person pronoun – “僕”
+
+Second person pronoun – “君” with those of equal or lower rank, “あなた” with those of higher rank
+
+English speech quirks:
+
+Mix of formal and casual speech
+
+“そこまでだ” should be translated as “That will be as far as you go”
+
+“授かった” should be translated as “I have received it” (when getting new DPs)
+
+Notes:
+
+Eye color should be written as “sky-blue”
+
+Hair color should be written as “blazing red”
+
+Rom (aka Valga Cromwell) (WIP)
+
+Name in Japanese: ロム (バルガ・クロムウェル)
+
+Japanese speech quirks:
+
+First person pronoun – “ワシ”, formerly “儂” when younger as Valga
+
+Very old person style of speech
+
+English speech quirks:
+
+Contractions aplenty
+
+Notes:
+
+Often referred to as “ロム爺” (Old Man Rom)
+
+Toto
+
+Name in Japanese: トト
+
+Japanese speech quirks:
+
+First person pronoun – ?
+
+Second person pronoun – あなた
+
+Hoe
+
+English speech quirks:
+
+Style like Yorna maybe
+
+Notes:
+
+Crusch Camp
+
+Crusch Karsten (WIP)
+
+Name in Japanese: クルシュ・カルステン
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Second person pronoun – “あなた”, formerly “卿” before she lost her memories
+
+English speech quirks:
+
+Formal, no contractions.
+
+More gentle and unsure in her amnesiac-state, but can act more like her former personality at times.
+
+(Given recent developments, this may be more out of date going forward from Arc 10 Chapter 12)
+
+Notes:
+
+Eye color should be written as “amber”
+
+Hair color should be written as “green”
+
+Has on at least one occasion been “深緑”, which should be “dark green”
+
+In reference to her left eye, “龍眼” should be translated as “Dragon Eye” and “龍の眼” as “Dragon’s Eye”.
+
+Her phrase in reference to using her Dragon Eye to see through attacks (some form of “視えている”) should be translated as “I perceive it”, with modification based on any variation as necessary.
+
+Her phrase in reference to her Divine Protection, “嘘の風が吹いている”, should be translated as “A wind of deceit blows around you”, with modifications as necessary to fit the context.
+
+Felix Argyle
+
+Name in Japanese: フェリックス・アーガイル
+
+Japanese speech quirks:
+
+First person pronoun – “フェリちゃん” (nickname with chan at the end), “私”
+
+Will frequently use にゃ (nya) in sentences.
+
+Will use きゅん (kyun) for some people
+
+English speech quirks:
+
+Refers to himself as “Ferri-chan” sometimes
+
+Uses contractions such as “I’m” / “don’t”, etc, does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”, basically similar to Subaru
+
+Uses semi-polite speech that is feminine/neutral.
+
+Anytime にゃ shows up, a cat pun should be used
+
+Can be curt or rude to some people.
+
+Notes:
+
+More commonly referred to as “Ferris” (フェリス)
+
+The speaker tag should follow what is used in the narration of the current PoV (usually Ferris).
+
+Uses sama (様) for Crusch
+
+Refers to Wilhelm as Wil-jii (ヴィル爺)
+
+Refers to Subaru as Subaru-kyun
+
+Refers to Rem as Rem-chan
+
+Eye color should be written as “amber”
+
+Hair color should be written as “flaxen”
+
+Six Tongues codename is Blue Snake (青蛇)
+
+Wilhelm van Astrea (née Trias) (WIP)
+
+Name in Japanese: ヴィルヘルム・ヴァン・アストレア (ヴィルヘルム・トリアス)
+
+Japanese speech quirks:
+
+First person pronoun – “私” (Old Wilhelm) / “俺” (Young Wilhelm)
+
+Extremely polite (in old age)
+
+English speech quirks:
+
+No contractions, extremely polite speech
+
+Notes:
+
+The Church of the Divine Dragon
+
+Filóre
+
+Name in Japanese: フィルオーレ
+
+Japanese speech quirks:
+
+First person pronoun – “わたくし”
+
+Second person pronoun – “あなた”
+
+Speaks in two different registers: a formal one and a more informal one.
+
+She naturally speaks in her informal register, but sometimes tries to use her formal register around others in appropriate situations. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.
+
+When not speaking politely, she typically uses “わ” or “のよ” as final particles, but not always every sentence. “かしら” also occurs, make sure not to confuse with Beatrice, who will very consistently alternate between “のよ” and “かしら”.
+
+English speech quirks:
+
+When speaking formally, no contractions should be used and the replacements below should be used (will -> shall, etc.).
+
+When speaking informally, some basic contractions should be used (I am -> I’m, you are -> you’re, it is -> it’s, etc), but nothing along the lines of ain’t, gonna, etc.
+
+Her vocab level should be decently high, but not overly grandiose, and should remain relatively consistent between both of her registers, with perhaps a bit more flair when speaking formally.
+
+Notes:
+
+Will often quote the scripture of the Church of the Divine Dragon. These quotations should feel weighty and have high levels of vocab, perhaps even feeling a bit archaic where appropriate.
+
+Before quoting scripture, she says “教典にもこうあるわ”, which should be translated as “This too, is in the scriptures”
+
+Has a thing with Emilia, where after Filóre quotes scripture, Emilia will say “ええと、それって？”, which should be translated as “Umm, and that means?”, and Filóre will typically respond with “つまり、X” as an explanation, which should be translated as “In other words, X”
+
+Often referred to as “修道女”, which should be translated as “nun”
+
+Also called a Saintess (“聖女”)
+
+Eye color should be written as “ruby”
+
+Hair color should be written as “golden”
+
+Sakura Element
+
+Name in Japanese: サクラ・エレメント
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Second person pronoun – “あなた”
+
+Typically elongates vowels at the end of a sentence or occasionally at the end of a clause within a sentence, especially with conjunctions or interjections at the start of a sentence (まぁ, ねぇ, さぁ).
+
+English speech quirks:
+
+Elongated vowels should follow basic rules, adding two extra vowels with no tilde.
+
+Uses only basic contractions like I’m, you’re, etc.
+
+Notes:
+
+Uses “chan” as an honorific with practically everyone.
+
+In Prophecy of the Throne, had the nickname of Insect Master (虫使い).
+
+Tiga Rauleon
+
+Name in Japanese: ティーガ・ラウレオン
+
+Japanese speech quirks:
+
+First person pronoun – “俺”
+
+English speech quirks:
+
+Uses only basic contractions like I’m, you’re, etc.
+
+Feels quite laidback and friendly, while still having a bit of distance.
+
+Notes:
+
+He and Subaru call each other “my friend” (マイフレンド), which should be underlined like any other loan word.
+
+Eye color should be written as “yellow”
+
+The Six Tongues
+
+Russell Fellow
+
+Name in Japanese: ラッセル・フェロー
+
+Japanese speech quirks:
+
+First person pronoun – “私” (pronounced わたくし), also uses “私ども” (pronounced わたくしども)
+
+Uses a lot of formal and humble language normally, but has dropped it on one occasion, talking with a subordinate (end of Riot in Flanders).
+
+English speech quirks:
+
+Generally incredibly polite and courteous, to the point of belittling himself, well-spoken when the mask is on.
+
+Turns cold and calculating, though still very well spoken and superficially polite, when revealing his true self.
+
+No contractions at all.
+
+If he drops his formal and honorific language, then he should use limited contractions (i.e. I’m” / “don’t”, etc, should not use “-in’” / “(y’)ain’t” / “’n” / “y’all”).
+
+Notes:
+
+Six Tongues codename is Silver Fox (銀狐)
+
+Title of Director (長官) of the Six Tongues.
+
+Melty Pristis (WIP)
+
+Name in Japanese: メルティ・プリスティス
+
+Japanese speech quirks:
+
+First person pronoun – “わたし”
+
+Often stutters.
+
+Generally quite polite.
+
+English speech quirks:
+
+Overall quite timid and polite. Meek and gentle.
+
+Frequent stuttering matching occurrences in the source text.
+
+Notes:
+
+Six Tongues codename is White Sheep (白羊).
+
+Eye color should be written as “golden”
+
+Hair color should be written as “indigo”
+
+Salum Pristis (WIP)
+
+Name in Japanese: サルム・プリスティス
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Wolf
+
+Name in Japanese: ウォルフ
+
+Japanese speech quirks:
+
+First person pronoun – “オレ”
+
+Second person pronoun – “お前”
+
+Laughs like “くははは”, with a variable number of “は”.
+
+Has a speech pattern where he sometimes has a pause at the end of a sentence before “だ”, looks like “X、だ”.
+
+Often is repetitive, will have sentences with a set structure that repeats certain synonyms.
+
+English speech quirks:
+
+Quite rough and rude, often quite nasty towards others.
+
+Likes to yap.
+
+Can often have sudden swings in emotions.
+
+Laugh should be styled as “Kuhahaha”, matching the number of times “ha” appears in the Japanese.
+
+When “X、だ” appears in the Japanese, if possible, a single word or short phrase should be isolated at the end of the sentence.
+
+When encountering repetitive sentences, try to imitate a similar structure with synonyms (it is sort of Gluttony-esque).
+
+Notes:
+
+Six Tongues codename is Black Dog (黒狗)
+
+In Prophecy of the Throne, he had the title of “Foul Magician” (卑劣術師).
+
+Others
+
+Archi (WIP)
+
+Name in Japanese:
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Fortuna (WIP)
+
+Name in Japanese:
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Reid Astrea (WIP)
+
+Name in Japanese: レイド・アストレア
+
+Japanese speech quirks:
+
+First person pronoun – “オレ”
+
+Ends nearly all sentences with “オメエ” or “オメエら”
+
+English speech quirks:
+
+X
+
+The use of “オメエ” and “オメエら” is to be translated as “ya prick(s)” or “ya twat(s)” depending on whether he’s talking to a man or a woman
+
+Notes:
+
+“マブすぎ” -> “ya real damn hot”
+
+“激マブ” -> “smokin’ hottie”
+
+“マブ” -> “smokin’/hottie”
+
+“エロい格好” -> “sexy-lookin’ woman”
+
+“エロい女” -> “sexy woman”
+
+Alec Hoshin
+
+Name in Japanese: アレク・ホーシン
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+English speech quirks:
+
+X
+
+Notes:
+
+His title “荒れ地のホーシン” should be translated as “Hoshin of the Wastes”
+
+Full name is “Alexios Valentine Granberg” (“アレクシオス・ヴァレンティン・グランベルク”)
+
+Volcanica
+
+Name in Japanese: ボルカニカ
+
+Japanese speech quirks:
+
+First person pronoun – “我”
+
+Second person pronoun – “汝”
+
+Very archaic and purple-y
+
+English speech quirks:
+
+No contractions whatsoever
+
+Uses big words and grandiose wording
+
+Replace “you” by “thou”
+
+Notes:
+
+Also known as the Divine Dragon (神龍)
+
+Liliana Masquerade (WIP)
+
+Name in Japanese: リリアナ・マスカレード
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Has two signature lines whenever she gets a new song:
+
+“閃きました” - “Inspiration flashed”
+
+“聞いてください” - “Please listen”
+
+Miklotov McMahon (WIP)
+
+Name in Japanese: マイクロトフ・マクマホン
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Bordeaux Zergev (WIP)
+
+Name in Japanese: ボルドー・ツェルゲフ
+
+Japanese speech quirks:
+
+First person pronoun – “私”, formerly “俺” until his friend’s death
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Marcos Gildark (WIP)
+
+Name in Japanese: マーコス・ギルダーク
+
+Japanese speech quirks:
+
+First person pronoun – “私”, used “俺” in the past in side stories
+
+Quite polite and proper
+
+English speech quirks:
+
+No contractions when speaking politely, basic contractions allowed when speaking plainly.
+
+Should likewise be courteous and well spoken
+
+Notes:
+
+Rickert Hoffman (WIP)
+
+Name in Japanese: リッケルト・ホフマン
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Fourier Lugunica (WIP)
+
+Name in Japanese: フーリエ・ルグニカ
+
+Japanese speech quirks:
+
+First person pronoun – “余”
+
+English speech quirks:
+
+Pronouns should be rendered as “my eminent self” when “余” is present, “I” otherwise.
+
+Notes:
+
+Eye color should be written as “ruby”
+
+Hair color should be written as “golden”
+
+Hayden Garo
+
+Name in Japanese: ヘイデン・ガロ
+
+Japanese speech quirks:
+
+First person pronoun – “オレ”
+
+English speech quirks:
+
+Harsh and rough without being too grating
+
+Uses contractions such as “I’m” / “don’t” / “c’mon” , etc, but does not use “-in’” / “’n” / “y’all”, ‘bout, “don’t(‘cha)”, “ain’t” is sometimes used (never “y’ain’t”)
+
+“You” to be stylized as “ya”, except in “you’re” and “you’ve”
+
+“Your(s)” to be stylized as “yer(s)”
+
+Notes:
+
+Uses “future Queen” for Frederica (正妃)
+
+Uses “unselected blood” for Garfiel (選外の血)
+
+Uses “inferiors” when describing humans (劣等)
+
+Vollachia
+
+High Government and Nobility
+
+Berstetz Fondalfon
+
+Name in Japanese: ベルステツ・フォンダルフォン
+
+Japanese speech quirks:
+
+First person pronoun – “私奴”
+
+Mega polite
+
+English speech quirks:
+
+Avoids any contractions entirely
+
+Well-spoken and hyper polite to the point of subtly putting himself down in standing
+
+“Shall” rather than “will”
+
+Notes:
+
+None
+
+Lamia Godwin
+
+Name in Japanese: ラミア・ゴドウィン
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Somewhat arrogant, but most of it is merely implied/under the hood, saccharine way of speech
+
+Refers to others with “あなた”
+
+English speech quirks:
+
+No contractions
+
+Somewhat grandiose, implied ridicule of others
+
+Notes:
+
+Referred to as “毒姫” (Poison Princess)
+
+Murkia Vollachia
+
+Name in Japanese: ムルキア・ヴォラキア
+
+Notes:
+
+31st Emperor of Vollachia
+
+Referred to as “大敗帝” (Emperor of the Great Defeat)
+
+Serena Dracroy
+
+Name in Japanese: セリーナ・ドラクロイ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t”, but does not use “y’all”/ “(y’)ain’t” / “‘bout” / “gonna” / “-in’” / “’n” / etc
+
+Not very formal nor very casual
+
+Notes:
+
+Is a High Countess in title (上級伯), also nicknamed the Scorching Lady (灼熱公)
+
+Stride Vollachia (WIP)
+
+Name in Japanese: ストライド・ヴォラキア
+
+Japanese speech quirks:
+
+First person pronoun – “余”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Ubilk
+
+Name in Japanese: ウビールク
+
+Japanese speech quirks:
+
+First person pronoun – “ぼく”
+
+“ぼくは” becomes “ぼかぁ”
+
+Tends to elongate one of the first words in his lines
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”
+
+Relatively simple speaking style, tone should be laid-back
+
+Hair color should be referred to as “ashen” (灰色)
+
+First word or thereabouts in his line should be elongated if the JP also elongates it with “ー” (don’t forget to insert the ~ at the end)
+
+Notes:
+
+None
+
+Vincent Vollachia (aka Abel)
+
+Name in Japanese: ヴィンセント・ヴォラキア (アベル)
+
+Japanese speech quirks:
+
+First person pronoun – “俺” (“余” while on the throne)
+
+Second person pronoun/s – 貴様
+
+Very arrogant and grandiose style of speech
+
+English speech quirks:
+
+Contractions are not used at all, not even in questions
+
+“Shall” rather than “will”
+
+Convey arrogance through tone and wording
+
+Prefer “shall/shan’t” to “will/will not”
+
+Notes:
+
+In Arc 8, his speaker tag is “Vincent:”, regardless of whose PoV it is
+
+Birth name is “Vincent Abellux” (ヴィンセント・アベルクス)
+
+Uses “大儀であった” frequently (translated as “it was a great deed”)
+
+Referred to as:
+
+His Excellency the Emperor (皇帝閣下)
+
+His Majesty the Emperor (皇帝陛下) -> only used as tongue-in-cheek by Subaru
+
+Eugard Vollachia
+
+Name in Japanese: ユーガルド・ヴォラキア
+
+Japanese speech quirks:
+
+First person pronoun – “余”
+
+Refers to others mostly with “そなた”
+
+Archaic and Grandiose manner of speaking
+
+English speech quirks:
+
+No Contractions
+
+Speaks in archaic and grandiose manner
+
+Replace “you” with “thou”, etc.
+
+Notes:
+
+Occasionally refers to Iris (Yorna) as “我が星” - to be rendered as “O Star of Mine”
+
+Referred to as the “King of Thorns” (茨の王) and “Emperor of the Briar” (荊棘帝)
+
+Nine Divine Generals
+
+Arakiya
+
+Name in Japanese: アラキア
+
+Japanese speech quirks:
+
+First person pronoun – “わたし”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Vocabulary should be relatively simple
+
+Notes:
+
+None
+
+Balleroy Temeglyph
+
+Name in Japanese: バルロイ・テメグリフ
+
+Japanese speech quirks:
+
+First person pronoun – “あっし”
+
+Uses slang, extra casual and stylish
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t”, but does not use “‘bout” / “gonna” / “-in’” / “’n” / etc
+
+Very casual, laidback style of speech
+
+Notes:
+
+Is the “sworn brother” of Miles, Flop, and Medium(義兄弟) and called Miles “Big Bro Miles” (マイルズ兄)
+
+Cecilus Segmunt
+
+Name in Japanese: セシルス・セグムント
+
+Japanese speech quirks:
+
+First person pronoun – “僕”
+
+Casual speech
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “kinda” (not wanna or gotta, so “something + of” rather than “something + to”) / ”y’all” / “lil’”, etc, but does not use “-in’” / “’n”, “ain’t” is used scarcely
+
+Flowery and grandiose but simple vocabulary
+
+Calls Subaru “Basu” (バッスー), and later on, “Boss”, in Engrish (ボス)
+
+Sometimes refers to himself and others as “役者” (actor), himself as “花形役者”/”主演役者” (star/lead actor) from time to time
+
+"花形役者" should be translated as "leading actor"
+
+Notes:
+
+Has a tendency to use the expression “嫌いじゃないです、むしろ好き”, which is to be translated as “I don’t dislike it, rather, I quite like it”
+
+Chisha Gold
+
+Name in Japanese: チシャ・ゴールド
+
+Japanese speech quirks:
+
+First person pronoun – “当方”
+
+Elongates “な” at the end of sentences (like “なぁ”)
+
+Tends to use “次第” at the end of sentences
+
+English speech quirks:
+
+No contractions
+
+Last vowel of words at the end of sentences that end in “なぁ” in the JP should be elongated.
+
+E.g.: “聞いた話では、親が子の躾に持ち出すそうですなぁ。” -> “From what I have heard, it seems parents mention it for disciplining their childreeen”
+
+Notes:
+
+Original name is “チェシャ・トリム” (Chesha Trim)
+
+Uses same style of speech as Vincent when posing as him
+
+Goz Ralfon
+
+Name in Japanese: ゴズ・ラルフォン
+
+Japanese speech quirks:
+
+First person pronoun – “某”
+
+Yells a lot, very uhhhh spirited
+
+English speech quirks:
+
+No contractions
+
+Overly excited
+
+Notes:
+
+None
+
+Groovy Gumlet
+
+Name in Japanese: グルービー・ガムレット
+
+Japanese speech quirks:
+
+First person pronoun – “俺”
+
+Speaks roughly and swears a lot
+
+English speech quirks:
+
+When using クソ as an adjective, it should be translated as “fucking”
+
+When using クソ on its own, it should just be translated as “FUCK/fuck”
+
+Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”
+
+チクショウ to be translated as “Goddammit” or “Goddamn” depending on context
+
+Notes:
+
+None
+
+Madelyn Eschart
+
+Name in Japanese: マデリン・エッシャルト
+
+Japanese speech quirks:
+
+First person pronoun – “竜”
+
+Sentences sometimes accentuated with “っちゃ” (take care to not confuse it with actual words)
+
+English speech quirks:
+
+First person pronoun should be translated as “I, the dragon” (singular) or “I, the Dragon, and you” (plural if speaking of people) or “us dragons” (plural if speaking of her flying dragons), or “this dragon”
+
+Uses mostly contractions such as “I’m” / “don’t” but does not use “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc
+
+Use of “っちゃ” should be localized with a “frig’/friggin’”
+
+Notes:
+
+None
+
+Moguro Hagane
+
+Name in Japanese: モグロ・ハガネ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Short sentences without verbs, words separated by commas
+
+English speech quirks:
+
+No contractions
+
+Very rarely use verbs, very short sentences
+
+Notes:
+
+None
+
+Olbart Dunklekenn
+
+Name in Japanese: オルバルト・ダンクルケン
+
+Japanese speech quirks:
+
+First person pronoun – “ワシ”
+
+Calls Abel “仮面の若僧”
+
+Calls a lotta people “若僧”
+
+Laughs with “か--かっか” (final syllable emphatised)
+
+English speech quirks:
+
+Uses some contractions such as “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” , but doesn’t use “(y’)ain’t” / “y’all” / “’n” / “y’know”
+
+Uses “young’un(s)” to refer to other people (only when 若僧 is used)
+
+Uses “masked young’un” to refer to Abel (only when 仮面の若僧 is used)
+
+“you” to be stylized as “ya”, except in “you’re” and “you’ve”
+
+“your(s)” to be stylized as “yer(s)”
+
+“to” to be stylized as “ta”
+
+Laughs with “ka-kka” (final “ka” is always emphatised)
+
+Refers to Arakiya as “Araki”
+
+Refers to Chesha as “Chesshy”
+
+Should sound like an old fart (haha see what I did there)
+
+Notes:
+
+Very often dubbed in narration as “怪老”, which should be translated as “monstrous old man” or variations of the sort, not as his title, “Vicious Old Man”.
+
+Yorna Mishigure
+
+Name in Japanese: ヨルナ・ミシグレ
+
+Japanese speech quirks:
+
+First person pronoun – "わっち"
+
+Uses “主さん” as a second-person pronoun
+
+Uses just “主” to refer to Abel in second-person
+
+Speaks “like a hooker”
+
+English speech quirks:
+
+Very casual and laid-back speech
+
+Try to insert words that may have sexual/flirty connotations when possible (e.g.: “throbbing” instead of “pulsing”/”beating”)
+
+Uses of “主” for Abel should be TL’d as “My Lord”
+
+Notes:
+
+None
+
+Other Military
+
+Gudda Dialmo (WIP)
+
+Name in Japanese: グッダ・ディアルモ
+
+Notes:
+
+Referred to as “虎狩” (Tiger Hunter)
+
+Jamal Aurélie
+
+Name in Japanese: ジャマル・オーレリー
+
+Japanese speech quirks:
+
+First person pronoun – “オレ”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t” / “‘bout” / “gonna” / “tho’”, etc, but does not use “-in’” / “’n”
+
+Likes to curse here and there, is very rude overall
+
+Notes:
+
+None
+
+Kafma Irulux
+
+Name in Japanese: カフマ・イルルクス
+
+Japanese speech quirks:
+
+First person pronoun – "俺"
+
+English speech quirks:
+
+Uses contractions depending on context, and only uses those such as “I’m” / “don’t”, etc, does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Extremely polite when talking to the Emperor or in presence of the Emperor (no contractions)
+
+Casual otherwise (contractions used at will)
+
+Relatively simple speaking style, avoid very complicated words
+
+Notes:
+
+Subject to change
+
+Miles
+
+Name in Japanese: マイルズ
+
+Japanese speech quirks:
+
+First person pronoun – “オレ” (usually), may switch to “ワタクシ” when talking to someone of higher position/when trying to butter up to someone
+
+Casual, rough style of speech by default
+
+Is a lot more polite when talking to someone of higher status (like Serena) or when buttering up to someone (like Reinhard)
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t” / “‘bout” / “gonna” but does not use / “-in’” / “’n” / etc
+
+Switches to a polite style without contractions when talking to someone of higher status or buttering up to them (denote this by the use of “ワタクシ”)
+
+Notes:
+
+Is Balleroy Temeglyph’s “sworn brother” (義兄弟)
+
+Calls Balleroy “Lil’ Balle” (バル坊)
+
+Todd Fang
+
+Name in Japanese: トッド・ファング
+
+Japanese speech quirks:
+
+First person pronoun – “俺”
+
+Uses “せーのっ” from time-to-time
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “’n” / “y’all”, “ain’t” is used scarcely (never “y’ain’t”)
+
+Relatively simple speaking style, avoid very complicated words
+
+“せーのっ” to be done as “One, two aaand three!”
+
+Notes:
+
+When using “嬢ちゃん”, can be translated as “miss”
+
+Will sometimes say “失敗失敗” should be translated as “My bad, my bad”
+
+Zikr Osman
+
+Name in Japanese: ズィクル・オスマン
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Speaks politely and straight to the point
+
+English speech quirks:
+
+Avoids contractions for the most part, using “I’m” / “don’t” only, and scarcely at that
+
+Polite speech, not very verbose nor too flowery
+
+Refers to most woman with 嬢 should be localized as “Miss”
+
+Notes:
+
+None
+
+People of Shudraq
+
+Holly Shudraq
+
+Name in Japanese: ホーリィ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Oftentimes ends their sentences with “なノー”
+
+English speech quirks:
+
+Final word before comma should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana
+
+Final word in sentence should be italicized and a tilde added after, e.g.: “Something something~.”, if sentence ends in “なノー”
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Notes:
+
+None
+
+Kuna Shudraq
+
+Name in Japanese: クーナ
+
+Japanese speech quirks:
+
+First person pronoun – アタイ
+
+Oftentimes the final syllable of their sentence is a Katakana character
+
+English speech quirks:
+
+Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Notes:
+
+None
+
+Mariuli Shudraq
+
+Name in Japanese: マリウリ
+
+Japanese speech quirks:
+
+First person pronoun – ?
+
+Oftentimes the final syllable of their sentence is a Katakana character
+
+English speech quirks:
+
+Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Notes:
+
+None
+
+Mizelda Shudraq
+
+Name in Japanese: ミゼルダ
+
+Japanese speech quirks:
+
+First person pronoun – ?
+
+Oftentimes the final syllable of their sentence is a Katakana character
+
+English speech quirks:
+
+Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Vocabulary should be relatively simple
+
+Is referred to as “Chieftain” by some Shudraqians
+
+Notes:
+
+None
+
+Taritta Shudraq
+
+Name in Japanese: タリッタ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+Oftentimes the final syllable of their sentence is a Katakana character
+
+English speech quirks:
+
+Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Refers to Mizelda as “sister”
+
+Notes:
+
+None
+
+Utakata Shudraq
+
+Name in Japanese: ウタカタ
+
+Japanese speech quirks:
+
+First person pronoun – “ウー” (a short-hand version of their own name)
+
+Oftentimes the final syllable of their sentence is a Katakana character
+
+English speech quirks:
+
+Refers to herself as “Uu”
+
+Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana
+
+Casual speech and very childlike, vocabulary should be as simple as possible
+
+Calls everyone by the first syllable of their name + the vowel of that syllable
+
+E.g.: Subaru -> Suu, Mizelda -> Mii, Taritta -> Taa, Rem -> Ree…
+
+Exceptions: Schult -> Shuu, Flop -> Fuu, Medium -> Midii (this because the Me in Medium is pronounced Mi), Beatrice -> Bae (This is because Bea in Beatrice is pronounced as Bay), Frederica -> Freh, Emilia -> Em
+
+Notes:
+
+None
+
+Gladiator Island
+
+Gustav Morello
+
+Name in Japanese: グスタフ・モレロ
+
+Japanese speech quirks:
+
+First person pronoun – “本職”
+
+English speech quirks:
+
+No contractions
+
+Very formal speech, soft spoken
+
+“Shall” rather than “will”
+
+When directly referring to himself (with pronoun) use “in my capacity” or “as the official” as best fits the line
+
+Notes:
+
+Current Island Chief (島主) of Gladiator Island Ginunhive;
+
+Referred with Governor (総督) by some
+
+Hiain Yatz
+
+Name in Japanese: ヒアイン・ヤッツ
+
+Japanese speech quirks:
+
+First person pronoun – “俺”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “y’all” / “(y’)ain’t” / “y’know” / “gonna” / “hafta” / “tho’”, etc, but does not use “-in’” / “’n” / “‘cause”
+
+Likes to curse here and there, rough language
+
+Notes:
+
+In narration is called Lizard (蜥蜴) in narration should be “The lizardman”
+
+Refers to Subaru with “ガキ” should be written as “brat”
+
+Refers to Subaru with “兄弟”, should be written as “bro”
+
+Refers to Tanza with “チビ”, should be written as “pipsqueak”
+
+Idra Missanga
+
+Name in Japanese: イドラ・ミサンガ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Normal way of speaking
+
+Notes:
+
+Calls himself a former warrior (戦士)
+
+Todd calls him a soldier (兵士)
+
+In narration is called “Rust-colored hair” (錆色髪) in narration should be “The rust-haired man” or “The man with the rust-colored hair”
+
+Refers to Subaru as “子ども” Should be written as “child”
+
+Null
+
+Name in Japanese: ヌル
+
+Notes:
+
+Also called Old Man Null
+
+Healer in the healing room on Ginunhive
+
+Has never spoken
+
+Tanza
+
+Name in Japanese: タンザ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+English speech quirks:
+
+No contractions
+
+Very formal speech
+
+Notes:
+
+None
+
+Weitz Rogen
+
+Name in Japanese: ヴァイツ・ログン
+
+Japanese speech quirks:
+
+First person pronoun – “オレ”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “ya/yer” (‘cha after word ending in -d or -t, “yer” for “you’re”) / “y’all” / “(y’)ain’t” / “y’know” / “gonna” / “‘cause” / “tho’”, etc, but does not use “-in’” / “’n” / “lil’”
+
+Likes to curse here and there, rough language
+
+Notes:
+
+Called Tattooed (刺青) in narration should be “The tattooed man” or “The man with the tattoos” when used
+
+Refers to Subaru with “小僧” should be written as “kid”
+
+Others
+
+Bianca
+
+Name in Japanese: ビアンカ
+
+Japanese speech quirks:
+
+First person pronoun – ?
+
+English speech quirks:
+
+Same as Vincent Vollachia/Abel
+
+Notes:
+
+None
+
+Botecliffe
+
+Name in Japanese: ボテクリフ
+
+Notes:
+
+Flop and Medium O’Connell’s Ox
+
+Carillon
+
+Name in Japanese: カリヨン
+
+Notes:
+
+Flying dragon, refer to it as “it” in third person
+
+Flop O’Connell
+
+Name in Japanese: フロップ・オコーネル
+
+Japanese speech quirks:
+
+First person pronoun – “僕”
+
+Refers to Abel with “村長くん”
+
+Refers to Subaru with “旦那くん”
+
+Refers to Rem with “奥さん”
+
+Refers to Louis with “姪っ子ちゃん”
+
+Refers to Miles with “マイルズ兄ぃ”
+
+Refers to Priscilla with “姫くん”
+
+Refers to Schult with 執事くん
+
+Refers to Madelyn with くん
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “y’all”, etc, but does not use “-in’” / “(y’)ain’t” / “’n”
+
+Relatively simple speaking style, tone should be laid-back
+
+Uses “dear sister” for Medium (when speaking directly to her, “sister” when not)
+
+Uses “Village Chief-kun” for Abel
+
+Uses “Husband-kun” for Subaru), uses “Husband-san” a couple of times
+
+Uses “Wife-san” for Rem
+
+Uses “Niece-chan” for Louis
+
+Uses “Princess-kun” for Priscilla
+
+Uses “Big Bro Miles” for Miles
+
+Uses “Butler-kun” for Schult
+
+Uses “Soldier-kun” for Todd (兵士くん)
+
+Uses “Dress-chan” for Beatrice (ドレスちゃん)
+
+Notes:
+
+None
+
+Flora
+
+Name in Japanese: フローラ
+
+Japanese speech quirks:
+
+First person pronoun – ?
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Relatively simple speaking style
+
+Notes:
+
+None
+
+Katya Aurélie
+
+Name in Japanese: カチュア・オーレリー
+
+Japanese speech quirks:
+
+First person pronoun –”私”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”
+
+Refers to Jamal as お兄ちゃん
+
+“せーのっ” to be done as “One, two aaand three!”
+
+Notes:
+
+Often stutters
+
+Mezoreia
+
+Name in Japanese: メゾレイア
+
+Japanese speech quirks:
+
+First person pronoun – “我”
+
+Very archaic and purple-y
+
+English speech quirks:
+
+No contractions whatsoever
+
+Uses big words and grandiose wording
+
+Replace “you” by “thou”
+
+Notes:
+
+Also known as the Cloud Dragon (雲龍)
+
+Medium O’Connell
+
+Name in Japanese: ミディアム・オコーネル
+
+Japanese speech quirks:
+
+First person pronoun – “あたし”
+
+English speech quirks:
+
+Uses mostly contractions such as “I’m” / “don’t” / “y’all” / “‘cause”, “wanna/gotta”, etc, but does not use “-in’” / “(y’)ain’t” / “’n”
+
+Relatively simple speaking style, tone should be laid-back
+
+Uses “big bro” for Flop
+
+Notes:
+
+None
+
+Rowan Segmunt
+
+Name in Japanese: ロウアン・セグムント
+
+Japanese speech quirks:
+
+First person pronoun – “某”
+
+English speech quirks:
+
+Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t”, etc, except for words that end in “-ing”
+
+“you” to be stylized as “ya”, except in “you’re” and “you’ve”
+
+“your(s)” to be stylized as “yer(s)”
+
+Refers to other men as “buddy”
+
+Refers to women as “lady”
+
+Has a propensity for using some old-fashioned speech/terminology in his dialogue.
+
+Notes:
+
+None
+
+Viva
+
+Name in Japanese: ヴィヴァ
+
+Notes:
+
+Referred to as “『腑分け』のヴィヴァ” (Viva the Dissector)
+
+Kararagi
+
+Halibel
+
+Name in Japanese: ハリベル
+
+Japanese speech quirks:
+
+First person pronoun – “僕”
+
+Kansai dialect
+
+Extremely laidback
+
+English speech quirks:
+
+Use contractions whenever possible, all of them “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” / “(y’)ain’t” / “y’all” / “’n” / “y’know”
+
+Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “gotta” / “in’” / “y’all”
+
+“you” to be stylized as “ya”, except in “you’re” and “you’ve”
+
+“your(s)” to be stylized as “yer(s)”
+
+Notes:
+
+Is also called “礼賛者”, “(The) Admirer”
+
+Gusteko
+
+Vague Adgard (WIP)
+
+Name in Japanese: ヴェイグ・アドガルド
+
+Japanese speech quirks:
+
+First person pronoun – “我輩”
+
+Second person pronoun – “貴君”, “貴公”
+
+Has a tendency to repeat and restate things.
+
+English speech quirks:
+
+Should use either “in my eminence” or “this one” as his pronoun.
+
+Notes:
+
+Called 狂皇子, translated as “the Mad Prince”
+
+Calls spirits “汚穢”, “filth”
+
+Witch Shit IDK
+
+Sin Archbishops
+
+Capella Emerada Lugunica (WIP)
+
+Name in Japanese: カペラ・エメラダ・ルグニカ
+
+Japanese speech quirks:
+
+First person pronoun – “アタクシ”
+
+Second person pronoun – “てめー”
+
+Often uses the terms “クズ肉” or “クズ肉共”
+
+English speech quirks:
+
+Rants a lot, makes a lot of innuendos and sexual comments.
+
+Also will often put on a cutesy act.
+
+Use “this lovely lady” as her pronoun when “アタクシ” is used, “I” otherwise.
+
+Notes:
+
+“クズ肉” and “クズ肉共” should be translated as “rotten meat scraps”.
+
+“雄肉” and “メス肉” should be translated as “male meat” and “female meat” respectively.
+
+Ley Batenkaitos (WIP)
+
+Name in Japanese: ライ・バテンカイトス
+
+Japanese speech quirks:
+
+First person pronouns – “俺たち” and “僕たち”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Louis Arneb (WIP)
+
+Name in Japanese: ルイ・アルネブ
+
+Japanese speech quirks:
+
+First person pronouns – “私たち” and “あたしたち”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Pre-Arc 7
+
+Petelgeuse Romanée-Conti (WIP)
+
+Name in Japanese: ペテルギウス・ロマネコンティ
+
+Japanese speech quirks:
+
+First person pronoun – “ワタシ”, formerly “私” as Juice
+
+Second person pronoun – “アナタ”, formerly “あなた” as Juice
+
+English speech quirks:
+
+Whenever he does the DESU thing, bold the last word
+
+Y
+
+Notes:
+
+Also called “ジュース” (translated as “Juice”) by some characters (Beatrice, Emilia, Fortuna)
+
+Regulus Corneas (WIP)
+
+Name in Japanese: レグルス・コルニアス
+
+Japanese speech quirks:
+
+First person pronoun – “僕”
+
+Second person pronoun –
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Roy Alphard (WIP)
+
+Name in Japanese: ロイ・アルファルド
+
+Japanese speech quirks:
+
+First person pronouns – “俺たち” and “僕たち”
+
+X
+
+English speech quirks:
+
+Elongates small interjections with Katakana, as in “へェ” or “あァ”, which should have a tilde at the end, becoming “Heh~” and “Ah~” respectively;
+
+Tends to go on a limb with multiple similar expressions separated by a comma, an example and how to render below:
+
+<X>ね - “how <X>”
+
+<X>よ - “so <X>”
+
+<X>さ - “quite <X>”
+
+<X>とも - “very <X>”
+
+<X>から - “as it’s <X>”
+
+<X>じゃない - “isn’t it <X>”
+
+<X>だろうさ - “as it’s probably <X>”
+
+<X>かも - “perhaps it is <X>”
+
+<X>だろう - “surely it is <X>”
+
+<X>だろうから - “because surely it is <X>”
+
+<X>ともさ - “so quite <X>”
+
+<X>だろうとも - “certainly it is <X>”
+
+<X>だろうともさ - “certainly it is quite <X>”
+
+<X>だろうからこそ - “because it is certainly <X>”
+
+<X>って - “at/by how <X>”
+
+“暴飲ッ！ 暴食ッ！” - “暴飲” shall be “gluttonous drinking”, “暴食” shall be “gluttony”;
+
+The “tsus” (ッ) will be rendered with a single hyphen (-);
+
+Notes:
+
+None
+
+Sirius Romanée-Conti (WIP)
+
+Name in Japanese: シリウス・ロマネコンティ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Witches of Sin
+
+Carmilla (WIP)
+
+Name in Japanese: カーミラ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Daphne (WIP)
+
+Name in Japanese: ダフネ
+
+Japanese speech quirks:
+
+First person pronoun – “ダフネ”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Echidna (WIP)
+
+Name in Japanese: エキドナ
+
+Japanese speech quirks:
+
+First person pronoun – “ワタシ” (normal) and “ボク” (around Subaru, Emilia, and Al)
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Hector (WIP)
+
+Name in Japanese: ヘクトール
+
+Japanese speech quirks:
+
+First person pronoun – “己”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Minerva (WIP)
+
+Name in Japanese: ミネルヴァ
+
+Japanese speech quirks:
+
+First person pronoun – “あたし”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Pandora (WIP)
+
+Name in Japanese: パンドラ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Satella (WIP)
+
+Name in Japanese: サテラ
+
+Japanese speech quirks:
+
+First person pronoun – “私”
+
+愛してる
+
+English speech quirks:
+
+I love you.
+
+Notes:
+
+I love you.
+
+Sekhmet (WIP)
+
+Name in Japanese: セクメト
+
+Japanese speech quirks:
+
+First person pronoun – “あたし”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Typhon (WIP)
+
+Name in Japanese: テュフォン
+
+Japanese speech quirks:
+
+First person pronoun – “テュフォン”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Beloved Children
+
+Elsa Granhiert (WIP)
+
+Name in Japanese: エルザ・グランヒルテ
+
+Japanese speech quirks:
+
+First person pronoun – “私?”
+
+Second person pronoun – “あなた”
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Called the Bowel Hunter (“腸狩り”).
+
+Clarissa
+
+Name in Japanese: クラリッサ
+
+Japanese speech quirks:
+
+First person pronoun – 私
+
+Speaks hesitatingly, often with commas and ellipses interspersed throughout her speech to indicate her faltering speech.
+
+Uses polite speech
+
+English speech quirks:
+
+Commas used in the Japanese dialogue to indicate pauses in her speech where a comma would not usually be placed should be represented as ellipses. Commas where a comma would usually be placed should be treated normally. Use your judgement.
+
+Notes:
+
+Called the Shatterer (“割り物”).
+
+Where “割る” is used regarding her ability, it should be rendered as “shatter” when possible.
+
+Reborn
+
+Name in Japanese: リボーン
+
+Japanese speech quirks:
+
+First person pronoun – 俺
+
+Second person pronoun – てめえ
+
+Sometimes has small kana lengthenings (like だぁ).
+
+English speech quirks:
+
+A rough speech pattern with cursing as appropriate. Should generally seem ticked off about most things and people.
+
+His lengthenings in Japanese should be treated like Garfiel and not be rendered in English, but a high proportion of them (such as だぁまぁれぇ) indicates cursing where appropriate should be added.
+
+Notes:
+
+(Come back to add ability names)
+
+Arbalest
+
+Name in Japanese: アルバレスト
+
+Japanese speech quirks:
+
+First person pronoun – 我輩
+
+Second person pronoun – おぬし
+
+Likes to talk about things hypothetically often using “仮の話”.
+
+English speech quirks:
+
+Should sound a bit old-fashioned and be decently wordy and somewhat formal.
+
+Contractions should be quite limited, most often using uncontracted forms, but sometimes simple contractions such as “I’m”, “don’t”, etc. where it sounds better.
+
+“仮の話” or similar variations should use “hypothetically (speaking)” or other variations.
+
+Notes:
+
+In reference to his ability, “枷” should be translated as “restraint(s)” and “烙印” as “brand”.
+
+Tornel (WIP)
+
+Name in Japanese: トルネル
+
+Japanese speech quirks:
+
+First person pronoun – 僕
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Hair color is “chestnut” (“栗色”).
+
+Bellaris (WIP)
+
+Name in Japanese: ベラリス
+
+Japanese speech quirks:
+
+First person pronoun – わたし
+
+Doesn’t use polite speech, but does often use わ as a sentence ending particle.
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+Called the Ring Finger (“薬指”).
+
+Dandon
+
+Name in Japanese: ダンドン
+
+Japanese speech quirks:
+
+First person pronoun – 私
+
+Does this thing where he puts double bracket quotes around words that aren’t key terms, usually titles or descriptors..
+
+English speech quirks:
+
+Any non-key terms he puts in quotes should be rendered as normal with quotes around them.
+
+Notes:
+
+Lucciereca
+
+Name in Japanese: ルチエレカ
+
+Japanese speech quirks:
+
+First person pronoun – 私
+
+Second person pronoun – あなた
+
+Often starts her dialogue with “そうね”.
+
+Uses わ as a sentence ending particle.
+
+Not much polite speech, only seems to use “でしょう” and “ましょう” but not “です” and “ます”
+
+English speech quirks:
+
+Is super sycophantic and agrees with others a lot, while insulting them at the same time. The only exception so far is Dandon, whom she agrees with while insulting someone else.
+
+“そうね” at the start of dialogue should be translated as “That’s right”.
+
+Standard contraction usage.
+
+Notes:
+
+Others
+
+Sphinx
+
+Name in Japanese: スピンクス
+
+Japanese speech quirks:
+
+First person pronoun – “私”, later “ワタシ”
+
+Speaks robotically, without emotion
+
+English speech quirks:
+
+No contractions whatsoever
+
+Stiff and robotic, but should sound polite-ish
+
+Notes:
+
+Has a trait of speaking like “要・X”, to be localized as “X: Required”
+
+Copypaste backup because I’m a lazy bastard
+
+Name
+
+Name in Japanese:
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Name
+
+Name in Japanese:
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Name
+
+Name in Japanese:
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Name
+
+Name in Japanese:
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
+
+Name
+
+Name in Japanese:
+
+Japanese speech quirks:
+
+First person pronoun – “”
+
+X
+
+English speech quirks:
+
+X
+
+Y
+
+Notes:
+
+None
