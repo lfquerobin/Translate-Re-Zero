@@ -2,11 +2,9 @@
 
 Gerado de [projeto.json](projeto.json). Atualizar o registro e executar `python tools/verificar_projeto.py --atualizar-indices`; não editar esta vista à mão.
 
-Versão da obra: **web novel**. Datas de publicação e créditos de cada fonte inglesa estão no registro e nos cabeçalhos; as datas das colunas abaixo indicam revisão.
+Versão da obra: **web novel**. As datas das colunas abaixo indicam quando cada etapa foi conferida.
 
-**Fidelidade registrada no histórico** remete ao cotejo integral documentado em [GLOSSÁRIO.md](GLOSSÁRIO.md), não a uma nova comparação integral feita ao organizar este índice. **Naturalidade pendente** exige releitura contínua após a formatação dos diálogos. O ajuste dos dez trechos incorporados à narração foi conferido localmente; essa conferência não substitui a releitura integral.
-
-Uma dúvida de falante pode continuar aberta mesmo com cotejo registrado. Anonimato da narrativa não é pendência de tradução.
+As dúvidas de falante e as ocorrências de anonimato narrativo estão documentadas em [PENDÊNCIAS.md](PENDÊNCIAS.md).
 
 | Arco / capítulo | Fontes | Fidelidade | Naturalidade | Falantes | Formato |
 | --- | --- | --- | --- | --- | --- |

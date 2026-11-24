@@ -76,6 +76,8 @@ Ao entregar uma tradução, apresentar antes do corpo o cabeçalho completo, com
 
 Não inventar título ou link: solicitar o que faltar. Para data ou crédito ausentes na fonte, indicar que não foram informados. Não confundir autor da obra ou responsável pela postagem com tradutor. A data do japonês não substitui a da tradução intermediária apresentada no cabeçalho.
 
+Use um link Markdown com o nome da fonte e termine as três primeiras linhas com dois espaços para manter as quebras na renderização. Deixe uma linha em branco antes do separador final do capítulo.
+
 Sempre salvar o texto integral revisado, com cabeçalho, na pasta do arco ou fase deste repositório e no formato existente; entregar no chat não substitui salvar. O nome do arquivo deve conservar o título do cabeçalho, suas aspas internas e externas e sua pontuação. No Windows, substituir aspas retas duplas por aspas tipográficas de abertura e fechamento apenas no nome do arquivo, preservando a hierarquia; essa exceção não vale para o corpo.
 
 Salvar as traduções com a numeração seguida do título, sem emojis, conforme o modelo `015. Arco 1, Capítulo 14 – “Na quarta vez é que dá certo”.md`. Registrar as etapas de revisão em `projeto.json`.

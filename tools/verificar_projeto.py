@@ -42,6 +42,8 @@ def verificar_texto(texto: str, arquivo: str, capitulo: dict, variantes: list) -
             add("ERRO", "cabecalho", n, f"Preencher a linha inteira em negrito: {campo}.")
         else:
             cabecalho[campo] = match[1].strip()
+            if n < len(CAMPOS) and not linha.endswith("  "):
+                add("ERRO", "quebra_cabecalho", n, "Terminar a linha com dois espaços para a quebra em Markdown.")
     titulo = cabecalho.get("Título")
     if titulo:
         # Só as aspas retas duplas admitem substituição no nome do arquivo Windows.
@@ -50,9 +52,9 @@ def verificar_texto(texto: str, arquivo: str, capitulo: dict, variantes: list) -
         nome = PREFIXO_ARQUIVO.sub("", Path(arquivo).stem)
         if nome != titulo_windows:
             add("ERRO", "titulo_arquivo", 1, "O título do cabeçalho difere do nome do arquivo.")
-    links = re.findall(r"https?://[^)\s]+", cabecalho.get("Link", ""))
-    if links != [capitulo["fontes"]["ingles"]]:
-        add("ERRO", "link_fonte", 2, "O link do cabeçalho deve corresponder à fonte inglesa registrada.")
+    link = re.fullmatch(r"\[[^\[\]]+\]\((https?://[^)\s]+)\)", cabecalho.get("Link", ""))
+    if not link or link[1] != capitulo["fontes"]["ingles"]:
+        add("ERRO", "link_fonte", 2, "Usar um link Markdown que corresponda à fonte inglesa registrada.")
     if "Data de publicação" in cabecalho:
         meses = ("janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro").split()
         publicacao = capitulo["fontes"].get("publicacao_ingles")
@@ -67,6 +69,8 @@ def verificar_texto(texto: str, arquivo: str, capitulo: dict, variantes: list) -
     conteudo = [(n, l) for n, l in enumerate(linhas, 1) if n > 4 and l.strip()]
     if not conteudo or not conteudo[0][1].startswith("※") or not conteudo[-1][1].startswith("※"):
         add("ERRO", "limites_capitulo", 5, "Conferir os separadores inicial e final do capítulo.")
+    elif len(conteudo) > 1 and conteudo[-1][0] == conteudo[-2][0] + 1:
+        add("ERRO", "limites_capitulo", conteudo[-1][0], "Deixar uma linha em branco antes do separador final.")
     aberturas = []
     for n, linha in enumerate(linhas, 1):
         if "\ufffd" in linha:
@@ -208,7 +212,7 @@ def gerar_vistas(dados: dict, textos: dict[str, str]) -> dict[str, str]:
     anonimos = [o for o in dados["ocorrencias_anonimas"] if o["tipo"] == "anonimato_narrativo"]
     pendentes = [o for o in dados["ocorrencias_anonimas"] if o["tipo"] == "atribuicao_pendente"]
     abertos = [o for o in pendentes if o["estado"] == "aberta"]
-    indice = ["# Acompanhamento da tradução", "", "Gerado de [projeto.json](projeto.json). Atualizar o registro e executar `python tools/verificar_projeto.py --atualizar-indices`; não editar esta vista à mão.", "", f"Versão da obra: **{dados['versao']}**. Datas de publicação e créditos de cada fonte inglesa estão no registro e nos cabeçalhos; as datas das colunas abaixo indicam revisão.", "", "**Fidelidade registrada no histórico** remete ao cotejo integral documentado em [GLOSSÁRIO.md](GLOSSÁRIO.md), não a uma nova comparação integral feita ao organizar este índice. **Naturalidade pendente** exige releitura contínua após a formatação dos diálogos. O ajuste dos dez trechos incorporados à narração foi conferido localmente; essa conferência não substitui a releitura integral.", "", "Uma dúvida de falante pode continuar aberta mesmo com cotejo registrado. Anonimato da narrativa não é pendência de tradução.", "", "| Arco / capítulo | Fontes | Fidelidade | Naturalidade | Falantes | Formato |", "| --- | --- | --- | --- | --- | --- |"]
+    indice = ["# Acompanhamento da tradução", "", "Gerado de [projeto.json](projeto.json). Atualizar o registro e executar `python tools/verificar_projeto.py --atualizar-indices`; não editar esta vista à mão.", "", f"Versão da obra: **{dados['versao']}**. As datas das colunas abaixo indicam quando cada etapa foi conferida.", "", "As dúvidas de falante e as ocorrências de anonimato narrativo estão documentadas em [PENDÊNCIAS.md](PENDÊNCIAS.md).", "", "| Arco / capítulo | Fontes | Fidelidade | Naturalidade | Falantes | Formato |", "| --- | --- | --- | --- | --- | --- |"]
     for c in caps:
         fontes = f"[JP]({c['fontes']['japones']}) / [EN]({c['fontes']['ingles']})"
         valores = [f"{c['arco']} / {link_capitulo(c)}", fontes] + [etapa(c["revisoes"][e]) for e in ("fidelidade", "naturalidade", "falantes", "formato")]

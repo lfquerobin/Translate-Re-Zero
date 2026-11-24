@@ -48,6 +48,10 @@ class RegrasEditoriais(unittest.TestCase):
         self.assertIn("link_fonte", codigos(texto().replace("https://example.org/en/1/", "https://example.org/en/9/")))
         self.assertIn("data_fonte", codigos(texto().replace("19 de maio", "20 de maio")))
 
+    def test_quebra_de_linha_e_link_do_cabecalho(self):
+        self.assertIn("quebra_cabecalho", codigos(texto().replace("**  \n", "**\n", 1)))
+        self.assertIn("link_fonte", codigos(texto().replace("[Fonte](https://example.org/en/1/)", "https://example.org/en/1/")))
+
     def test_data_nao_informada_nao_e_inventada(self):
         c = deepcopy(CAPITULO); c["fontes"]["publicacao_ingles"] = None
         self.assertNotIn("data_fonte", codigos(texto().replace("19 de maio de 2021", "Não informada na fonte"), c))
@@ -56,6 +60,7 @@ class RegrasEditoriais(unittest.TestCase):
         self.assertIn("colchete", codigos(texto("Subaru: [Fala sem fechar.")))
         self.assertIn("colchete", codigos(texto("Subaru: [Fala.]]")))
         self.assertIn("limites_capitulo", codigos(texto().rstrip().removesuffix("※　※　※")))
+        self.assertIn("limites_capitulo", codigos(texto().replace("[Olá.]\n\n※", "[Olá.]\n※")))
 
     def test_rotulo_repetido_na_narracao_e_marcacao_suspeita(self):
         self.assertIn("rotulo_incorporado", codigos(texto("Subaru: [Olá.]\n\nEnquanto o outro observava, o rapaz resolveu continuar a conversa: Subaru: [Certo.]")))
