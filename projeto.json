@@ -888,6 +888,40 @@
           "observacao": "Conferidos cabeçalho, crédito, data, nome, separadores, duas seções, diálogos e posição das duas ilustrações da Eminent."
         }
       }
+    },
+    {
+      "id": "A02-C03",
+      "arco": 2,
+      "capitulo": 3,
+      "arquivo": "002. Arco 2 – Uma Semana Tumultuada/027. Arco 2, Capítulo 3 – “Não posso ser noiva”.md",
+      "fontes": {
+        "japones": "https://ncode.syosetu.com/n2267be/27/",
+        "ingles": "https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-3",
+        "publicacao_ingles": "2020-10-25",
+        "credito_ingles": "Eminent (japonês para inglês)"
+      },
+      "revisoes": {
+        "fidelidade": {
+          "estado": "concluida",
+          "data": "2026-11-25",
+          "observacao": "Cotejo integral com a web novel japonesa e o anexo inglês. Os 88 parágrafos em inglês coincidem com a publicação da Eminent. Restituídos o sentido do compromisso de Emilia, a continuidade do agradecimento, as cores das peças do agasalho e as ações na cena final."
+        },
+        "naturalidade": {
+          "estado": "concluida",
+          "data": "2026-11-25",
+          "observacao": "Releitura contínua em português e novo cotejo dos trechos reformulados, com atenção ao ritmo das provocações das gêmeas, ao embaraço de Subaru e à retomada da fala do título."
+        },
+        "falantes": {
+          "estado": "conferida",
+          "data": "2026-11-25",
+          "observacao": "Atribuições conferidas pelo original e pela cena anterior, com atenção às trocas entre Rem e Ram e às falas incorporadas à narração."
+        },
+        "formato": {
+          "estado": "conferida",
+          "data": "2026-11-25",
+          "observacao": "Conferidos cabeçalho, nome do arquivo, data e crédito da página inglesa, separadores e marcações. A publicação tem uma seção contínua, sem notas ou ilustrações no corpo."
+        }
+      }
     }
   ],
   "ocorrencias_anonimas": [

@@ -142,6 +142,11 @@ Fonte: [interlúdio do Arco 1](https://ncode.syosetu.com/n2267be/24/), cotejado 
 - **Betty na biblioteca.** Alterna perguntas que desafiam Subaru com afirmações incisivas. “É claro que Betty é bonita” conserva a referência a si mesma em terceira pessoa. Em “Se vai doer ou não, isso depende de você, não acha?”, a volta à forma interrogativa sustenta a provocação. [Original japonês](https://ncode.syosetu.com/n2267be/26/)
 - **Rem e Ram à cabeceira.** O período “Que coisa de imprestável para se dizer. Ouviu, irmã?” preserva a polidez de Rem e o tratamento deferente à irmã. Ram acompanha a mesma cadência, mas responde com um insulto mais específico, sobre viver às custas dos outros. Cada uma usa o próprio nome ao pedir que Subaru a poupe. [Original japonês](https://ncode.syosetu.com/n2267be/26/)
 
+## Subaru, Emilia, Rem e Ram — Arco 2, capítulo 3
+
+- **Subaru diante de Emilia.** O brincalhão “mamãe” dá lugar à hesitação em “É que… bom, você lembra mesmo de mim?”. Mais tarde, ele tenta disfarçar o embaraço chamando Emilia de “meu irmão”. Ela acompanha a brincadeira com “irmão caçula”. [Original japonês](https://ncode.syosetu.com/n2267be/27/)
+- **Rem e Ram diante de Emilia.** “Escute, por favor, senhora Emilia” conserva a deferência de Rem, enquanto “Escute só, senhora Emilia” preserva a familiaridade maior de Ram. As duas deixam para o fim da acusação quem teria sido a vítima e, ao responder à repreensão, cada uma declara o arrependimento da outra. [Original japonês](https://ncode.syosetu.com/n2267be/27/)
+
 ## Uso nas próximas revisões
 
 Consultar os exemplos junto do capítulo de origem e comparar o interlocutor, a situação e a intensidade da nova cena. Ampliar esta ficha somente com observações verificadas e referências específicas; corrigir exemplos quando uma revisão alterar a tradução adotada. As observações gerais do Manual da WCT continuam separadas em `GLOSSÁRIO.md`.

@@ -315,3 +315,17 @@ A comparação do texto do Manual da WCT com a captura de 21/11/2026 não encont
 - **Diferenças de sentido.** Subaru conta em voz alta a história do piso, que envolve a reforma de dois cômodos. Betty consulta a mana e observa a forma da alma (魂の形). Em outra fala, a cobrança de mana compensa os desaforos de Subaru. Na cena final, cada gêmea atribui à outra a humilhação imaginada. A porta já está aberta quando a visitante bate nela. [Original japonês](https://ncode.syosetu.com/n2267be/26/) · [Fonte inglesa](https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-2)
 
 A comparação textual com o Manual da WCT online encontrou o mesmo conteúdo da captura de 24/11/2026. Para o capítulo, foram consultadas as fichas de Betty, Ram e Rem. [Captura do manual](Referências/WCT/README.md)
+
+## Arco 2 — Capítulo 3
+
+| Termo na fonte inglesa | Tradução adotada | Termo japonês | Observação e fonte |
+| --- | --- | --- | --- |
+| contract | compromisso | 誓約 | Emilia inclui a conversa matinal em um dos compromissos que assumiu. A fala não identifica com quem. [Original japonês](https://ncode.syosetu.com/n2267be/27/) |
+| samue | *samue* | 作務衣 | Mantido o nome da peça na comparação com a roupa que Subaru veste ao acordar. [Original japonês](https://ncode.syosetu.com/n2267be/27/) |
+| tracksuit | agasalho esportivo | ジャージ | Retoma a tradução de *jersey* no Arco 1. 桃色 e 水色 descrevem a jaqueta rosa e a calça azul-clara, respectivamente. [Original japonês](https://ncode.syosetu.com/n2267be/27/) |
+| imprinted onto you | que nem um patinho que acabou de sair do ovo | 刷り込み | Adaptação deliberada da referência à impressão comportamental. A imagem em português prepara o chamado “mamãe” na mesma fala. [Original japonês](https://ncode.syosetu.com/n2267be/27/) |
+
+- **Tratamentos.** “Senhora Emilia” mantém エミリア様 nas falas das gêmeas. “Emilia-tan” conserva o apelido já adotado e a pergunta de Emilia sobre o sufixo. “Meu irmão” para 兄弟 prepara a resposta com “irmão caçula” (弟). [Original japonês](https://ncode.syosetu.com/n2267be/27/)
+- **Diferenças de sentido.** Ao agradecer, Emilia muda de assunto com そうじゃなかった e, mais adiante, confirma que cuidou de Subaru. A descrição do agasalho enumera as cores das peças. O consolo à porta desencadeia o choro, cujo fecho contrapõe 男の子的な事情 e 女々しく, aqui “feito menina por motivos de menino”. [Original japonês](https://ncode.syosetu.com/n2267be/27/) · [Fonte inglesa](https://eminenttranslations.com/reader/rezero-starting-life-in-another-world-wn/volume-2/chapter-3)
+
+Em 25/11/2026, a comparação do texto do Manual da WCT online com a captura de 24/11/2026 encontrou o mesmo conteúdo. Foram consultadas as fichas de Subaru, Emilia, Ram e Rem. [Captura do manual](Referências/WCT/README.md)
